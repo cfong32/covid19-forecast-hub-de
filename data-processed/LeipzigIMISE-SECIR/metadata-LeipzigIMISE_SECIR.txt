@@ -11,6 +11,7 @@ team_model_designation: primary
 data_inputs: RKI and DIVI, ECDC, age distributions for cases and deaths from RKI as described in methods, case & ICU  & death counts
 methods: SECIR type model 
 methods_long: 
+	2021-03-15 - present		Improving transformation daily-weekly inc predictions 
 	2021-03-01 - present		Accounting for higher infectivity for a second mutanted virus by adding additionals compartments in the SECIR model for Saxony (not for Germany, yet)
 	2020-11-17 - 2021-02-24		BUG in cumulative weekly data present. Submissions in this time-period may sometimes be considerably too low compared with submitted weekly incident data. Bug occurred 	
 								when transforming the daily data from the model to weekly cumulative data. Submitted weekly incident predictions are not affected. Weekly cumulative predictions remain in the repo. Submitted daily predictions from this period are also affected as submitted daily predictions are intermediate values from the transforming of the originally daily forecasts to the cumulative weekly forecasts. As daily predictions of test-positives and died persons are not used in the preregistered evaluation period, they will be removed from the repo. Daily and weekly ICU predictions are not affected and will also remain in the repo.
