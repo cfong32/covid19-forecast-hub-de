@@ -18,6 +18,12 @@ Tue 19 Jan: Not inlcuding ITWW into death ensembles due to very narrow predictio
 Tue 2 Feb: Excluding time series baseline from death forecasts in Germany as pattern looks very implausible. ITWW forecasts not included due to very narrow prediction bands.
 Tue 9 Feb: not including ITWW in death ensembles as forecastin intervals are very narrow.
 Tue 16 Feb: not including ITWW in death ensembles as forecastin intervals are very narrow. Not including USC in cumulative ensembles as forecast uncertainty does not grow with horizon. 
+Tue 23 Feb: ITWW ecluded from death ensemble as very sharp. KIT-time_series_baseline forecasts for cases, Poland excluded due to implausible shape.
+Tue 3 Mar: ITWW and MIMUW ecluded from death ensemble as very sharp. KIT-time_series_baseline and USC forecasts for cases excluded due to implausible shape.
+Tue 9 March: MIT_CovidAnalytics not included in case ensemble due to implausible pattern. ITWW not included in death forecasts due to implausible pattern. MIMUW not included in death ensemble as very narrow. ICM not included in case forecasts due to implausible pattern (strongly down, then up again). KIT-time_series_baseline excluded from case forecasts due to implausible pattern.
+Tue 16 March: MIT_CovidAnalytics not included in case ensemble due to implausible pattern. ITWW not included in death forecasts due to implausible pattern. MIMUW not included in death ensemble as very narrow.
+Tue 23 Mar: Time series baseline excluded from deaths Poland as very implausible. USC excluded due to several implausible patterns.
+
 
 ### Documentation of forecast revisions and late inclusions:
 

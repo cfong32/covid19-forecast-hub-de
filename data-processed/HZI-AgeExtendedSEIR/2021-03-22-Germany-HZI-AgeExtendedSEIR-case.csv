@@ -1,0 +1,5 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+"2021-03-22","1 wk ahead inc case","2021-03-27","GM","point",NA,107162.6727579
+"2021-03-22","2 wk ahead inc case","2021-04-03","GM","point",NA,130194.310347122
+"2021-03-22","3 wk ahead inc case","2021-04-10","GM","point",NA,156857.235591612
+"2021-03-22","4 wk ahead inc case","2021-04-17","GM","point",NA,186946.169349461
