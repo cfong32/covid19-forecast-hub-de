@@ -26,3 +26,16 @@ Karlen-pypm,ECDC
 epiforecasts-EpiNow2_secondary ,ECDC
 KIT-extrapolation_baseline,ECDC
 itwm-dSEIR,ECDC
+HZI-AgeExtendedSEIR,JHU
+epiforecasts-EpiExpert,JHU
+epiforecasts-EpiExpert,JHU
+IEM_Health-CovidProject,JHU
+ILM-EKF,JHU
+Priesemann-bayes,JHU
+RobertWalraven-ESG,JHU
+UMass-MechBayes,JHU
+UMass-SemiMech,JHU
+UNIPV-BayesINGARCHX,JHU
+USyd-OneModelMan,JHU
+bisop-seirfilterlite,JHU
+bisop-seirfilter,JHU

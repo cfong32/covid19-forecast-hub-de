@@ -1,0 +1,5 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+"2021-04-05","1 wk ahead inc death","2021-04-10","GM","point",NA,1008.76388386
+"2021-04-05","2 wk ahead inc death","2021-04-17","GM","point",NA,1027.94355165
+"2021-04-05","3 wk ahead inc death","2021-04-24","GM","point",NA,1070.76154628
+"2021-04-05","4 wk ahead inc death","2021-05-01","GM","point",NA,1136.38601775
