@@ -502,3 +502,5 @@ epiforecasts-EpiNow2_secondary,GM15,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,GM16,ECDC,2020-01-01
 UVA-Ensemble,GM,JHU,2020-01-01
 UVA-Ensemble,PL,JHU,2020-01-01
+EuroCOVIDhub-ensemble,GM,JHU,2020-01-01
+EuroCOVIDhub-ensemble,PL,JHU,2020-01-01
