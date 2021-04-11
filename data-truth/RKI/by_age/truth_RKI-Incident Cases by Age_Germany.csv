@@ -44150,3 +44150,122 @@ date,location,location_name,age_group,value
 2021-04-10,GM16,Berlin State,A60-A79,134
 2021-04-10,GM16,Berlin State,A80+,18
 2021-04-10,GM16,Berlin State,unbekannt,5
+2021-04-11,GM,Germany,A00-A04,659
+2021-04-11,GM,Germany,A05-A14,1725
+2021-04-11,GM,Germany,A15-A34,5655
+2021-04-11,GM,Germany,A35-A59,6812
+2021-04-11,GM,Germany,A60-A79,2417
+2021-04-11,GM,Germany,A80+,513
+2021-04-11,GM,Germany,unbekannt,74
+2021-04-11,GM01,Baden-Württemberg State,A00-A04,115
+2021-04-11,GM01,Baden-Württemberg State,A05-A14,237
+2021-04-11,GM01,Baden-Württemberg State,A15-A34,883
+2021-04-11,GM01,Baden-Württemberg State,A35-A59,1047
+2021-04-11,GM01,Baden-Württemberg State,A60-A79,332
+2021-04-11,GM01,Baden-Württemberg State,A80+,59
+2021-04-11,GM01,Baden-Württemberg State,unbekannt,2
+2021-04-11,GM02,Free State of Bavaria,A00-A04,63
+2021-04-11,GM02,Free State of Bavaria,A05-A14,161
+2021-04-11,GM02,Free State of Bavaria,A15-A34,593
+2021-04-11,GM02,Free State of Bavaria,A35-A59,718
+2021-04-11,GM02,Free State of Bavaria,A60-A79,231
+2021-04-11,GM02,Free State of Bavaria,A80+,57
+2021-04-11,GM02,Free State of Bavaria,unbekannt,3
+2021-04-11,GM03,Free Hanseatic City of Bremen,A00-A04,11
+2021-04-11,GM03,Free Hanseatic City of Bremen,A05-A14,13
+2021-04-11,GM03,Free Hanseatic City of Bremen,A15-A34,38
+2021-04-11,GM03,Free Hanseatic City of Bremen,A35-A59,50
+2021-04-11,GM03,Free Hanseatic City of Bremen,A60-A79,9
+2021-04-11,GM03,Free Hanseatic City of Bremen,A80+,0
+2021-04-11,GM03,Free Hanseatic City of Bremen,unbekannt,0
+2021-04-11,GM04,Free Hanseatic City of Hamburg,A00-A04,19
+2021-04-11,GM04,Free Hanseatic City of Hamburg,A05-A14,69
+2021-04-11,GM04,Free Hanseatic City of Hamburg,A15-A34,186
+2021-04-11,GM04,Free Hanseatic City of Hamburg,A35-A59,162
+2021-04-11,GM04,Free Hanseatic City of Hamburg,A60-A79,58
+2021-04-11,GM04,Free Hanseatic City of Hamburg,A80+,4
+2021-04-11,GM04,Free Hanseatic City of Hamburg,unbekannt,0
+2021-04-11,GM05,Hesse State,A00-A04,45
+2021-04-11,GM05,Hesse State,A05-A14,152
+2021-04-11,GM05,Hesse State,A15-A34,551
+2021-04-11,GM05,Hesse State,A35-A59,642
+2021-04-11,GM05,Hesse State,A60-A79,179
+2021-04-11,GM05,Hesse State,A80+,32
+2021-04-11,GM05,Hesse State,unbekannt,4
+2021-04-11,GM06,Lower Saxony State,A00-A04,54
+2021-04-11,GM06,Lower Saxony State,A05-A14,164
+2021-04-11,GM06,Lower Saxony State,A15-A34,525
+2021-04-11,GM06,Lower Saxony State,A35-A59,567
+2021-04-11,GM06,Lower Saxony State,A60-A79,173
+2021-04-11,GM06,Lower Saxony State,A80+,40
+2021-04-11,GM06,Lower Saxony State,unbekannt,5
+2021-04-11,GM07,North Rhine-Westphalia State,A00-A04,169
+2021-04-11,GM07,North Rhine-Westphalia State,A05-A14,437
+2021-04-11,GM07,North Rhine-Westphalia State,A15-A34,1471
+2021-04-11,GM07,North Rhine-Westphalia State,A35-A59,1560
+2021-04-11,GM07,North Rhine-Westphalia State,A60-A79,513
+2021-04-11,GM07,North Rhine-Westphalia State,A80+,127
+2021-04-11,GM07,North Rhine-Westphalia State,unbekannt,49
+2021-04-11,GM08,Rhineland-Palatinate State,A00-A04,26
+2021-04-11,GM08,Rhineland-Palatinate State,A05-A14,61
+2021-04-11,GM08,Rhineland-Palatinate State,A15-A34,176
+2021-04-11,GM08,Rhineland-Palatinate State,A35-A59,182
+2021-04-11,GM08,Rhineland-Palatinate State,A60-A79,69
+2021-04-11,GM08,Rhineland-Palatinate State,A80+,15
+2021-04-11,GM08,Rhineland-Palatinate State,unbekannt,4
+2021-04-11,GM09,Saarland State,A00-A04,9
+2021-04-11,GM09,Saarland State,A05-A14,42
+2021-04-11,GM09,Saarland State,A15-A34,94
+2021-04-11,GM09,Saarland State,A35-A59,87
+2021-04-11,GM09,Saarland State,A60-A79,39
+2021-04-11,GM09,Saarland State,A80+,0
+2021-04-11,GM09,Saarland State,unbekannt,0
+2021-04-11,GM10,Schleswig-Holstein State,A00-A04,19
+2021-04-11,GM10,Schleswig-Holstein State,A05-A14,44
+2021-04-11,GM10,Schleswig-Holstein State,A15-A34,128
+2021-04-11,GM10,Schleswig-Holstein State,A35-A59,127
+2021-04-11,GM10,Schleswig-Holstein State,A60-A79,39
+2021-04-11,GM10,Schleswig-Holstein State,A80+,15
+2021-04-11,GM10,Schleswig-Holstein State,unbekannt,3
+2021-04-11,GM11,Brandenburg State,A00-A04,14
+2021-04-11,GM11,Brandenburg State,A05-A14,36
+2021-04-11,GM11,Brandenburg State,A15-A34,116
+2021-04-11,GM11,Brandenburg State,A35-A59,181
+2021-04-11,GM11,Brandenburg State,A60-A79,86
+2021-04-11,GM11,Brandenburg State,A80+,19
+2021-04-11,GM11,Brandenburg State,unbekannt,-1
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,A00-A04,18
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,A05-A14,51
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,A15-A34,66
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,A35-A59,116
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,A60-A79,70
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,A80+,16
+2021-04-11,GM12,Mecklenburg-Western Pomerania State,unbekannt,0
+2021-04-11,GM13,Free State of Saxony,A00-A04,18
+2021-04-11,GM13,Free State of Saxony,A05-A14,94
+2021-04-11,GM13,Free State of Saxony,A15-A34,295
+2021-04-11,GM13,Free State of Saxony,A35-A59,519
+2021-04-11,GM13,Free State of Saxony,A60-A79,233
+2021-04-11,GM13,Free State of Saxony,A80+,51
+2021-04-11,GM13,Free State of Saxony,unbekannt,1
+2021-04-11,GM14,Sachsen-Anhalt State,A00-A04,21
+2021-04-11,GM14,Sachsen-Anhalt State,A05-A14,73
+2021-04-11,GM14,Sachsen-Anhalt State,A15-A34,157
+2021-04-11,GM14,Sachsen-Anhalt State,A35-A59,307
+2021-04-11,GM14,Sachsen-Anhalt State,A60-A79,124
+2021-04-11,GM14,Sachsen-Anhalt State,A80+,29
+2021-04-11,GM14,Sachsen-Anhalt State,unbekannt,1
+2021-04-11,GM15,Free State of Thuringia,A00-A04,26
+2021-04-11,GM15,Free State of Thuringia,A05-A14,38
+2021-04-11,GM15,Free State of Thuringia,A15-A34,176
+2021-04-11,GM15,Free State of Thuringia,A35-A59,296
+2021-04-11,GM15,Free State of Thuringia,A60-A79,172
+2021-04-11,GM15,Free State of Thuringia,A80+,35
+2021-04-11,GM15,Free State of Thuringia,unbekannt,0
+2021-04-11,GM16,Berlin State,A00-A04,32
+2021-04-11,GM16,Berlin State,A05-A14,53
+2021-04-11,GM16,Berlin State,A15-A34,200
+2021-04-11,GM16,Berlin State,A35-A59,251
+2021-04-11,GM16,Berlin State,A60-A79,90
+2021-04-11,GM16,Berlin State,A80+,14
+2021-04-11,GM16,Berlin State,unbekannt,3
