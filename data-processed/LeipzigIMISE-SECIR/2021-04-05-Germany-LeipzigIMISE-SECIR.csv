@@ -95,199 +95,199 @@
 "2021-04-05","4 wk ahead inc death","2021-05-01","GM","quantile",0.975,7186.48625513606
 "2021-04-05","4 wk ahead inc death","2021-05-01","GM","quantile",0.99,8566.99538205553
 "2021-04-05","4 wk ahead inc death","2021-05-01","GM","quantile",0.5,1118.00377697043
-"2021-04-05","-1 wk ahead cum death",2021-03-27,"GM13","Free State of Saxony","observed",NA,8332
-"2021-04-05","0 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","observed",NA,8434
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","point",NA,8509.52190024527
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","point",NA,8603.42919792519
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","point",NA,8704.63625867128
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","point",NA,8817.03281130525
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.01,8469.58337503767
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.01,8489.57661758883
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.01,8499.47174540807
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.01,8504.04811973603
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.025,8474.95800364946
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.025,8502.29760023374
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.025,8518.05862893264
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.025,8526.8542351162
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.05,8479.93463442056
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.05,8514.60151481757
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.05,8536.9867294316
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.05,8550.98053518498
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.1,8486.17494480479
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.1,8530.74056441838
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.1,8562.59799420066
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.1,8584.7854149514
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.15,8490.65132714769
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.15,8542.86055069778
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.15,8582.4139012761
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.15,8611.67171246758
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.2,8494.45189825394
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.2,8553.24922452133
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.2,8599.80590623992
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.2,8635.68476323798
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.25,8497.87918762751
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.25,8562.791862899
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.25,8615.94777854168
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.25,8658.23925097335
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.3,8501.05509626421
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.3,8571.90366732378
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.3,8631.68328880535
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.3,8680.62691047737
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.35,8504.0941440376
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.35,8580.69659557521
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.35,8647.11094705523
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.35,8703.08754268237
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.4,8507.09316922438
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.4,8589.49196920721
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.4,8662.82638307644
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.4,8726.52146196885
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.45,8510.04959053124
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.45,8598.34088882539
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.45,8678.97725749552
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.45,8751.26520535676
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.5,8513.10807809667
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.5,8607.48589042798
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.5,8696.00772834331
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.5,8778.1477549607
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.55,8516.26298085697
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.55,8617.1040179978
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.55,8714.29399755345
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.55,8807.82394004287
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.6,8519.57414776865
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.6,8627.44666090603
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.6,8734.45015946609
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.6,8841.6418498687
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.65,8523.11804100928
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.65,8638.80091042423
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.65,8757.07096441378
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.65,8881.04014940592
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.7,8527.00160568772
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.7,8651.67170621331
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.7,8783.30482682709
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.7,8927.68312374316
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.75,8531.44608461422
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.75,8666.89759029202
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.75,8814.64871379886
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.75,8982.34162696448
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.8,8536.59636936572
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.8,8685.51629089753
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.8,8852.74558045829
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.8,9046.99450967032
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.85,8543.01537841616
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.85,8709.66367414238
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.85,8901.58897810883
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.85,9131.63682870266
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.9,8551.70369209471
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.9,8743.42140585771
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.9,8973.07227762639
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.9,9272.35393786398
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.95,8565.8007065144
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.95,8800.07356817426
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.95,9106.89611424571
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.95,9554.74691035895
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.975,8579.07640864265
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.975,8855.74920462219
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.975,9238.99737956462
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.975,9871.18355850867
-"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.99,8595.24781598565
-"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.99,8936.64907078192
-"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.99,9632.27490888996
-"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","Free State of Saxony","quantile",0.99,11141.1372590604
-"2021-04-05","-1 wk ahead inc death",2021-03-27,"GM13","Free State of Saxony","observed",NA,125
-"2021-04-05","0 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","observed",NA,102
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","point",NA,100.822363810953
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","point",NA,94.3778123313133
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","point",NA,88.5218379153257
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","point",NA,82.140026617389
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.01,57.297660751958
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.025,62.6722893637504
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.05,67.6489201348473
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.1,73.8892305190779
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.15,78.3656128619728
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.2,82.1661839682209
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.25,85.5934733417999
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.3,88.7693819784935
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.35,91.8084297518826
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.4,94.8074549386703
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.45,97.7638762455245
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.55,103.977266571253
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.6,107.288433482934
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.65,110.832326723562
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.7,114.715891402002
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.75,119.160370328507
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.8,124.310655080011
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.85,130.729664130451
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.9,139.417977808999
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.95,153.514992228684
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.975,166.79069435694
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.99,182.962101699931
-"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.5,100.822363810953
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.01,19.9932425511541
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.025,27.3395965842792
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.05,34.66688039701
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.1,44.5656196135911
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.15,52.2092235500974
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.2,58.7973262673929
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.25,64.9126752714829
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.3,70.8485710595696
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.35,76.6024515376123
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.4,82.39879998283
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.45,88.2912982941537
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.55,100.841037140829
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.6,107.872513137381
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.65,115.682869414951
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.7,124.670100525599
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.75,135.451505677797
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.8,148.919921531801
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.85,166.648295726212
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.9,191.717713762996
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.95,234.272861659858
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.975,276.672795979538
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.99,341.401254796271
-"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.5,94.3778123313133
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.01,9.89512781924649
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.025,15.7610286988937
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.05,22.3852146140241
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.1,31.8574297822741
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.15,39.5533505783197
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.2,46.5566817185878
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.25,53.1559156426811
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.3,59.7796214815698
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.35,66.4143514800231
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.4,73.3344138692278
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.45,80.6363686701216
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.55,97.189979555655
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.6,107.003498560055
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.65,118.270053989554
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.7,131.633120613776
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.75,147.751123506845
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.8,167.229289560767
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.85,191.925303966448
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.9,229.650871768682
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.95,306.82254607145
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.975,383.248174942426
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.99,695.625838108045
-"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.5,88.5218379153257
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.01,4.57637432795789
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.025,8.79560618356581
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.05,13.9938057533809
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.1,22.1874207507462
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.15,29.257811191474
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.2,35.8788569980638
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.25,42.2914724316772
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.3,48.9436216720264
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.35,55.9765956271375
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.4,63.6950788924113
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.45,72.287947861246
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.55,93.5299424894175
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.6,107.191690402619
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.65,123.969184992142
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.7,144.378296916066
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.75,167.692913165621
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.8,194.248929212024
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.85,230.047850593838
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.9,299.28166023759
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.95,447.850796113247
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.975,632.186178944055
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.99,1508.86235017046
-"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","Free State of Saxony","quantile",0.5,82.140026617389
+"2021-04-05","-1 wk ahead cum death",2021-03-27,"GM13","observed",NA,8332
+"2021-04-05","0 wk ahead cum death",2021-04-03,"GM13","observed",NA,8434
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","point",NA,8509.52190024527
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","point",NA,8603.42919792519
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","point",NA,8704.63625867128
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","point",NA,8817.03281130525
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.01,8469.58337503767
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.01,8489.57661758883
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.01,8499.47174540807
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.01,8504.04811973603
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.025,8474.95800364946
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.025,8502.29760023374
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.025,8518.05862893264
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.025,8526.8542351162
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.05,8479.93463442056
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.05,8514.60151481757
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.05,8536.9867294316
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.05,8550.98053518498
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.1,8486.17494480479
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.1,8530.74056441838
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.1,8562.59799420066
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.1,8584.7854149514
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.15,8490.65132714769
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.15,8542.86055069778
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.15,8582.4139012761
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.15,8611.67171246758
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.2,8494.45189825394
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.2,8553.24922452133
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.2,8599.80590623992
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.2,8635.68476323798
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.25,8497.87918762751
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.25,8562.791862899
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.25,8615.94777854168
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.25,8658.23925097335
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.3,8501.05509626421
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.3,8571.90366732378
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.3,8631.68328880535
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.3,8680.62691047737
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.35,8504.0941440376
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.35,8580.69659557521
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.35,8647.11094705523
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.35,8703.08754268237
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.4,8507.09316922438
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.4,8589.49196920721
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.4,8662.82638307644
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.4,8726.52146196885
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.45,8510.04959053124
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.45,8598.34088882539
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.45,8678.97725749552
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.45,8751.26520535676
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.5,8513.10807809667
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.5,8607.48589042798
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.5,8696.00772834331
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.5,8778.1477549607
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.55,8516.26298085697
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.55,8617.1040179978
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.55,8714.29399755345
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.55,8807.82394004287
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.6,8519.57414776865
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.6,8627.44666090603
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.6,8734.45015946609
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.6,8841.6418498687
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.65,8523.11804100928
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.65,8638.80091042423
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.65,8757.07096441378
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.65,8881.04014940592
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.7,8527.00160568772
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.7,8651.67170621331
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.7,8783.30482682709
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.7,8927.68312374316
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.75,8531.44608461422
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.75,8666.89759029202
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.75,8814.64871379886
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.75,8982.34162696448
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.8,8536.59636936572
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.8,8685.51629089753
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.8,8852.74558045829
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.8,9046.99450967032
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.85,8543.01537841616
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.85,8709.66367414238
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.85,8901.58897810883
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.85,9131.63682870266
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.9,8551.70369209471
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.9,8743.42140585771
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.9,8973.07227762639
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.9,9272.35393786398
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.95,8565.8007065144
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.95,8800.07356817426
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.95,9106.89611424571
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.95,9554.74691035895
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.975,8579.07640864265
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.975,8855.74920462219
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.975,9238.99737956462
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.975,9871.18355850867
+"2021-04-05","1 wk ahead cum death",2021-04-10,"GM13","quantile",0.99,8595.24781598565
+"2021-04-05","2 wk ahead cum death",2021-04-17,"GM13","quantile",0.99,8936.64907078192
+"2021-04-05","3 wk ahead cum death",2021-04-24,"GM13","quantile",0.99,9632.27490888996
+"2021-04-05","4 wk ahead cum death",2021-05-01,"GM13","quantile",0.99,11141.1372590604
+"2021-04-05","-1 wk ahead inc death",2021-03-27,"GM13","observed",NA,125
+"2021-04-05","0 wk ahead inc death",2021-04-03,"GM13","observed",NA,102
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","point",NA,100.822363810953
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","point",NA,94.3778123313133
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","point",NA,88.5218379153257
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","point",NA,82.140026617389
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.01,57.297660751958
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.025,62.6722893637504
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.05,67.6489201348473
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.1,73.8892305190779
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.15,78.3656128619728
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.2,82.1661839682209
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.25,85.5934733417999
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.3,88.7693819784935
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.35,91.8084297518826
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.4,94.8074549386703
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.45,97.7638762455245
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.55,103.977266571253
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.6,107.288433482934
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.65,110.832326723562
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.7,114.715891402002
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.75,119.160370328507
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.8,124.310655080011
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.85,130.729664130451
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.9,139.417977808999
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.95,153.514992228684
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.975,166.79069435694
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.99,182.962101699931
+"2021-04-05","1 wk ahead inc death",2021-04-10,"GM13","quantile",0.5,100.822363810953
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.01,19.9932425511541
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.025,27.3395965842792
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.05,34.66688039701
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.1,44.5656196135911
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.15,52.2092235500974
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.2,58.7973262673929
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.25,64.9126752714829
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.3,70.8485710595696
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.35,76.6024515376123
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.4,82.39879998283
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.45,88.2912982941537
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.55,100.841037140829
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.6,107.872513137381
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.65,115.682869414951
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.7,124.670100525599
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.75,135.451505677797
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.8,148.919921531801
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.85,166.648295726212
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.9,191.717713762996
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.95,234.272861659858
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.975,276.672795979538
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.99,341.401254796271
+"2021-04-05","2 wk ahead inc death",2021-04-17,"GM13","quantile",0.5,94.3778123313133
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.01,9.89512781924649
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.025,15.7610286988937
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.05,22.3852146140241
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.1,31.8574297822741
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.15,39.5533505783197
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.2,46.5566817185878
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.25,53.1559156426811
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.3,59.7796214815698
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.35,66.4143514800231
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.4,73.3344138692278
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.45,80.6363686701216
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.55,97.189979555655
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.6,107.003498560055
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.65,118.270053989554
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.7,131.633120613776
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.75,147.751123506845
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.8,167.229289560767
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.85,191.925303966448
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.9,229.650871768682
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.95,306.82254607145
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.975,383.248174942426
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.99,695.625838108045
+"2021-04-05","3 wk ahead inc death",2021-04-24,"GM13","quantile",0.5,88.5218379153257
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.01,4.57637432795789
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.025,8.79560618356581
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.05,13.9938057533809
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.1,22.1874207507462
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.15,29.257811191474
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.2,35.8788569980638
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.25,42.2914724316772
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.3,48.9436216720264
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.35,55.9765956271375
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.4,63.6950788924113
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.45,72.287947861246
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.55,93.5299424894175
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.6,107.191690402619
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.65,123.969184992142
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.7,144.378296916066
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.75,167.692913165621
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.8,194.248929212024
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.85,230.047850593838
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.9,299.28166023759
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.95,447.850796113247
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.975,632.186178944055
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.99,1508.86235017046
+"2021-04-05","4 wk ahead inc death",2021-05-01,"GM13","quantile",0.5,82.140026617389

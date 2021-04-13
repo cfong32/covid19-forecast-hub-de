@@ -95,199 +95,199 @@
 "2021-04-05","4 wk ahead inc case","2021-05-01","GM","quantile",0.975,751209.831136601
 "2021-04-05","4 wk ahead inc case","2021-05-01","GM","quantile",0.99,1044199.06234326
 "2021-04-05","4 wk ahead inc case","2021-05-01","GM","quantile",0.5,127748.992841655
-"2021-04-05","-1 wk ahead cum case","2021-03-27","GM13","Free State of Saxony","observed",NA,216349
-"2021-04-05","0 wk ahead cum case","2021-04-03","GM13","Free State of Saxony","observed",NA,225181
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","point",NA,232706.780939586
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","point",NA,240959.20336756
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","point",NA,250003.545280316
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","point",NA,260064.547427527
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.01,231586.289086625
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.01,236398.046351206
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.01,238831.98500265
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.01,239935.77717274
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.025,231753.534382421
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.025,236945.538498418
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.025,239829.379034622
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.025,241277.113927511
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.05,231907.154650121
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.05,237443.775078762
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.05,240790.51163306
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.05,242657.223734229
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.1,232094.038446093
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.1,238013.642807114
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.1,241961.767399045
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.1,244471.864697706
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.15,232224.216317492
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.15,238405.67466784
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.15,242746.444449628
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.15,245690.816931832
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.2,232330.487946875
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.2,238730.55079575
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.2,243414.179765023
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.2,246754.214540272
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.25,232423.315949834
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.25,239021.419251479
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.25,244025.011270471
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.25,247779.040394545
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.3,232507.077653112
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.3,239297.517641894
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.3,244624.197558716
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.3,248805.157712143
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.35,232584.59669582
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.35,239571.009137839
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.35,245246.528721141
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.35,249878.65641507
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.4,232657.949352031
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.4,239846.8789026
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.4,245918.123951156
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.4,251086.29800297
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.45,232729.404089518
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.45,240130.634177258
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.45,246630.024140355
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.45,252419.249680187
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.5,232799.946095011
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.5,240425.668851532
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.5,247377.251701298
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.5,253759.277663645
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.55,232871.068603037
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.55,240730.428457297
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.55,248182.934407887
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.55,255219.798190359
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.6,232942.434845504
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.6,241048.273142302
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.6,249164.420462937
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.6,257477.800360406
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.65,233017.004434608
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.65,241385.253752881
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.65,250286.441788871
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.65,259943.322467912
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.7,233095.58668282
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.7,241745.842025033
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.7,251450.985506182
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.7,262555.68559298
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.75,233181.130850522
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.75,242144.843668573
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.75,252685.635276442
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.75,265378.626173982
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.8,233277.224581909
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.8,242592.255693379
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.8,254006.153129309
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.8,268483.922940176
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.85,233391.547703081
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.85,243144.628230402
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.85,255595.280561355
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.85,271967.443534581
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.9,233535.030067448
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.9,244068.63995655
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.9,259358.961774918
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.9,282445.756513846
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.95,233758.480897042
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.95,245883.868073137
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.95,265939.602401143
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.95,298656.351827247
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.975,233960.928482761
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.975,248010.888373413
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.975,277618.296000393
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.975,337019.482855914
-"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","Free State of Saxony","quantile",0.99,234196.86998933
-"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","Free State of Saxony","quantile",0.99,249355.796037972
-"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","Free State of Saxony","quantile",0.99,281820.231388979
-"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","Free State of Saxony","quantile",0.99,348952.242696929
-"2021-04-05","-1 wk ahead inc case","2021-03-27","GM13","Free State of Saxony","observed",NA,8158
-"2021-04-05","0 wk ahead inc case","2021-04-03","GM13","Free State of Saxony","observed",NA,8832
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","point",NA,8321.80323786855
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","point",NA,7625.72275652047
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","point",NA,6951.58284976624
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","point",NA,6382.02596234685
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.01,7108.14622948257
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.025,7275.39152527853
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.05,7429.01179297766
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.1,7615.8955889504
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.15,7746.07346034943
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.2,7852.34508973246
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.25,7945.17309269136
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.3,8028.93479596899
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.35,8106.45383867693
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.4,8179.80649488811
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.45,8251.26123237482
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.55,8392.92574589443
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.6,8464.2919883608
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.65,8538.86157746518
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.7,8617.44382567752
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.75,8702.98799337866
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.8,8799.08172476608
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.85,8913.40484593771
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.9,9056.8872103054
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.95,9280.33803989905
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.975,9482.78562561841
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.99,9718.72713218733
-"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","Free State of Saxony","quantile",0.5,8321.80323786855
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.01,4811.7572645803
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.025,5192.00411599668
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.05,5536.62042864112
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.1,5919.60436102068
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.15,6181.45835034762
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.2,6400.06284887459
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.25,6598.10330164478
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.3,6790.43998878194
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.35,6986.41244201923
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.4,7188.92955056898
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.45,7401.23008774013
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.55,7859.35985425969
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.6,8105.83829679787
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.65,8368.2493182729
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.7,8650.25534221289
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.75,8963.71281805114
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.8,9315.03111146969
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.85,9753.08052732112
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.9,10533.6098891022
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.95,12125.3871760948
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.975,14049.9598906513
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.99,15158.9260486422
-"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","Free State of Saxony","quantile",0.5,7625.72275652047
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.01,2433.93865144389
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.025,2883.84053620359
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.05,3346.7365542979
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.1,3948.12459193076
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.15,4340.76978178858
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.2,4683.62896927316
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.25,5003.59201899213
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.3,5326.67991682231
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.35,5675.51958330235
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.4,6071.24504855653
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.45,6499.38996309675
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.55,7452.5059505897
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.6,8116.1473206359
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.65,8901.18803598994
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.7,9705.14348114874
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.75,10540.7916078694
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.8,11413.8974359308
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.85,12450.6523309533
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.9,15290.3218183674
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.95,20055.7343280064
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.975,29607.4076269802
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.99,32464.4353510069
-"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","Free State of Saxony","quantile",0.5,6951.58284976624
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.01,1103.79217009014
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.025,1447.73489288884
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.05,1866.71210116946
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.1,2510.09729866148
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.15,2944.37248220346
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.2,3340.03477524901
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.25,3754.02912407434
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.3,4180.96015342683
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.35,4632.12769392846
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.4,5168.17405181387
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.45,5789.22553983283
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.55,7036.86378247197
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.6,8313.379897469
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.65,9656.88067904114
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.7,11104.7000867976
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.75,12692.9908975397
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.8,14477.7698108663
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.85,16372.1629732262
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.9,23086.794738928
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.95,32716.7494261036
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.975,59401.1868555213
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.99,67132.0113079499
-"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","Free State of Saxony","quantile",0.5,6382.02596234685
+"2021-04-05","-1 wk ahead cum case","2021-03-27","GM13","observed",NA,216349
+"2021-04-05","0 wk ahead cum case","2021-04-03","GM13","observed",NA,225181
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","point",NA,232706.780939586
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","point",NA,240959.20336756
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","point",NA,250003.545280316
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","point",NA,260064.547427527
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.01,231586.289086625
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.01,236398.046351206
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.01,238831.98500265
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.01,239935.77717274
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.025,231753.534382421
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.025,236945.538498418
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.025,239829.379034622
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.025,241277.113927511
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.05,231907.154650121
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.05,237443.775078762
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.05,240790.51163306
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.05,242657.223734229
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.1,232094.038446093
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.1,238013.642807114
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.1,241961.767399045
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.1,244471.864697706
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.15,232224.216317492
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.15,238405.67466784
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.15,242746.444449628
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.15,245690.816931832
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.2,232330.487946875
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.2,238730.55079575
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.2,243414.179765023
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.2,246754.214540272
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.25,232423.315949834
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.25,239021.419251479
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.25,244025.011270471
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.25,247779.040394545
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.3,232507.077653112
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.3,239297.517641894
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.3,244624.197558716
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.3,248805.157712143
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.35,232584.59669582
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.35,239571.009137839
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.35,245246.528721141
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.35,249878.65641507
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.4,232657.949352031
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.4,239846.8789026
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.4,245918.123951156
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.4,251086.29800297
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.45,232729.404089518
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.45,240130.634177258
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.45,246630.024140355
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.45,252419.249680187
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.5,232799.946095011
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.5,240425.668851532
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.5,247377.251701298
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.5,253759.277663645
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.55,232871.068603037
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.55,240730.428457297
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.55,248182.934407887
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.55,255219.798190359
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.6,232942.434845504
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.6,241048.273142302
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.6,249164.420462937
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.6,257477.800360406
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.65,233017.004434608
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.65,241385.253752881
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.65,250286.441788871
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.65,259943.322467912
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.7,233095.58668282
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.7,241745.842025033
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.7,251450.985506182
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.7,262555.68559298
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.75,233181.130850522
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.75,242144.843668573
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.75,252685.635276442
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.75,265378.626173982
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.8,233277.224581909
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.8,242592.255693379
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.8,254006.153129309
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.8,268483.922940176
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.85,233391.547703081
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.85,243144.628230402
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.85,255595.280561355
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.85,271967.443534581
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.9,233535.030067448
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.9,244068.63995655
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.9,259358.961774918
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.9,282445.756513846
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.95,233758.480897042
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.95,245883.868073137
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.95,265939.602401143
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.95,298656.351827247
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.975,233960.928482761
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.975,248010.888373413
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.975,277618.296000393
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.975,337019.482855914
+"2021-04-05","1 wk ahead cum case","2021-04-10","GM13","quantile",0.99,234196.86998933
+"2021-04-05","2 wk ahead cum case","2021-04-17","GM13","quantile",0.99,249355.796037972
+"2021-04-05","3 wk ahead cum case","2021-04-24","GM13","quantile",0.99,281820.231388979
+"2021-04-05","4 wk ahead cum case","2021-05-01","GM13","quantile",0.99,348952.242696929
+"2021-04-05","-1 wk ahead inc case","2021-03-27","GM13","observed",NA,8158
+"2021-04-05","0 wk ahead inc case","2021-04-03","GM13","observed",NA,8832
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","point",NA,8321.80323786855
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","point",NA,7625.72275652047
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","point",NA,6951.58284976624
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","point",NA,6382.02596234685
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.01,7108.14622948257
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.025,7275.39152527853
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.05,7429.01179297766
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.1,7615.8955889504
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.15,7746.07346034943
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.2,7852.34508973246
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.25,7945.17309269136
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.3,8028.93479596899
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.35,8106.45383867693
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.4,8179.80649488811
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.45,8251.26123237482
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.55,8392.92574589443
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.6,8464.2919883608
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.65,8538.86157746518
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.7,8617.44382567752
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.75,8702.98799337866
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.8,8799.08172476608
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.85,8913.40484593771
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.9,9056.8872103054
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.95,9280.33803989905
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.975,9482.78562561841
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.99,9718.72713218733
+"2021-04-05","1 wk ahead inc case","2021-04-10","GM13","quantile",0.5,8321.80323786855
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.01,4811.7572645803
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.025,5192.00411599668
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.05,5536.62042864112
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.1,5919.60436102068
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.15,6181.45835034762
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.2,6400.06284887459
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.25,6598.10330164478
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.3,6790.43998878194
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.35,6986.41244201923
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.4,7188.92955056898
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.45,7401.23008774013
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.55,7859.35985425969
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.6,8105.83829679787
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.65,8368.2493182729
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.7,8650.25534221289
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.75,8963.71281805114
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.8,9315.03111146969
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.85,9753.08052732112
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.9,10533.6098891022
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.95,12125.3871760948
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.975,14049.9598906513
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.99,15158.9260486422
+"2021-04-05","2 wk ahead inc case","2021-04-17","GM13","quantile",0.5,7625.72275652047
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.01,2433.93865144389
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.025,2883.84053620359
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.05,3346.7365542979
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.1,3948.12459193076
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.15,4340.76978178858
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.2,4683.62896927316
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.25,5003.59201899213
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.3,5326.67991682231
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.35,5675.51958330235
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.4,6071.24504855653
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.45,6499.38996309675
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.55,7452.5059505897
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.6,8116.1473206359
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.65,8901.18803598994
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.7,9705.14348114874
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.75,10540.7916078694
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.8,11413.8974359308
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.85,12450.6523309533
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.9,15290.3218183674
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.95,20055.7343280064
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.975,29607.4076269802
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.99,32464.4353510069
+"2021-04-05","3 wk ahead inc case","2021-04-24","GM13","quantile",0.5,6951.58284976624
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.01,1103.79217009014
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.025,1447.73489288884
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.05,1866.71210116946
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.1,2510.09729866148
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.15,2944.37248220346
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.2,3340.03477524901
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.25,3754.02912407434
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.3,4180.96015342683
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.35,4632.12769392846
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.4,5168.17405181387
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.45,5789.22553983283
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.55,7036.86378247197
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.6,8313.379897469
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.65,9656.88067904114
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.7,11104.7000867976
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.75,12692.9908975397
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.8,14477.7698108663
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.85,16372.1629732262
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.9,23086.794738928
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.95,32716.7494261036
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.975,59401.1868555213
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.99,67132.0113079499
+"2021-04-05","4 wk ahead inc case","2021-05-01","GM13","quantile",0.5,6382.02596234685
