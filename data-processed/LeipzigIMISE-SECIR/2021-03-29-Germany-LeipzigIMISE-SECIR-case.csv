@@ -1637,3 +1637,297 @@
 2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.975,2029324.4425872
 2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.99,3463053.15787645
 2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.5,424766.618259649
+2021-03-29,"-1 wk ahead cum case",2021-03-20,"GM13","Free State of Saxony","observed",NA,208191
+2021-03-29,"0 wk ahead cum case",2021-03-27,"GM13","Free State of Saxony","observed",NA,216349
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","point",NA,226129.685543411
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","point",NA,243753.555347975
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","point",NA,275753.615814759
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","point",NA,330005.216785282
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.01,224671.610763133
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.01,232523.242452166
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.01,237976.42664173
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.01,241596.924367119
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.025,224825.807241317
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.025,233172.22634597
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.025,239393.39563421
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.025,243810.975705746
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.05,224966.873550141
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.05,233872.497317736
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.05,241284.068528369
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.05,247320.097264794
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.1,225137.411189083
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.1,234901.257257036
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.1,243845.687759136
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.1,251874.950950139
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.15,225259.029950726
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.15,235868.206015434
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.15,246918.723451902
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.15,258162.740510899
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.2,225357.871499428
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.2,236550.731533202
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.2,248960.988509295
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.2,262507.012811121
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.25,225443.584196995
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.25,237159.556397086
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.25,250926.046772967
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.25,266723.927478307
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.3,225522.284787522
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.3,237755.515180563
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.3,252911.129097215
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.3,271306.489552553
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.35,225596.544805967
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.35,238313.824463624
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.35,254950.931370106
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.35,276254.848119053
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.4,225667.868506494
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.4,238785.906002991
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.4,256369.638572598
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.4,279479.372990876
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.45,225738.264395673
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.45,239244.094520682
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.45,257726.129477549
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.45,282427.799577108
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.5,225808.487317114
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.5,239750.753701028
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.5,259386.549662254
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.5,286436.851667826
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.55,225881.042475566
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.55,240392.228037646
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.55,261844.027604448
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.55,292666.566151966
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.6,225956.148726382
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.6,241193.725115349
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.6,264911.561266551
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.6,300344.960249301
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.65,226034.403491591
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.65,242100.831864345
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.65,268677.295159834
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.65,310542.580557412
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.7,226117.908253712
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.7,242924.473989311
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.7,272537.099626893
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.7,321824.953628435
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.75,226209.342939296
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.75,243656.790841742
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.75,274767.180802991
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.75,326577.443408932
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.8,226310.199626687
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.8,244665.718258224
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.8,279084.389917751
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.8,338513.332257935
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.85,226431.797500559
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.85,245939.190201318
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.85,285383.725967962
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.85,357404.724096919
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.9,226593.026888587
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.9,247402.359038924
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.9,291430.438984632
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.9,373993.256970666
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.95,226858.465232598
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.95,251117.904851316
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.95,310039.084897842
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.95,426237.87240998
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.975,227111.770156976
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.975,254926.935573486
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.975,329932.464860332
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.975,478943.274757814
+2021-03-29,"1 wk ahead cum case",2021-04-03,"GM13","Free State of Saxony","quantile",0.99,227411.592647918
+2021-03-29,"2 wk ahead cum case",2021-04-10,"GM13","Free State of Saxony","quantile",0.99,257543.776602343
+2021-03-29,"3 wk ahead cum case",2021-04-17,"GM13","Free State of Saxony","quantile",0.99,340834.066887339
+2021-03-29,"4 wk ahead cum case",2021-04-24,"GM13","Free State of Saxony","quantile",0.99,504865.90445194
+2021-03-29,"-1 wk ahead inc case",2021-03-20,"GM","Germany","observed",NA,87328
+2021-03-29,"0 wk ahead inc case",2021-03-27,"GM","Germany","observed",NA,109442
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","point",NA,130515.944821089
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","point",NA,192898.089166412
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","point",NA,287062.559482771
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","point",NA,424766.618259649
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.01,117995.411499649
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.025,120079.39087562
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.05,121706.869581857
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.1,123540.077653468
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.15,124770.404169779
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.2,125774.523627352
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.25,126652.412012219
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.3,127472.139335855
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.35,128258.30409235
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.4,129012.548606482
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.45,129757.483487406
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.55,131278.631339792
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.6,132071.855992552
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.65,132901.972290653
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.7,133803.037798959
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.75,134816.858777964
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.8,136017.693779907
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.85,137536.18890635
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.9,139662.590884539
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.95,143118.802263067
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.975,146140.444505053
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.99,150748.810371496
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM","Germany","quantile",0.5,130515.944821089
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.01,112772.061288464
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.025,133066.341326705
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.05,140768.822672709
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.1,149755.284539131
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.15,156294.60304203
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.2,162037.35217757
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.25,166871.463160727
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.3,171581.555689106
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.35,176470.806349028
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.4,181883.429296339
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.45,187513.546905425
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.55,199035.389258726
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.6,206166.470554231
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.65,213545.665483406
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.7,220866.328575339
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.75,228413.214770634
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.8,237403.809619972
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.85,254452.967465121
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.9,279026.977444417
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.95,322731.313746474
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.975,348177.657495089
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.99,440267.078661919
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM","Germany","quantile",0.5,192898.089166412
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.01,88372.3761196299
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.025,132448.496499707
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.05,148448.105125738
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.1,169940.638021725
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.15,185395.829882698
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.2,200661.446815497
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.25,210958.363352902
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.3,224417.288598909
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.35,238238.686582558
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.4,254252.594730858
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.45,270665.575987989
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.55,305973.724723402
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.6,330078.647339062
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.65,356544.247544863
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.7,381922.618356012
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.75,407442.681303357
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.8,432845.112788517
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.85,505664.550135493
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.9,604107.36701432
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.95,791975.130042597
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.975,901275.826749009
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.99,1465832.64187224
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM","Germany","quantile",0.5,287062.559482771
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.01,69361.7504325113
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.025,130141.902931844
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.05,154894.799712044
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.1,193036.476068485
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.15,218583.258507351
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.2,247027.625820543
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.25,262958.934530323
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.3,291912.275850728
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.35,320831.538025176
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.4,350563.411208747
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.45,386142.651762141
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.55,465773.94714316
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.6,519168.076663211
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.65,583272.687913662
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.7,646522.907604862
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.75,705493.695752622
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.8,762881.02246459
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.85,957233.944272552
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.9,1218346.51552512
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.95,1696621.82241837
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.975,2029324.4425872
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.99,3463053.15787645
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM","Germany","quantile",0.5,424766.618259649
+2021-03-29,"-1 wk ahead inc case",2021-03-20,"GM13","Free State of Saxony","observed",NA,6133
+2021-03-29,"0 wk ahead inc case",2021-03-27,"GM13","Free State of Saxony","observed",NA,8158
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","point",NA,9671.63017425652
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","point",NA,13942.2663839148
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","point",NA,19635.795961226
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","point",NA,27050.3020055714
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.01,8534.75362027544
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.025,8688.95009845972
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.05,8830.01640728414
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.1,9000.55404622584
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.15,9122.17280786903
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.2,9221.01435657064
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.25,9306.72705413801
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.3,9385.42764466449
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.35,9459.68766311032
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.4,9531.01136363702
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.45,9601.40725281576
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.55,9744.18533270913
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.6,9819.29158352515
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.65,9897.54634873421
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.7,9981.05111085504
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.75,10072.4857964389
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.8,10173.3424838303
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.85,10294.9403577017
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.9,10456.1697457301
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.95,10721.6080897409
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.975,10974.9130141188
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.99,11274.7355050612
+2021-03-29,"1 wk ahead inc case",2021-04-03,"GM13","Free State of Saxony","quantile",0.5,9671.63017425652
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.01,7851.63168903355
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.025,8346.41910465337
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.05,8905.62376759454
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.1,9763.84606795262
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.15,10609.176064708
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.2,11192.860033774
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.25,11715.9722000908
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.3,12233.230393041
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.35,12717.2796576561
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.4,13118.0374964967
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.45,13505.8301250096
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.55,14511.1855620797
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.6,15237.5763889671
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.65,16066.4283727541
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.7,16806.5657355989
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.75,17447.4479024458
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.8,18355.518631537
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.85,19507.3927007595
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.9,20809.3321503369
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.95,24259.4396187182
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.975,27815.1654165103
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.99,30132.1839544243
+2021-03-29,"2 wk ahead inc case",2021-04-10,"GM13","Free State of Saxony","quantile",0.5,13942.2663839148
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.01,5453.18418956373
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.025,6221.16928823949
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.05,7411.57121063353
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.1,8944.43050210037
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.15,11050.517436468
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.2,12410.2569760928
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.25,13766.4903758807
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.3,15155.6139166522
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.35,16637.1069064821
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.4,17583.7325696073
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.45,18482.034956867
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.55,21451.7995668018
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.6,23717.836151202
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.65,26576.4632954888
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.7,29612.6256375821
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.75,31110.389961249
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.8,34418.6716595267
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.85,39444.5357666433
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.9,44028.0799457083
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.95,58921.1800465252
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.975,75005.5292868461
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.99,83290.2902849966
+2021-03-29,"3 wk ahead inc case",2021-04-17,"GM13","Free State of Saxony","quantile",0.5,19635.795961226
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.01,3620.49772538927
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.025,4417.58007153612
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.05,6036.02873642497
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.1,8029.26319100291
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.15,11244.017058997
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.2,13546.0243018263
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.25,15797.8807053404
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.3,18395.3604553381
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.35,21303.9167489478
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.4,23109.7344182773
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.45,24701.6700995583
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.55,30822.5385475178
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.6,35433.3989827497
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.65,41865.2853975778
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.7,49287.8540015419
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.75,51810.2626059412
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.8,59428.9423401843
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.85,72020.9981289576
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.9,82562.817986034
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.95,116198.787512138
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.975,149010.809897482
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.99,164031.837564601
+2021-03-29,"4 wk ahead inc case",2021-04-24,"GM13","Free State of Saxony","quantile",0.5,27050.3020055714
