@@ -5,17 +5,23 @@ on:
 
 jobs:
 
-  updateBranch:
-    name: Update ensemble branch
+  sync-branches:
     runs-on: ubuntu-latest
+    name: Syncing branches
     steps:
-    - uses: actions/checkout@master
-    - uses: Embraser01/update-git-branch-action@v1.0.0
-      if: github.ref == 'refs/heads/master'
-      with:
-        branch: ensemble_ci
-        force: 1 # To push-force to the branch
-        githubToken: ${{ secrets.GITHUBTOKEN }} # Github Token
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Opening pull request
+        id: pull
+        uses: tretuna/sync-branches@1.2.0
+        with:
+          GITHUB_TOKEN: ${{secrets.GITHUBTOKEN}}
+          FROM_BRANCH: "master"
+          TO_BRANCH: "ensemble_ci"
   
   build:
     runs-on: ubuntu-latest
