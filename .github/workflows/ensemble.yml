@@ -4,6 +4,19 @@ on:
   workflow_dispatch:
 
 jobs:
+
+  updateBranch:
+    name: Update ensemble branch
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: Embraser01/update-git-branch-action@v1.0.0
+      if: github.ref == 'refs/heads/master'
+      with:
+        branch: ensemble_ci
+        force: 1 # To push-force to the branch
+        githubToken: ${{ secrets.GITHUBTOKEN }} # Github Token
+  
   build:
     runs-on: ubuntu-latest
     steps:
@@ -14,15 +27,6 @@ jobs:
 
     - name: Setup R
       uses: r-lib/actions/setup-r@v1
-
-    - name: Update ensemble branch
-      uses: actions/checkout@master
-      uses: Embraser01/update-git-branch-action@v1.0.0
-      if: github.ref == 'refs/heads/master'
-      with:
-        branch: ensemble_ci
-        force: 1 # To push-force to the branch
-        githubToken: ${{ secrets.GITHUBTOKEN }} # Github Token
 
     - name: Setup Git
       run: |
