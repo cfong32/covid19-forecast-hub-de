@@ -15,7 +15,7 @@ jobs:
         with:
           type: now
           target_branch: ensemble_ci
-          github_token: ${{ github.GITHUBTOKEN }}
+          github_token: ${{ secrets.GITHUBTOKEN }}
   
   build:
     needs: merge-branch
