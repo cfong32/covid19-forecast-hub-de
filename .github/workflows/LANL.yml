@@ -1,9 +1,9 @@
   
 name: "LANL"
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 7 * * 2"
+  push:
+    branches-ignore:
+      - '**'
 
 jobs:
   build:
