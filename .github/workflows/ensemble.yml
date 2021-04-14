@@ -8,13 +8,14 @@ jobs:
   merge-branch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: everlytic/branch-merge@1.1.0
+      - uses: actions/checkout@master
+
+      - name: Merge master -> ensemble_ci
+        uses: devmasx/merge-branch@v1.3.1
         with:
+          type: now
+          target_branch: ensemble_ci
           github_token: ${{ github.GITHUBTOKEN }}
-          source_ref: 'master'
-          target_branch: 'ensemble_ci'
-          commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'
   
   build:
     needs: merge-branch
