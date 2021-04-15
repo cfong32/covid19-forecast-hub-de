@@ -18,8 +18,7 @@ jobs:
       
     - name: Install R dependencies
       run: |
-        Rscript -e 'install.packages("forecast", dependencies = TRUE)'
-        Rscript -e 'install.packages("MMWRweek", dependencies = TRUE)'
+        Rscript -e 'install.packages(c("forecast", "MMWRweek"))'
 
     - name: Setup Git
       run: |
