@@ -47,20 +47,15 @@ jobs:
         Rscript LANL-processing-script.R
         cd ../../
       
-    - name: Create Pull Request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3
-      with:
-        token: ${{ secrets.GITHUBTOKEN }}
-        commit-message: Update Baselines
-        committer: GitHub <noreply@github.com>
-        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        branch: basline
-        delete-branch: true
-        title: 'Update baselines'
-        body: |
-          Update baselines
-        labels: |
-          automated pr
-        reviewers: jbracher
+        # Push to Github
+        git remote rm origin
+        git remote add origin https://${AUTH}@github.com/KITmetricslab/covid19-forecast-hub-de.git > /dev/null 2>&1
+        git add --all
+        git commit -m "Weekly LANL forecasts"
+        git push --quiet --set-upstream origin HEAD:LANL_actions
+        echo "pushed to github"
+        
+        #create PR
+        cd ./code/auto_download
+        python3 create_PR.py "Weekly LANL forecasts" "LANL_actions"
+        cd ../../                
