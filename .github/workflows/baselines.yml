@@ -5,20 +5,7 @@ on:
 
 jobs:
 
-  merge-branch:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-
-      - name: Merge master -> ensemble_ci
-        uses: devmasx/merge-branch@v1.3.1
-        with:
-          type: now
-          target_branch: baselines_ci
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-  
   build:
-    needs: merge-branch
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
@@ -50,10 +37,20 @@ jobs:
         Rscript KIT-time_series_baseline.R
         cd ../../
         
-        # Push to Github
-        git remote rm origin
-        git remote add origin https://${AUTH}@github.com/KITmetricslab/covid19-forecast-hub-de.git > /dev/null 2>&1
-        git add --all
-        git commit -m "Weekly baseline models"
-        git push --quiet --set-upstream origin HEAD:baselines_ci
-        echo "pushed to github"
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUBTOKEN }}
+        commit-message: Update Baselines
+        committer: GitHub <noreply@github.com>
+        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+        signoff: false
+        branch: basline
+        delete-branch: true
+        title: 'Update baselines'
+        body: |
+          Update baselines
+        labels: |
+          automated pr
+        reviewers: jbracher
