@@ -1,0 +1,86 @@
+Documentation of revisions to forecasts
+
+This file was created at the staart of the pre-specified evaluation period on 14 Oct 2020.
+
+### Documentation of decisions on ensemble:
+
+Tue 11 Oct: LeipzigIMISE-SECIR omitted from ensembles due to extremely low forecast uncertainty.
+Wed 21 Oct: LeipzigIMISE-SECIR omitted from ensembles as PR accidentially did not contain required files. MIT_CovidAnalytics-Delphi omitted from all Poland ensembles as we believe there was a technical error (all numbers considerably too low). MIT_CovidAnalytics-Delphi was kept in Germany ensembles, though. KIT-baseline was removed from all ensembles as we consider the last-observation-carried-forward approach inappropriate in the current phase. MOCOS model omitted from all ensembles as only one- and two week ahead forecasts were available.
+Tue 27 Oct: LeipzigIMISE-SECIR and ITWW-county_repro omitted from ensembles due to extremely low forecast uncertainty. LANL-growthRate omitted from Germany ensembles due to unrealistically low forecasts.
+Tue 4 Nov: LANL omitted from ensemble as last available forecast dated from Wed 28 Oct. KIT-time_series_baseline omitted due to excessively wide uncertainty bands.
+Wed 11 Nov: Ensemble only created on Wednesday to be able to include MOCOS forecasts. MIT cumulative forecasts excluded as much too sharp relative to incidence forecasts. ICM forecast not included as forecasts seem shifted by one week. LeipzigIMISE forecasts excluded due to missingness of quantiles for incident forecasts and unlikely non-monotonic pattern over next four weeks.
+Tue 1 Dec: ITWW not included in deaths, Germany due to strong misalignment with past values. KIT-time_series_baseline excluded due to unrealistically large values for several quantities.
+Tue 8 Dec: KIT-time_series_baseline excluded from death forecasts due to unplausible behaviour. ICM model excluded due to very pronounced divergence from other models.
+Tue 15 Dec: time series baseline not included bc of excessive uncertainty. MOCOS model not included (arrived somewhat late and forgot to revise ensemble to include MOCOS.)
+Tue 22 Dec: USC excluded due to suspected misalignment with most recent data.
+Tue 12 Jan: Not inlcuding MIT forecasts as they look somethat detached from recent data for both Germany and Poland. Delayed ITWW model not included due do very narrow uncertainty bands.
+Tue 19 Jan: Not inlcuding ITWW into death ensembles due to very narrow prediction bands.
+Tue 2 Feb: Excluding time series baseline from death forecasts in Germany as pattern looks very implausible. ITWW forecasts not included due to very narrow prediction bands.
+Tue 9 Feb: not including ITWW in death ensembles as forecastin intervals are very narrow.
+Tue 16 Feb: not including ITWW in death ensembles as forecastin intervals are very narrow. Not including USC in cumulative ensembles as forecast uncertainty does not grow with horizon. 
+Tue 23 Feb: ITWW ecluded from death ensemble as very sharp. KIT-time_series_baseline forecasts for cases, Poland excluded due to implausible shape.
+Tue 3 Mar: ITWW and MIMUW ecluded from death ensemble as very sharp. KIT-time_series_baseline and USC forecasts for cases excluded due to implausible shape.
+Tue 9 March: MIT_CovidAnalytics not included in case ensemble due to implausible pattern. ITWW not included in death forecasts due to implausible pattern. MIMUW not included in death ensemble as very narrow. ICM not included in case forecasts due to implausible pattern (strongly down, then up again). KIT-time_series_baseline excluded from case forecasts due to implausible pattern.
+Tue 16 March: MIT_CovidAnalytics not included in case ensemble due to implausible pattern. ITWW not included in death forecasts due to implausible pattern. MIMUW not included in death ensemble as very narrow.
+Tue 23 Mar: Time series baseline excluded from deaths Poland as very implausible. USC excluded due to several implausible patterns.
+Tue 30 Mar: Leipzig and time series baseline excluded due to excessive uncertainty. USC excluded for PL due to implausible patterns.
+------
+Tue 6 April: National levle ensemble now synchronized with European Hub
+Tue 13 April: excluding KIT-time_series_baseline due to partly implausible results.
+
+
+### Documentation of forecast revisions and late inclusions:
+
+Wed 14 Oct: revision of cumulative case and death forecasts in epiforecasts-EpiNow2. These were obviously subject to a technical error (exported last observed cumulative + incident from respective week rather than cumulative sum).
+Wed 14 Oct: revision of ensembles to include corrected epiforecasts-EpiNow2 preditions
+Wed 14 Oct: adding Saxony forecasts to LeipzigIMISE-SECIR. These had been submitted in a separate file on Tuesday.
+Fri 16 Oct: MIT model had been accidentially omitted from 2020-10-12 "inc death ensembles". Correcting these files.
+Tue 20 Oct: ITWW revised forecasts for Polish voivodeships from 2020-10-12. This was necessary as the truth data made available in the Forecast Hub repository had been erroneous.
+Wed 21 Oct: Retrospectively added KIT-time_ series_baseline model (exponential smoothing)
+Fri 23 Oct: Temporally removing MIT Covid Analytics forecasts for Poland, 19 Oct. These were likely subject to a technical problem. The handling of these forecasts for evaluation remains to be determined.
+Tue 27 Oct: Retrospectively adding UCLA forecasts from 4, 11, 18 Oct. which had appeared online with a delay
+Wed 28 Oct: ICM model submitted late on Tuesday evening included (as specified in protocol)
+Wed 28 Oct: MOCOC team provided three and four week ahead forecasts from last week which had been missing due to problems writing out the results of their model. These have been included, but this will be mentioned in a footnote in the respective summaries. Added UCLA forecast from 26 Oct which had appeared online ~Tuesday 5pm.
+Mon 2 Nov: Set ITWW Poland foecasts from 12 Oct back to original version. These had accidentially been revised on 20 Oct (only forecasts for voivodeships should have been revised).
+Mon 2 Nov: Removed all-zero forecasts by USC from 26 Oct. For Germany national level replaced by forecasts from respective "global" (instead of "other") file.
+Tue 23 Nov: MOCOS forecast arrived slightly late, but delay had been communicated in advance.
+Wed 4 Nov: Retrospectively added inverse WIS ensemble for first four weeks. This had not been operational before. The implementation, however, follows strictly the one described in the pre-registration.
+Fri 6 Nov: Added simple baseline which had been forgotten this week (unproblematic as no tuning involved).
+Sun 8 Nov: Adding case forecasts for Geneva which had not been extracted for certain weeks. These are not delayed forecasts, but just files we overlooked when the Geneva team published them on their website.
+Tue 10 Nov: Added LANL forecasts from 1 Nov that haven't been available on 3 Nov
+Wed 11 Nov MOCOS added late
+Wed 18 Nov: Leipzig IMISE forecast added late.
+Tue 24 Nov: Leipzig IMISE forecast added only after ensemble creation (ca 18:00).
+Wed 25 Nov: Adding MIMUW forecasts late.
+Wed 25 Nov: Removing ITWW from Germany case ensemble due to implausibly high values (overlooked yesterday).
+Wed 2 Dec: MIMUW forecast added late.
+Wed 2 Dec: Adding FIAS/FZJ and Leipzig forecasts back into Germany/deaths ensemble after FIAS/FZJ team confirmed that forecast was considered sound. Also adding Leipzig to incident cases from which it had been missing accidentially. Time series baseline removed as values unrealistically large for some quantities.
+Wed 2 Dec: Revised extraction scripts for USC. Now always using JHU-based forecasts also shown in USC dashboard at national level. Using the ECDC-based forecasts only at Bundesland level as they are not always available.
+Tue 8 Dec: MOCOS model arrived late (~18:45)
+Wed 9 Dec: Adding MIMUW late
+Fri 11 Dec: Leipzig forecast only submitted on Wednesday; ICM forecasts corrected on Thursday due to technical problem (shift of dates) visible in forecasts. 
+Dec 16: Leipzig forecasts added late.
+Fri 18: UCLA added late
+Sun 20 Dec: All Imperial forecasts except 14 December were only made available in retrospect (most of them on 30 Nov). However, forecasts were available in real time on the Imperial website so that we consider it legitimate to include them retrospectively for comparison.
+Wed 23 Dec Leipzig arrived late.
+Tue 12 Jan ITWW and ICM arrived at 6pm
+Wed 13 Jan MIMUW arrived late
+Thur 14 Jan Replacing USC case forecast from 2020-11-30. This has been discussed extensively with Ajitesh, Melanie and Tilmann. 
+The reason for this exceptional replacement is (briefly) the following:
+This is the forecast following the bulk reporting of 25,000 cases in Poland. We had alerted modellers to this 
+particularity and Ajitesh had manually checked that nothing unexpected had happened to his forecasts. He checked this
+for the other_forecasts_cases.csv files, assuming we were taking the forecasts from there. However, we were still using 
+forecasts from his global_forecasts.csv files for the national level (this was due to other issues with the other_forecasts.csv
+file in October). The global_forecasts.csv file was thus left un-checked, but did indeed contain a rather obvious problem
+(very strong and implausible increase in cases). As email exchanges from this period are documented and the other_forecasts.csv
+file is available in our repository with a time stamp we replaced the forecasts by the "correct" ones (i.e. unaffected by 
+computing issues), shifting the cumulative forecasts additively in a way that they line up with the latest observations
+from the JHU data (which underlie the global_forecasts.csv file) rather than the ECDC data (which underlie the
+other_forecasts.csv file).
+Fri 15 Jan: Adding Leipzig forecasts late (these had been submitted on Wed, but format had not been correct).
+Wed 20 Jan: MIMUW, LeipzigIMISE and epiExpert_Rt arrived late.
+Wed 27 Jan: Retrospectivey adding sub-national ensembles for last three weeks.
+Tue 2 Feb: epiExpert_Rt had erroneously not been submitted last week (gone unnoticed by Forecast Hub Team). Files are included retrospectively to complete the record.
+Wed 3 Feb: MIMUW and MPI_DS forecasts arrived late.
+Mon 8 Feb: Included MIMUW forecast from 25 Jan retrospectively as file had not been uploaded in this week (email communication with Krzysztof)
+Fri 26 Feb: Leipzig submission delayed (final submission on Thursday) due to fail of automated checks in combination with a correction of cumulative forecasts (technical problem)

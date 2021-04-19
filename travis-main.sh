@@ -25,10 +25,18 @@ sudo apt-get install python3-pandas
 sudo apt install python3-pip
 pip3 install --upgrade setuptools
 pip3 install pymmwr click requests urllib3 selenium webdriver-manager pyyaml
-source ./travis/validate-data.sh
+pip3 install gitpython
+pip3 install pygsheets
+pip3 install unidecode
+python -c "import fcntl; fcntl.fcntl(1, fcntl.F_SETFL, 0)"
 
+# only validate data on builds triggered by pull requests
+#if [[ "$TRAVIS_EVENT_TYPE" == *"pull_request"* ]]; then
+#   source ./travis/validate-data.sh
+#fi
 
 if [[ "$TRAVIS_EVENT_TYPE" == *"cron"* ]]; then
+   pip3 install -U epiweeks
    echo "updating truth data..."
    bash ./travis/cron-master.sh
    bash ./travis/push.sh
