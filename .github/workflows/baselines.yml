@@ -1,0 +1,60 @@
+  
+name: "Baselines"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * 2"
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+    - name: Setup R
+      uses: r-lib/actions/setup-r@v1
+      
+    - name: Install R dependencies
+      run: |
+        sudo apt-get install libcurl4-openssl-dev libxml2-dev
+        Rscript -e 'install.packages(c("forecast", "MMWRweek"))'
+
+    - name: Setup Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Create Ensembles"
+    
+    - name: Create Baselines
+      env:
+        AUTH: ${{ secrets.GITHUB_TOKEN }}
+      run: | 
+        # check out dummy branch
+        git checkout baselines_ci
+        cd ./code/baselines
+        # create baselines
+        Rscript KIT-baseline.R
+        Rscript KIT-extrapolation_baseline.R
+        Rscript KIT-time_series_baseline.R
+        cd ../../
+        
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: Update Baselines
+        committer: GitHub <noreply@github.com>
+        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+        signoff: false
+        branch: basline
+        delete-branch: true
+        title: 'Update baselines'
+        body: |
+          Update baselines
+        labels: |
+          automated pr
+        reviewers: jbracher

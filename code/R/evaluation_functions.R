@@ -247,7 +247,7 @@ evaluate_forecasts <- function(forecasts, name_truth_eval, dat_truth, truth_data
   eval_point <- evaluate_point(forecasts = forecasts,  name_truth_eval = name_truth_eval,
                                dat_truth = dat_truth, truth_data_use = truth_data_use)
   # evaluate quantile forecasts, if any:
-  if(any(forecasts$type == "quantile" & length(unique(forecasts$quantile)) >= 23)){
+  if(any(forecasts$type == "quantile") & length(unique(forecasts$quantile[!is.na(forecasts$quantile)])) >= 23){
     eval_quantiles <- evaluate_quantiles(forecasts = forecasts,
                                          name_truth_eval = name_truth_eval,
                                          dat_truth = dat_truth,
