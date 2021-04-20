@@ -25,3 +25,6 @@ new_variant_hospitalization_all_locs.csv
 /code/auto_download/creds.json
 Rdeps/
 covid19-forecast-hub-de_v2.Rproj
+
+# folders to exchange files between hubs
+/upload_eu
