@@ -11,13 +11,13 @@ truth_eval <- "ECDC"
 
 # get truth data:
 dat_truth <- list()
-dat_truth$JHU <- truth_to_long(read.csv("https://raw.githubusercontent.com/KITmetricslab/covid19-forecast-hub-de/master/app_forecasts_de/data/truth_to_plot_jhu.csv",
+dat_truth$JHU <- truth_to_long(read.csv("../app_forecasts_de/data/truth_to_plot_jhu.csv",
                                         colClasses = list("date" = "Date")))
-dat_truth$ECDC <- truth_to_long(read.csv("https://raw.githubusercontent.com/KITmetricslab/covid19-forecast-hub-de/master/app_forecasts_de/data/truth_to_plot_ecdc.csv",
+dat_truth$ECDC <- truth_to_long(read.csv("../app_forecasts_de/data/truth_to_plot_ecdc.csv",
                                          colClasses = list("date" = "Date")))
 
 # get data on truth data use:
-truth_data_use <- read.csv("https://raw.githubusercontent.com/KITmetricslab/covid19-forecast-hub-de/master/app_forecasts_de/data/truth_data_use_detailed.csv",
+truth_data_use <- read.csv("../app_forecasts_de/data/truth_data_use_detailed.csv",
                            stringsAsFactors = FALSE, colClasses = list("starting_from"  ="Date"))
 
 # get names of models:
