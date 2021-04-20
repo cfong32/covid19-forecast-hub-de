@@ -32,8 +32,6 @@ jobs:
       env:
         AUTH: ${{ secrets.GITHUB_TOKEN }}
       run: | 
-        # check out dummy branch
-        git checkout baselines_ci
         cd ./code/baselines
         # create baselines
         Rscript KIT-baseline.R
@@ -50,7 +48,7 @@ jobs:
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
-        branch: basline
+        branch: baseline
         delete-branch: true
         title: 'Update baselines'
         body: |
