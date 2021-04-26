@@ -14,7 +14,7 @@ jobs:
       with: 
         python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
 
-    - run: pip3 install -r requirements.txt
+    - run: pip3 install -r ./github-actions/pr_requirements.txt
     - run: |
         cd ./code/hub_transfer
         python test.py
