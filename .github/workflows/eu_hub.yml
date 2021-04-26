@@ -17,7 +17,7 @@ jobs:
     - run: pip3 install -r ./github-actions/pr_requirements.txt
     - run: |
         cd ./code/hub_transfer
-        python test.py
+        python transfer_forecasts_to_europe.py
         cd ../../
 
     - name: Pushes test file
