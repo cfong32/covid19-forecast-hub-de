@@ -1383,6 +1383,8 @@ filename,first_commit,latest_commit
 2021-04-11-Germany-Karlen-pypm.csv,2021-04-12,2021-04-12
 2021-04-18-Germany-Karlen-pypm-case.csv,2021-04-19,2021-04-19
 2021-04-18-Germany-Karlen-pypm.csv,2021-04-19,2021-04-19
+2021-04-25-Germany-Karlen-pypm-case.csv,2021-04-26,2021-04-26
+2021-04-25-Germany-Karlen-pypm.csv,2021-04-26,2021-04-26
 2020-04-26-Germany-LANL-GrowthRate-case.csv,2020-08-06,2020-08-06
 2020-04-26-Germany-LANL-GrowthRate.csv,2020-05-09,2020-05-25
 2020-04-26-Poland-LANL-GrowthRate-case.csv,2020-08-06,2020-08-06
@@ -3662,6 +3664,10 @@ filename,first_commit,latest_commit
 2021-04-18-Germany-USC-SIkJalpha.csv,2021-04-18,2021-04-18
 2021-04-18-Poland-USC-SIkJalpha-case.csv,2021-04-18,2021-04-18
 2021-04-18-Poland-USC-SIkJalpha.csv,2021-04-18,2021-04-18
+2021-04-25-Germany-USC-SIkJalpha-case.csv,2021-04-25,2021-04-25
+2021-04-25-Germany-USC-SIkJalpha.csv,2021-04-25,2021-04-25
+2021-04-25-Poland-USC-SIkJalpha-case.csv,2021-04-25,2021-04-25
+2021-04-25-Poland-USC-SIkJalpha.csv,2021-04-25,2021-04-25
 2021-04-05-Germany-USyd-OneModelMan.csv,2021-04-07,2021-04-07
 2021-04-05-Poland-USyd-OneModelMan.csv,2021-04-07,2021-04-07
 2021-04-12-Germany-USyd-OneModelMan.csv,2021-04-13,2021-04-13
