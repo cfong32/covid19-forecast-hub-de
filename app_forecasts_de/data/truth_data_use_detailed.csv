@@ -538,3 +538,6 @@ epiforecasts-EpiNow2_secondary,PL13,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,PL14,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,PL15,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,PL16,ECDC,2020-01-01
+BIOCOMSC-Gompertz,DE,JHU,2020-01-01
+BIOCOMSC-Gompertz,PL,JHU,2020-01-01
+PL_GRedlarski-DistrictsSum,PL,JHU,2020-01-01
