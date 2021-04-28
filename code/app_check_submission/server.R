@@ -55,23 +55,67 @@ colnames(dat_truth$ECDC) <- gsub("cum_", "cum ", colnames(dat_truth$ECDC)) # for
 cols_legend <- c("#699DAF", "#D3D3D3")
 
 # Define server logic required to draw a histogram
-shinyServer(function(input, output) {
+shinyServer(function(input, output, session) {
 
 
   dat <- reactiveValues()
-
+  
+  # Handle reading in of files:
   observe({
-    inFile <- input$file1
-
-    if (is.null(inFile)){
+    inFile <- input$file # file upload
+    query <- parseQueryString(session$clientData$url_search) # arguments provided in URL
+    
+    # initialization:
+    dat$path <- ""
+    dat$forecasts <- NULL
+    
+    # if path to csv provided in URL:
+    if(!is.null(query$file) & is.null(inFile) & input$path == ""){
+      dat$path <- query$file
+      dat$name <- basename(query$file)
       dat$forecasts <- NULL
-    }else{
-      dat$forecasts <- read_week_ahead(inFile$datapath)
+      try(dat$forecasts <- read_week_ahead(dat$path)) # wrapped in try() to avoid crash if no valid csv
+    }
+    
+    # if file uploaded:
+    if(!is.null(inFile) & input$path == ""){
+      dat$path <- inFile$datapath
+      dat$name <- basename(inFile$name)
+      dat$forecasts <- NULL
+      try(dat$forecasts <- read_week_ahead(dat$path)) # wrapped in try() to avoid crash if no valid csv
+    }
+    
+    # if path to csv provided in input field:
+    if(input$path != ""){
+      dat$path <- input$path
+      dat$name <- basename(input$path)
+      dat$forecasts <- NULL
+      try(dat$forecasts <- read_week_ahead(dat$path)) # wrapped in try() to avoid crash if no valid csv
+    }
+    
+    # extact locations:
+    if(!is.null(dat$forecasts)){
       locations <- unique(dat$forecasts$location)
       if(!is.null(dat$forecasts$location_name)) names(locations) <- unique(dat$forecasts$location_name)
       dat$locations <- locations
     }
+    
+    print(dat$forecasts)
+    
   })
+
+  # observe({
+  #   inFile <- input$file1
+  # 
+  #   if (is.null(inFile)){
+  #     dat$forecasts <- NULL
+  #   }else{
+  #     dat$forecasts <- read_week_ahead(inFile$datapath)
+  #     locations <- unique(dat$forecasts$location)
+  #     if(!is.null(dat$forecasts$location_name)) names(locations) <- unique(dat$forecasts$location_name)
+  #     dat$locations <- locations
+  #   }
+  # })
 
   # input element to select location:
   output$inp_select_location <- renderUI(

@@ -8,7 +8,6 @@
 __pycache__/
 covid19-forecast-hub-de.Rproj
 data-raw/IHME/2020_09_02/Reference_hospitalization_all_locs.csv
-
 #ignore all IHME base files since they are too large
 Reference_hospitalization_all_locs.csv
 Best_mask_hospitalization_all_locs.csv
@@ -21,8 +20,11 @@ reference_hospitalization_all_locs.csv
 best_mask_hospitalization_all_locs.csv
 best_masks_hospitalization_all_locs.csv
 worse_hospitalization_all_locs.csv
-
+new_variant_hospitalization_all_locs.csv
 # ignore developement credentials
 /code/auto_download/creds.json
-
 Rdeps/
+covid19-forecast-hub-de_v2.Rproj
+
+# folders to exchange files between hubs
+/upload_eu

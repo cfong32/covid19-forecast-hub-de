@@ -26,10 +26,16 @@ get_forecast_date<-function(path,country="Germany") {
   data <- data.table::fread(path, stringsAsFactors = FALSE,data.table=FALSE) %>% filter(location_name==country) %>%
     mutate(date=as.Date(date))
   given_forecast_date <- get_date(path)
-  is_equal_lmu<-data$deaths_mean==data$deaths_upper & data$deaths_lower==data$deaths_mean
-  is_not_zero<-data$deaths_mean!=0
-  real_date<-max(data$date[is_equal_lmu & is_not_zero],na.rm = TRUE)
-  
+  if(given_forecast_date>"2021-04-15") #at this date, IHME changed file format
+  {
+    real_date<-min(data$date[data$deaths_data_type=="projected"])
+  } else {
+    
+    is_equal_lmu<-data$deaths_mean==data$deaths_upper & data$deaths_lower==data$deaths_mean
+    is_not_zero<-data$deaths_mean!=0
+    real_date<-max(data$date[is_equal_lmu & is_not_zero],na.rm = TRUE)
+  }
+
   return(c(report_date=given_forecast_date,Real_forecast_date=real_date))
 }
 
