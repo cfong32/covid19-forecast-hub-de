@@ -246,6 +246,8 @@ filename,first_commit,latest_commit
 2021-04-09-Poland-IHME-CurveFit.csv,2021-04-14,2021-04-14
 2021-04-16-Germany-IHME-CurveFit.csv,2021-04-22,2021-04-22
 2021-04-16-Poland-IHME-CurveFit.csv,2021-04-22,2021-04-22
+2021-04-22-Germany-IHME-CurveFit.csv,2021-04-28,2021-04-28
+2021-04-22-Poland-IHME-CurveFit.csv,2021-04-28,2021-04-28
 2021-04-05-Germany-ILM-EKF-case.csv,2021-04-07,2021-04-07
 2021-04-05-Germany-ILM-EKF.csv,2021-04-07,2021-04-07
 2021-04-05-Poland-ILM-EKF-case.csv,2021-04-07,2021-04-07
@@ -1122,6 +1124,10 @@ filename,first_commit,latest_commit
 2021-04-19-Germany-KITCOVIDhub-inverse_wis_ensemble.csv,2021-04-21,2021-04-21
 2021-04-19-Poland-KITCOVIDhub-inverse_wis_ensemble-case.csv,2021-04-21,2021-04-21
 2021-04-19-Poland-KITCOVIDhub-inverse_wis_ensemble.csv,2021-04-21,2021-04-21
+2021-04-26-Germany-KITCOVIDhub-inverse_wis_ensemble-case.csv,2021-04-28,2021-04-28
+2021-04-26-Germany-KITCOVIDhub-inverse_wis_ensemble.csv,2021-04-28,2021-04-28
+2021-04-26-Poland-KITCOVIDhub-inverse_wis_ensemble-case.csv,2021-04-28,2021-04-28
+2021-04-26-Poland-KITCOVIDhub-inverse_wis_ensemble.csv,2021-04-28,2021-04-28
 2020-07-27-Germany-KITCOVIDhub-mean_ensemble.csv,2020-09-22,2020-09-22
 2020-08-03-Germany-KITCOVIDhub-mean_ensemble.csv,2020-09-22,2020-09-22
 2020-08-10-Germany-KITCOVIDhub-mean_ensemble.csv,2020-09-22,2020-09-22
@@ -1249,6 +1255,10 @@ filename,first_commit,latest_commit
 2021-04-19-Germany-KITCOVIDhub-mean_ensemble.csv,2021-04-21,2021-04-21
 2021-04-19-Poland-KITCOVIDhub-mean_ensemble-case.csv,2021-04-21,2021-04-21
 2021-04-19-Poland-KITCOVIDhub-mean_ensemble.csv,2021-04-21,2021-04-21
+2021-04-26-Germany-KITCOVIDhub-mean_ensemble-case.csv,2021-04-28,2021-04-28
+2021-04-26-Germany-KITCOVIDhub-mean_ensemble.csv,2021-04-28,2021-04-28
+2021-04-26-Poland-KITCOVIDhub-mean_ensemble-case.csv,2021-04-28,2021-04-28
+2021-04-26-Poland-KITCOVIDhub-mean_ensemble.csv,2021-04-28,2021-04-28
 2020-07-27-Germany-KITCOVIDhub-median_ensemble.csv,2020-09-22,2020-09-22
 2020-08-03-Germany-KITCOVIDhub-median_ensemble.csv,2020-09-22,2020-09-22
 2020-08-10-Germany-KITCOVIDhub-median_ensemble.csv,2020-09-22,2020-09-22
@@ -1376,6 +1386,10 @@ filename,first_commit,latest_commit
 2021-04-19-Germany-KITCOVIDhub-median_ensemble.csv,2021-04-21,2021-04-21
 2021-04-19-Poland-KITCOVIDhub-median_ensemble-case.csv,2021-04-21,2021-04-21
 2021-04-19-Poland-KITCOVIDhub-median_ensemble.csv,2021-04-21,2021-04-21
+2021-04-26-Germany-KITCOVIDhub-median_ensemble-case.csv,2021-04-28,2021-04-28
+2021-04-26-Germany-KITCOVIDhub-median_ensemble.csv,2021-04-28,2021-04-28
+2021-04-26-Poland-KITCOVIDhub-median_ensemble-case.csv,2021-04-28,2021-04-28
+2021-04-26-Poland-KITCOVIDhub-median_ensemble.csv,2021-04-28,2021-04-28
 2020-12-06-Germany-Karlen-pypm-case.csv,2020-12-07,2020-12-07
 2020-12-06-Germany-Karlen-pypm.csv,2020-12-07,2020-12-07
 2020-12-13-Germany-Karlen-pypm-case.csv,2020-12-14,2020-12-14
@@ -4394,9 +4408,9 @@ filename,first_commit,latest_commit
 2021-04-19-Poland-epiforecasts-EpiNow2-case.csv,2021-04-19,2021-04-19
 2021-04-19-Poland-epiforecasts-EpiNow2.csv,2021-04-19,2021-04-19
 2021-04-26-Germany-epiforecasts-EpiNow2-case.csv,2021-04-27,2021-04-27
-2021-04-26-Germany-epiforecasts-EpiNow2.csv,2021-04-27,2021-04-27
-2021-04-26-Poland-epiforecasts-EpiNow2-case.csv,2021-04-27,2021-04-27
-2021-04-26-Poland-epiforecasts-EpiNow2.csv,2021-04-27,2021-04-27
+2021-04-26-Germany-epiforecasts-EpiNow2.csv,2021-04-27,2021-04-28
+2021-04-26-Poland-epiforecasts-EpiNow2-case.csv,2021-04-27,2021-04-28
+2021-04-26-Poland-epiforecasts-EpiNow2.csv,2021-04-27,2021-04-28
 2020-12-07-Germany-epiforecasts-EpiNow2_secondary.csv,2020-12-15,2020-12-15
 2020-12-07-Poland-epiforecasts-EpiNow2_secondary.csv,2020-12-15,2020-12-15
 2020-12-14-Germany-epiforecasts-EpiNow2_secondary.csv,2020-12-15,2020-12-15
@@ -4437,6 +4451,8 @@ filename,first_commit,latest_commit
 2021-04-12-Poland-epiforecasts-EpiNow2_secondary.csv,2021-04-13,2021-04-13
 2021-04-19-Germany-epiforecasts-EpiNow2_secondary.csv,2021-04-19,2021-04-19
 2021-04-19-Poland-epiforecasts-EpiNow2_secondary.csv,2021-04-19,2021-04-19
+2021-04-26-Germany-epiforecasts-EpiNow2_secondary.csv,2021-04-27,2021-04-27
+2021-04-26-Poland-epiforecasts-EpiNow2_secondary.csv,2021-04-27,2021-04-27
 2020-12-21-Germany-itwm-dSEIR.csv,2020-12-23,2020-12-23
 2021-01-04-Germany-itwm-dSEIR-case.csv,2021-01-05,2021-01-07
 2021-01-04-Germany-itwm-dSEIR.csv,2021-01-04,2021-01-07
