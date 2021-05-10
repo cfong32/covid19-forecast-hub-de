@@ -22,7 +22,8 @@ res = r.json()
 files = [file["path"] for file in res["tree"] if (file["path"].startswith("data-processed/") and file["path"].endswith(".csv"))]
 
 # list files pres
-excluded_models = ["USC-SIkJalpha", "MIMUW-StochSEIR", "LeipzigIMISE-SECIR"]
+excluded_models = ["USC-SIkJalpha", "MIMUW-StochSEIR", "LeipzigIMISE-SECIR", "epiforecasts-EpiExpert", "epiforecasts-EpiNow2",
+                   "epiforecasts-EpiNow2_secondary", "epiforecasts-EpiExpert_Rt", "epiforecasts-EpiExpert_direct"]
 
 # the forecast_dates for which to transfer forecasts
 forecast_dates = [datetime.now() - timedelta(x) for x in range(4)]
