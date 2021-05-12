@@ -33,7 +33,7 @@ jobs:
         AUTH: ${{ secrets.GITHUB_TOKEN }}
       run: | 
         
-        python 3 code/hub_transfer/download_eu.py
+        python 3 ./code/hub_transfer/download_eu.py
         cd ./code/hub_transfer/
         # create baselines
         Rscript transfer_forecasts_from_europe.R
