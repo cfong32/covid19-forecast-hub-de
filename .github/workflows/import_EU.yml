@@ -50,9 +50,9 @@ jobs:
         signoff: false
         branch: import_eu
         delete-branch: true
-        title: 'Import Eu forecasts'
+        title: 'Import EU forecasts'
         body: |
-          Import Eu forecasts
+          Import EU forecasts
         labels: |
           automated pr
         reviewers: jbracher
