@@ -1,9 +1,7 @@
   
-name: "Baselines"
+name: "Import_EU"
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 8 * * 2"
 
 jobs:
 
