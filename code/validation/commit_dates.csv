@@ -15,6 +15,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-BIOCOMSC-Gompertz.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-BIOCOMSC-Gompertz-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-BIOCOMSC-Gompertz.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-BIOCOMSC-Gompertz-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-BIOCOMSC-Gompertz.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-BIOCOMSC-Gompertz-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-BIOCOMSC-Gompertz.csv,2021-05-25,2021-05-25
 2021-04-12-Germany-CASUS-BGLM-case.csv,2021-04-12,2021-04-15
 2021-04-19-Germany-CASUS-BGLM-case.csv,2021-04-19,2021-04-19
 2021-04-26-Germany-CASUS-BGLM-case.csv,2021-04-26,2021-04-26
@@ -47,6 +51,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-EuroCOVIDhub-ensemble.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-EuroCOVIDhub-ensemble-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-EuroCOVIDhub-ensemble.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-EuroCOVIDhub-ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-EuroCOVIDhub-ensemble.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-EuroCOVIDhub-ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-EuroCOVIDhub-ensemble.csv,2021-05-25,2021-05-25
 2020-06-29-Germany-FIAS_FZJ-Epi1Ger.csv,2020-06-29,2020-06-29
 2020-07-06-Germany-FIAS_FZJ-Epi1Ger.csv,2020-07-06,2020-07-06
 2020-07-13-Germany-FIAS_FZJ-Epi1Ger.csv,2020-07-13,2020-07-13
@@ -131,6 +139,8 @@ filename,first_commit,latest_commit
 2021-05-10-Germany-FIAS_FZJ-Epi1Ger.csv,2021-05-10,2021-05-10
 2021-05-17-Germany-FIAS_FZJ-Epi1Ger-case.csv,2021-05-17,2021-05-17
 2021-05-17-Germany-FIAS_FZJ-Epi1Ger.csv,2021-05-17,2021-05-17
+2021-05-24-Germany-FIAS_FZJ-Epi1Ger-case.csv,2021-05-24,2021-05-24
+2021-05-24-Germany-FIAS_FZJ-Epi1Ger.csv,2021-05-24,2021-05-24
 2021-03-15-Germany-HZI-AgeExtendedSEIR-case.csv,2021-03-25,2021-03-25
 2021-03-15-Germany-HZI-AgeExtendedSEIR.csv,2021-03-25,2021-03-25
 2021-03-22-Germany-HZI-AgeExtendedSEIR-case.csv,2021-03-25,2021-03-25
@@ -227,6 +237,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-IEM_Health-CovidProject.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-IEM_Health-CovidProject-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-IEM_Health-CovidProject.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-IEM_Health-CovidProject-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-IEM_Health-CovidProject.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-IEM_Health-CovidProject-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-IEM_Health-CovidProject.csv,2021-05-25,2021-05-25
 2020-07-04-Germany-IHME-CurveFit.csv,2020-08-06,2021-01-04
 2020-07-04-Poland-IHME-CurveFit.csv,2020-08-06,2020-08-06
 2020-07-11-Germany-IHME-CurveFit.csv,2020-08-06,2020-11-23
@@ -329,6 +343,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-ILM-EKF.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-ILM-EKF-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-ILM-EKF.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-ILM-EKF-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-ILM-EKF.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-ILM-EKF-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-ILM-EKF.csv,2021-05-25,2021-05-25
 2020-10-12-Germany-ITWW-county_repro-case.csv,2020-10-12,2020-10-12
 2020-10-12-Germany-ITWW-county_repro.csv,2020-10-12,2020-10-12
 2020-10-12-Poland-ITWW-county_repro-case.csv,2020-10-12,2020-11-03
@@ -457,6 +475,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-ITWW-county_repro.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-ITWW-county_repro-case.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-ITWW-county_repro.csv,2021-05-17,2021-05-17
+2021-05-24-Germany-ITWW-county_repro-case.csv,2021-05-24,2021-05-24
+2021-05-24-Germany-ITWW-county_repro.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-ITWW-county_repro-case.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-ITWW-county_repro.csv,2021-05-24,2021-05-24
 2021-04-12-Germany-Imperial-DeCa.csv,2021-04-13,2021-04-13
 2021-04-12-Poland-Imperial-DeCa.csv,2021-04-13,2021-04-13
 2021-04-19-Germany-Imperial-DeCa.csv,2021-04-20,2021-04-20
@@ -467,6 +489,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-Imperial-DeCa.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-Imperial-DeCa.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-Imperial-DeCa.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-Imperial-DeCa.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-Imperial-DeCa.csv,2021-05-25,2021-05-25
 2021-04-12-Germany-Imperial-RtI0.csv,2021-04-13,2021-04-13
 2021-04-12-Poland-Imperial-RtI0.csv,2021-04-13,2021-04-13
 2021-04-19-Germany-Imperial-RtI0.csv,2021-04-20,2021-04-20
@@ -477,6 +501,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-Imperial-RtI0.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-Imperial-RtI0.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-Imperial-RtI0.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-Imperial-RtI0.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-Imperial-RtI0.csv,2021-05-25,2021-05-25
 2020-03-29-Germany-Imperial-ensemble1.csv,2020-05-09,2020-05-20
 2020-04-05-Germany-Imperial-ensemble1.csv,2020-05-09,2020-05-20
 2020-04-05-Poland-Imperial-ensemble1.csv,2020-07-30,2020-07-30
@@ -669,6 +695,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-Imperial-sbkp.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-Imperial-sbkp.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-Imperial-sbkp.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-Imperial-sbkp.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-Imperial-sbkp.csv,2021-05-25,2021-05-25
 2020-06-08-Germany-JGU_UHH-SMM.csv,2020-06-08,2020-06-08
 2020-06-15-Germany-JGU_UHH-SMM.csv,2020-06-16,2020-06-16
 2020-06-22-Germany-JGU_UHH-SMM.csv,2020-06-23,2020-06-23
@@ -893,6 +921,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-KIT-baseline.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-KIT-baseline-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-KIT-baseline.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-KIT-baseline-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-KIT-baseline.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KIT-baseline-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KIT-baseline.csv,2021-05-25,2021-05-25
 2020-10-12-Germany-KIT-extrapolation_baseline-case.csv,2020-12-15,2020-12-15
 2020-10-12-Germany-KIT-extrapolation_baseline.csv,2020-12-15,2020-12-15
 2020-10-12-Poland-KIT-extrapolation_baseline-case.csv,2020-12-15,2020-12-15
@@ -1021,6 +1053,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-KIT-extrapolation_baseline.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-KIT-extrapolation_baseline-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-KIT-extrapolation_baseline.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-KIT-extrapolation_baseline-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-KIT-extrapolation_baseline.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KIT-extrapolation_baseline-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KIT-extrapolation_baseline.csv,2021-05-25,2021-05-25
 2020-10-12-Germany-KIT-time_series_baseline-case.csv,2020-10-21,2020-10-21
 2020-10-12-Germany-KIT-time_series_baseline.csv,2020-10-21,2020-10-21
 2020-10-12-Poland-KIT-time_series_baseline-case.csv,2020-10-21,2020-11-02
@@ -1149,6 +1185,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-KIT-time_series_baseline.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-KIT-time_series_baseline-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-KIT-time_series_baseline.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-KIT-time_series_baseline-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-KIT-time_series_baseline.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KIT-time_series_baseline-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KIT-time_series_baseline.csv,2021-05-25,2021-05-25
 2020-10-12-Germany-KITCOVIDhub-inverse_wis_ensemble-case.csv,2020-11-04,2020-11-04
 2020-10-12-Germany-KITCOVIDhub-inverse_wis_ensemble.csv,2020-11-04,2020-11-04
 2020-10-12-Poland-KITCOVIDhub-inverse_wis_ensemble-case.csv,2020-11-04,2020-11-04
@@ -1277,6 +1317,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-KITCOVIDhub-inverse_wis_ensemble.csv,2021-05-19,2021-05-19
 2021-05-17-Poland-KITCOVIDhub-inverse_wis_ensemble-case.csv,2021-05-19,2021-05-19
 2021-05-17-Poland-KITCOVIDhub-inverse_wis_ensemble.csv,2021-05-19,2021-05-19
+2021-05-24-Germany-KITCOVIDhub-inverse_wis_ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-KITCOVIDhub-inverse_wis_ensemble.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KITCOVIDhub-inverse_wis_ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KITCOVIDhub-inverse_wis_ensemble.csv,2021-05-25,2021-05-25
 2020-07-27-Germany-KITCOVIDhub-mean_ensemble.csv,2020-09-22,2020-09-22
 2020-08-03-Germany-KITCOVIDhub-mean_ensemble.csv,2020-09-22,2020-09-22
 2020-08-10-Germany-KITCOVIDhub-mean_ensemble.csv,2020-09-22,2020-09-22
@@ -1420,6 +1464,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-KITCOVIDhub-mean_ensemble.csv,2021-05-19,2021-05-19
 2021-05-17-Poland-KITCOVIDhub-mean_ensemble-case.csv,2021-05-19,2021-05-19
 2021-05-17-Poland-KITCOVIDhub-mean_ensemble.csv,2021-05-19,2021-05-19
+2021-05-24-Germany-KITCOVIDhub-mean_ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-KITCOVIDhub-mean_ensemble.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KITCOVIDhub-mean_ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KITCOVIDhub-mean_ensemble.csv,2021-05-25,2021-05-25
 2020-07-27-Germany-KITCOVIDhub-median_ensemble.csv,2020-09-22,2020-09-22
 2020-08-03-Germany-KITCOVIDhub-median_ensemble.csv,2020-09-22,2020-09-22
 2020-08-10-Germany-KITCOVIDhub-median_ensemble.csv,2020-09-22,2020-09-22
@@ -1563,6 +1611,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-KITCOVIDhub-median_ensemble.csv,2021-05-19,2021-05-19
 2021-05-17-Poland-KITCOVIDhub-median_ensemble-case.csv,2021-05-19,2021-05-19
 2021-05-17-Poland-KITCOVIDhub-median_ensemble.csv,2021-05-19,2021-05-19
+2021-05-24-Germany-KITCOVIDhub-median_ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-KITCOVIDhub-median_ensemble.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KITCOVIDhub-median_ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-KITCOVIDhub-median_ensemble.csv,2021-05-25,2021-05-25
 2020-12-06-Germany-Karlen-pypm-case.csv,2020-12-07,2020-12-07
 2020-12-06-Germany-Karlen-pypm.csv,2020-12-07,2020-12-07
 2020-12-13-Germany-Karlen-pypm-case.csv,2020-12-14,2020-12-14
@@ -1611,6 +1663,8 @@ filename,first_commit,latest_commit
 2021-05-09-Germany-Karlen-pypm.csv,2021-05-10,2021-05-10
 2021-05-16-Germany-Karlen-pypm-case.csv,2021-05-17,2021-05-17
 2021-05-16-Germany-Karlen-pypm.csv,2021-05-17,2021-05-17
+2021-05-23-Germany-Karlen-pypm-case.csv,2021-05-24,2021-05-24
+2021-05-23-Germany-Karlen-pypm.csv,2021-05-24,2021-05-24
 2020-04-26-Germany-LANL-GrowthRate-case.csv,2020-08-06,2020-08-06
 2020-04-26-Germany-LANL-GrowthRate.csv,2020-05-09,2020-05-25
 2020-04-26-Poland-LANL-GrowthRate-case.csv,2020-08-06,2020-08-06
@@ -2015,6 +2069,10 @@ filename,first_commit,latest_commit
 2021-05-16-Germany-LANL-GrowthRate.csv,2021-05-18,2021-05-18
 2021-05-16-Poland-LANL-GrowthRate-case.csv,2021-05-18,2021-05-18
 2021-05-16-Poland-LANL-GrowthRate.csv,2021-05-18,2021-05-18
+2021-05-23-Germany-LANL-GrowthRate-case.csv,2021-05-25,2021-05-25
+2021-05-23-Germany-LANL-GrowthRate.csv,2021-05-25,2021-05-25
+2021-05-23-Poland-LANL-GrowthRate-case.csv,2021-05-25,2021-05-25
+2021-05-23-Poland-LANL-GrowthRate.csv,2021-05-25,2021-05-25
 2020-06-15-Germany-LeipzigIMISE-SECIR.csv,2020-07-21,2020-07-21
 2020-06-22-Germany-LeipzigIMISE-SECIR.csv,2020-07-21,2020-07-21
 2020-06-29-Germany-LeipzigIMISE-SECIR.csv,2020-07-21,2020-07-21
@@ -2168,6 +2226,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-MIMUW-StochSEIR.csv,2021-05-11,2021-05-11
 2021-05-17-Poland-MIMUW-StochSEIR-case.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-MIMUW-StochSEIR.csv,2021-05-17,2021-05-17
+2021-05-24-Poland-MIMUW-StochSEIR-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-MIMUW-StochSEIR.csv,2021-05-25,2021-05-25
 2020-04-17-Germany-MIT_CovidAnalytics-DELPHI.csv,2020-05-08,2020-06-08
 2020-04-18-Germany-MIT_CovidAnalytics-DELPHI.csv,2020-05-08,2020-06-08
 2020-04-19-Germany-MIT_CovidAnalytics-DELPHI.csv,2020-05-08,2020-06-08
@@ -2342,6 +2402,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-MIT_CovidAnalytics-DELPHI.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-MIT_CovidAnalytics-DELPHI-case.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-MIT_CovidAnalytics-DELPHI.csv,2021-05-17,2021-05-17
+2021-05-24-Germany-MIT_CovidAnalytics-DELPHI-case.csv,2021-05-24,2021-05-24
+2021-05-24-Germany-MIT_CovidAnalytics-DELPHI.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-MIT_CovidAnalytics-DELPHI-case.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-MIT_CovidAnalytics-DELPHI.csv,2021-05-24,2021-05-24
 2020-09-07-Poland-MOCOS-agent1-case.csv,2020-09-08,2020-09-11
 2020-09-07-Poland-MOCOS-agent1.csv,2020-09-08,2020-09-11
 2020-09-14-Poland-MOCOS-agent1-case.csv,2020-09-13,2020-09-13
@@ -2412,6 +2476,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-MOCOS-agent1.csv,2021-05-10,2021-05-10
 2021-05-17-Poland-MOCOS-agent1-case.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-MOCOS-agent1.csv,2021-05-17,2021-05-17
+2021-05-24-Poland-MOCOS-agent1-case.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-MOCOS-agent1.csv,2021-05-24,2021-05-24
 2021-02-01-Germany-MPI_DS-simpleDeaths_rkiAGs.csv,2021-02-03,2021-02-03
 2021-05-03-Germany-MUNI-ARIMA-case.csv,2021-05-04,2021-05-04
 2021-05-03-Germany-MUNI-ARIMA.csv,2021-05-04,2021-05-04
@@ -2425,10 +2491,15 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-MUNI-ARIMA.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-MUNI-ARIMA-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-MUNI-ARIMA.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-MUNI-ARIMA-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-MUNI-ARIMA.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-MUNI-ARIMA-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-MUNI-ARIMA.csv,2021-05-25,2021-05-25
 2021-04-26-Poland-PL_GRedlarski-DistrictsSum-case.csv,2021-04-27,2021-04-27
 2021-05-03-Poland-PL_GRedlarski-DistrictsSum-case.csv,2021-05-04,2021-05-04
 2021-05-10-Poland-PL_GRedlarski-DistrictsSum-case.csv,2021-05-11,2021-05-11
 2021-05-17-Poland-PL_GRedlarski-DistrictsSum-case.csv,2021-05-18,2021-05-18
+2021-05-24-Poland-PL_GRedlarski-DistrictsSum-case.csv,2021-05-25,2021-05-25
 2021-04-05-Germany-Priesemann-bayes-case.csv,2021-04-07,2021-04-07
 2021-04-05-Poland-Priesemann-bayes-case.csv,2021-04-07,2021-04-07
 2021-04-12-Germany-Priesemann-bayes-case.csv,2021-04-13,2021-04-13
@@ -2441,6 +2512,7 @@ filename,first_commit,latest_commit
 2021-05-10-Germany-Priesemann-bayes-case.csv,2021-05-11,2021-05-11
 2021-05-10-Poland-Priesemann-bayes-case.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-Priesemann-bayes-case.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-Priesemann-bayes-case.csv,2021-05-25,2021-05-25
 2021-04-05-Germany-RobertWalraven-ESG-case.csv,2021-04-07,2021-04-07
 2021-04-05-Germany-RobertWalraven-ESG.csv,2021-04-07,2021-04-07
 2021-04-05-Poland-RobertWalraven-ESG-case.csv,2021-04-07,2021-04-07
@@ -2469,6 +2541,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-RobertWalraven-ESG.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-RobertWalraven-ESG-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-RobertWalraven-ESG.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-RobertWalraven-ESG-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-RobertWalraven-ESG.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-RobertWalraven-ESG-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-RobertWalraven-ESG.csv,2021-05-25,2021-05-25
 2020-04-15-Germany-SDSC_ISG-TrendModel.csv,2021-04-07,2021-04-07
 2020-04-15-Poland-SDSC_ISG-TrendModel.csv,2021-04-07,2021-04-07
 2020-04-16-Germany-SDSC_ISG-TrendModel.csv,2021-04-07,2021-04-07
@@ -3789,6 +3865,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-SDSC_ISG-TrendModel.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-SDSC_ISG-TrendModel-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-SDSC_ISG-TrendModel.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-SDSC_ISG-TrendModel-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-SDSC_ISG-TrendModel.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-SDSC_ISG-TrendModel-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-SDSC_ISG-TrendModel.csv,2021-05-25,2021-05-25
 2020-09-27-Germany-UCLA-SuEIR-case.csv,2020-10-07,2020-12-02
 2020-09-27-Germany-UCLA-SuEIR.csv,2020-10-07,2020-12-02
 2020-10-04-Germany-UCLA-SuEIR-case.csv,2020-10-27,2020-12-02
@@ -3837,6 +3917,8 @@ filename,first_commit,latest_commit
 2021-05-09-Poland-UMass-MechBayes.csv,2021-05-11,2021-05-11
 2021-05-16-Germany-UMass-MechBayes.csv,2021-05-18,2021-05-18
 2021-05-16-Poland-UMass-MechBayes.csv,2021-05-18,2021-05-18
+2021-05-23-Germany-UMass-MechBayes.csv,2021-05-25,2021-05-25
+2021-05-23-Poland-UMass-MechBayes.csv,2021-05-25,2021-05-25
 2021-04-04-Germany-UMass-SemiMech-case.csv,2021-04-07,2021-04-07
 2021-04-04-Germany-UMass-SemiMech.csv,2021-04-07,2021-04-07
 2021-04-04-Poland-UMass-SemiMech-case.csv,2021-04-07,2021-04-07
@@ -3865,6 +3947,10 @@ filename,first_commit,latest_commit
 2021-05-16-Germany-UMass-SemiMech.csv,2021-05-18,2021-05-18
 2021-05-16-Poland-UMass-SemiMech-case.csv,2021-05-18,2021-05-18
 2021-05-16-Poland-UMass-SemiMech.csv,2021-05-18,2021-05-18
+2021-05-23-Germany-UMass-SemiMech-case.csv,2021-05-25,2021-05-25
+2021-05-23-Germany-UMass-SemiMech.csv,2021-05-25,2021-05-25
+2021-05-23-Poland-UMass-SemiMech-case.csv,2021-05-25,2021-05-25
+2021-05-23-Poland-UMass-SemiMech.csv,2021-05-25,2021-05-25
 2021-04-05-Germany-UNIPV-BayesINGARCHX-case.csv,2021-04-07,2021-04-07
 2021-04-12-Germany-UNIPV-BayesINGARCHX-case.csv,2021-04-13,2021-04-13
 2021-04-19-Germany-UNIPV-BayesINGARCHX-case.csv,2021-04-20,2021-04-20
@@ -3872,6 +3958,7 @@ filename,first_commit,latest_commit
 2021-05-03-Germany-UNIPV-BayesINGARCHX-case.csv,2021-05-04,2021-05-04
 2021-05-10-Germany-UNIPV-BayesINGARCHX-case.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-UNIPV-BayesINGARCHX-case.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-UNIPV-BayesINGARCHX-case.csv,2021-05-25,2021-05-25
 2020-08-17-Germany-USC-SIkJalpha-case.csv,2020-08-18,2020-12-02
 2020-08-17-Germany-USC-SIkJalpha.csv,2020-08-18,2020-12-02
 2020-08-17-Poland-USC-SIkJalpha-case.csv,2020-08-18,2020-12-02
@@ -4036,6 +4123,10 @@ filename,first_commit,latest_commit
 2021-05-16-Germany-USC-SIkJalpha.csv,2021-05-16,2021-05-16
 2021-05-16-Poland-USC-SIkJalpha-case.csv,2021-05-16,2021-05-16
 2021-05-16-Poland-USC-SIkJalpha.csv,2021-05-16,2021-05-16
+2021-05-23-Germany-USC-SIkJalpha-case.csv,2021-05-23,2021-05-23
+2021-05-23-Germany-USC-SIkJalpha.csv,2021-05-23,2021-05-23
+2021-05-23-Poland-USC-SIkJalpha-case.csv,2021-05-23,2021-05-23
+2021-05-23-Poland-USC-SIkJalpha.csv,2021-05-23,2021-05-23
 2021-04-05-Germany-USyd-OneModelMan.csv,2021-04-07,2021-04-07
 2021-04-05-Poland-USyd-OneModelMan.csv,2021-04-07,2021-04-07
 2021-04-12-Germany-USyd-OneModelMan.csv,2021-04-13,2021-04-13
@@ -4050,6 +4141,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-USyd-OneModelMan.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-USyd-OneModelMan.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-USyd-OneModelMan.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-USyd-OneModelMan.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-USyd-OneModelMan.csv,2021-05-25,2021-05-25
 2021-04-05-Germany-UVA-Ensemble-case.csv,2021-04-07,2021-04-07
 2021-04-05-Poland-UVA-Ensemble-case.csv,2021-04-07,2021-04-07
 2021-04-12-Germany-UVA-Ensemble-case.csv,2021-04-13,2021-04-13
@@ -4064,6 +4157,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-UVA-Ensemble-case.csv,2021-05-11,2021-05-11
 2021-05-17-Germany-UVA-Ensemble-case.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-UVA-Ensemble-case.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-UVA-Ensemble-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-UVA-Ensemble-case.csv,2021-05-25,2021-05-25
 2020-04-03-Germany-YYG-ParamSearch.csv,2020-05-11,2020-05-16
 2020-04-04-Germany-YYG-ParamSearch.csv,2020-05-11,2020-05-25
 2020-04-05-Germany-YYG-ParamSearch.csv,2020-05-11,2020-05-25
@@ -4565,6 +4660,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-epiforecasts-EpiExpert-case.csv,2021-05-18,2021-05-18
 2021-05-17-Germany-epiforecasts-EpiExpert.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-epiforecasts-EpiExpert.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-epiforecasts-EpiExpert-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-epiforecasts-EpiExpert.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-epiforecasts-EpiExpert-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-epiforecasts-EpiExpert.csv,2021-05-25,2021-05-25
 2021-01-11-Germany-epiforecasts-EpiExpert_Rt-case.csv,2021-01-14,2021-01-14
 2021-01-11-Germany-epiforecasts-EpiExpert_Rt.csv,2021-01-14,2021-01-14
 2021-01-11-Poland-epiforecasts-EpiExpert_Rt-case.csv,2021-01-14,2021-01-14
@@ -4617,6 +4716,10 @@ filename,first_commit,latest_commit
 2021-05-10-Germany-epiforecasts-EpiExpert_Rt.csv,2021-05-11,2021-05-11
 2021-05-10-Poland-epiforecasts-EpiExpert_Rt-case.csv,2021-05-11,2021-05-11
 2021-05-10-Poland-epiforecasts-EpiExpert_Rt.csv,2021-05-11,2021-05-11
+2021-05-24-Germany-epiforecasts-EpiExpert_Rt-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-epiforecasts-EpiExpert_Rt.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-epiforecasts-EpiExpert_Rt-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-epiforecasts-EpiExpert_Rt.csv,2021-05-25,2021-05-25
 2021-05-03-Germany-epiforecasts-EpiExpert_direct-case.csv,2021-05-04,2021-05-04
 2021-05-03-Germany-epiforecasts-EpiExpert_direct.csv,2021-05-04,2021-05-04
 2021-05-10-Germany-epiforecasts-EpiExpert_direct-case.csv,2021-05-11,2021-05-11
@@ -4626,6 +4729,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-epiforecasts-EpiExpert_direct-case.csv,2021-05-18,2021-05-18
 2021-05-17-Germany-epiforecasts-EpiExpert_direct.csv,2021-05-18,2021-05-18
 2021-05-17-Poland-epiforecasts-EpiExpert_direct.csv,2021-05-18,2021-05-18
+2021-05-24-Germany-epiforecasts-EpiExpert_direct-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-epiforecasts-EpiExpert_direct.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-epiforecasts-EpiExpert_direct-case.csv,2021-05-25,2021-05-25
+2021-05-24-Poland-epiforecasts-EpiExpert_direct.csv,2021-05-25,2021-05-25
 2020-10-12-Germany-epiforecasts-EpiNow2-case.csv,2020-10-13,2020-10-14
 2020-10-12-Germany-epiforecasts-EpiNow2.csv,2020-10-13,2020-10-14
 2020-10-12-Poland-epiforecasts-EpiNow2-case.csv,2020-10-13,2020-10-14
@@ -4754,6 +4861,10 @@ filename,first_commit,latest_commit
 2021-05-17-Germany-epiforecasts-EpiNow2.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-epiforecasts-EpiNow2-case.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-epiforecasts-EpiNow2.csv,2021-05-17,2021-05-17
+2021-05-24-Germany-epiforecasts-EpiNow2-case.csv,2021-05-24,2021-05-24
+2021-05-24-Germany-epiforecasts-EpiNow2.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-epiforecasts-EpiNow2-case.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-epiforecasts-EpiNow2.csv,2021-05-24,2021-05-24
 2020-12-07-Germany-epiforecasts-EpiNow2_secondary.csv,2020-12-15,2020-12-15
 2020-12-07-Poland-epiforecasts-EpiNow2_secondary.csv,2020-12-15,2020-12-15
 2020-12-14-Germany-epiforecasts-EpiNow2_secondary.csv,2020-12-15,2020-12-15
@@ -4802,6 +4913,8 @@ filename,first_commit,latest_commit
 2021-05-10-Poland-epiforecasts-EpiNow2_secondary.csv,2021-05-10,2021-05-10
 2021-05-17-Germany-epiforecasts-EpiNow2_secondary.csv,2021-05-17,2021-05-17
 2021-05-17-Poland-epiforecasts-EpiNow2_secondary.csv,2021-05-17,2021-05-17
+2021-05-24-Germany-epiforecasts-EpiNow2_secondary.csv,2021-05-24,2021-05-24
+2021-05-24-Poland-epiforecasts-EpiNow2_secondary.csv,2021-05-24,2021-05-24
 2020-12-21-Germany-itwm-dSEIR.csv,2020-12-23,2020-12-23
 2021-01-04-Germany-itwm-dSEIR-case.csv,2021-01-05,2021-01-07
 2021-01-04-Germany-itwm-dSEIR.csv,2021-01-04,2021-01-07
@@ -4843,3 +4956,5 @@ filename,first_commit,latest_commit
 2021-05-10-Germany-itwm-dSEIR.csv,2021-05-10,2021-05-11
 2021-05-17-Germany-itwm-dSEIR-case.csv,2021-05-17,2021-05-17
 2021-05-17-Germany-itwm-dSEIR.csv,2021-05-17,2021-05-17
+2021-05-24-Germany-itwm-dSEIR-case.csv,2021-05-25,2021-05-25
+2021-05-24-Germany-itwm-dSEIR.csv,2021-05-25,2021-05-25
