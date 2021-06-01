@@ -32,6 +32,7 @@ jobs:
         cd ./code/auto_download
         python3 ./rki_download.py
         python3 ./rki_update.py
+        python3 ./get_vaccination_data.py
         cd ../../         
         
     - name: Commit files

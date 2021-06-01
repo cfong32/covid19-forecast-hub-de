@@ -1,0 +1,1701 @@
+forecast_date,target,target_end_date,location,location_name,type,quantile,value
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM,Germany,observed,NA,57310
+2021-05-31,0 wk ahead inc case,2021-05-29,GM,Germany,observed,NA,33052
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,point,NA,25941.747542835947
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.01,6255.114465880371
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.025,9355.624616746656
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.05,12022.234395025138
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.1,15096.664689319596
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.15,17170.968212989508
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.2,18819.558896842493
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.25,20233.90291029043
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.3,21504.027546506055
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.35,22680.98730836983
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.4,23797.807027232495
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.45,24878.34303008144
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.5,25941.747542835947
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.55,27005.152055590457
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.6,28085.6880584394
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.65,29202.507777302068
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.7,30379.467539165846
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.75,31649.592175381465
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.8,33063.9361888294
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.85,34712.52687268239
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.9,36786.8303963523
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.95,39861.26069064675
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.975,42527.87046892523
+2021-05-31,1 wk ahead inc case,2021-06-05,GM,Germany,quantile,0.99,45628.380619791526
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,point,NA,23866.345473222045
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.15,3881.8116343959373
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.2,7638.1843658040925
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.25,10860.817695582133
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.3,13754.842025392996
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.35,16436.58686280588
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.4,18981.30046511128
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.45,21443.34032507235
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.5,23866.345473222045
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.55,26289.350621371745
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.6,28751.39048133282
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.65,31296.104083638216
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.7,33977.8489210511
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.75,36871.873250861965
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.8,40094.50658064
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.85,43850.87931204817
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.9,48577.253947847305
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.95,55582.453137200886
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.975,61658.41872073861
+2021-05-31,2 wk ahead inc case,2021-06-12,GM,Germany,quantile,0.99,68723.04179439836
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM02,Free State of Bavaria,observed,NA,8920
+2021-05-31,0 wk ahead inc case,2021-05-29,GM02,Free State of Bavaria,observed,NA,5458
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,point,NA,4427.7225338806375
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.01,817.3411927011352
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.025,1385.9515768672613
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.05,1874.9878762725161
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.1,2438.8154097003016
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.15,2819.2271697268097
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.2,3121.5663772976773
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.25,3380.9464965999787
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.3,3613.877860213041
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.35,3829.7234823131494
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.4,4034.539870096746
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.45,4232.702095598122
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.5,4427.7225338806375
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.55,4622.742972163154
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.6,4820.90519766453
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.65,5025.7215854481265
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.7,5241.567207548234
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.75,5474.498571161297
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.8,5733.878690463598
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.85,6036.217898034466
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.9,6416.629658060974
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.95,6980.4571914887565
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.975,7469.493490894013
+2021-05-31,1 wk ahead inc case,2021-06-05,GM02,Free State of Bavaria,quantile,0.99,8038.10387506014
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,point,NA,4779.469941866558
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.1,112.98182564137915
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.15,1005.5257437831538
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.2,1714.8913557042388
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.25,2323.4638876207723
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.3,2869.980830006628
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.35,3376.4102244332216
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.4,3856.9621959056017
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.45,4321.901789687788
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.5,4779.469941866558
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.55,5237.038094045329
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.6,5701.977687827515
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.65,6182.529659299895
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.7,6688.959053726489
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.75,7235.4759961123455
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.8,7844.048528028878
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.85,8553.414139949964
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.9,9445.958058091737
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.95,10768.842597220544
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.975,11916.247647880138
+2021-05-31,2 wk ahead inc case,2021-06-12,GM02,Free State of Bavaria,quantile,0.99,13250.353986086848
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM01,Baden-Württemberg State,observed,NA,9265
+2021-05-31,0 wk ahead inc case,2021-05-29,GM01,Baden-Württemberg State,observed,NA,5459
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,point,NA,3975.8763465155807
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.01,500.5382790790163
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.025,1047.8802706556394
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.05,1518.6245791020551
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.1,2061.3626184445375
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.15,2427.545396934289
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.2,2718.575861047637
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.25,2968.2540854129966
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.3,3192.4728475230177
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.35,3400.24494589337
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.4,3597.4003491690355
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.45,3788.150483499136
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.5,3975.8763465155807
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.55,4163.602209532026
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.6,4354.352343862126
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.65,4551.507747137792
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.7,4759.279845508145
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.75,4983.498607618166
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.8,5233.1768319835255
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.85,5524.2072960968735
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.9,5890.390074586625
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.95,6433.128113929105
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.975,6903.872422375522
+2021-05-31,1 wk ahead inc case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.99,7451.214413952145
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,point,NA,3895.750015158925
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.1,189.33060960117064
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.15,898.2453257901943
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.2,1461.6682691633969
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.25,1945.0349864474597
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.3,2379.1132376449777
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.35,2781.351427970847
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.4,3163.0361356317026
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.45,3532.3205074947164
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.5,3895.750015158925
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.55,4259.179522823134
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.6,4628.463894686149
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.65,5010.148602347004
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.7,5412.3867926728735
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.75,5846.465043870392
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.8,6329.8317611544535
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.85,6893.254704527659
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.9,7602.16942071668
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.95,8652.887820725296
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.975,9564.22933491731
+2021-05-31,2 wk ahead inc case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.99,10623.86079606134
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM03,Free Hanseatic City of Bremen,observed,NA,348
+2021-05-31,0 wk ahead inc case,2021-05-29,GM03,Free Hanseatic City of Bremen,observed,NA,208
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,point,NA,247.44464355388612
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.01,14.224436131418344
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.025,50.955024733028296
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.05,82.54535727866144
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.1,118.96698753602567
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.15,143.54048855859182
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.2,163.07072817549232
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.25,179.82593476128312
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.3,194.87262811675265
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.35,208.8156319161721
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.4,222.04617903250679
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.45,234.84688648343496
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.5,247.44464355388612
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.55,260.0424006243373
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.6,272.8431080752655
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.65,286.0736551916002
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.7,300.01665899101965
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.75,315.0633523464892
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.8,331.81855893228
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.85,351.3487985491805
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.9,375.92229957174663
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.95,412.3439298291107
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.975,443.934262374744
+2021-05-31,1 wk ahead inc case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.99,480.66485097635393
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,point,NA,238.20500382941495
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.1,18.131488256749776
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.15,60.224229730900134
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.2,93.67820628749553
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.25,122.37873937449905
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.3,148.1527051138935
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.35,172.03612546018852
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.4,194.69915580405458
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.45,216.6258999388585
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.5,238.20500382941495
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.55,259.7841077199714
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.6,281.71085185477534
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.65,304.37388219864147
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.7,328.25730254493646
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.75,354.03126828433096
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.8,382.7318013713344
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.85,416.18577792792996
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.9,458.2785194020802
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.95,520.6663030997497
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.975,574.7784013190744
+2021-05-31,2 wk ahead inc case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.99,637.6954097169071
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM04,Free Hanseatic City of Hamburg,observed,NA,755
+2021-05-31,0 wk ahead inc case,2021-05-29,GM04,Free Hanseatic City of Hamburg,observed,NA,518
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,point,NA,418.75729064359143
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.05,52.00475938674492
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.1,133.01011357059872
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.15,187.66404146466328
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.2,231.10125079009364
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.25,268.3665086688564
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.3,301.83186197519836
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.35,332.84249914815746
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.4,362.26856128847464
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.45,390.7386169542744
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.5,418.75729064359143
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.55,446.77596433290853
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.6,475.2460199987083
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.65,504.6720821390255
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.7,535.6827193119846
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.75,569.1480726183265
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.8,606.4133304970893
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.85,649.8505398225197
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.9,704.5044677165843
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.95,785.5098219004377
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.975,855.7698860041672
+2021-05-31,1 wk ahead inc case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.99,937.4623944951412
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,point,NA,388.1479541676765
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.2,6.18934218110644
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.25,82.03974478901648
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.3,150.15575058616372
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.35,213.2753812713778
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.4,273.1697383095034
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.45,331.1182218956369
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.5,388.1479541676765
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.55,445.1776864397162
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.6,503.1261700258498
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.65,563.0205270639755
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.7,626.1401577491895
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.75,694.2561635463367
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.8,770.1065661542467
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.85,858.5194741292003
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.9,969.7631007895967
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.95,1134.6429131937186
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.975,1277.6515612718676
+2021-05-31,2 wk ahead inc case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.99,1443.930020399928
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM05,Hesse State,observed,NA,4710
+2021-05-31,0 wk ahead inc case,2021-05-29,GM05,Hesse State,observed,NA,3050
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,point,NA,2400.6136995084553
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.01,330.62582626755966
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.025,656.6347678709972
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.05,937.0204428680779
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.1,1260.2871691506673
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.15,1478.393694661305
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.2,1651.737847019598
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.25,1800.4516948870178
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.3,1934.0013264666513
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.35,2057.754962998961
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.4,2175.1850621736207
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.45,2288.80004213257
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.5,2400.6136995084553
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.55,2512.4273568843405
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.6,2626.0423368432903
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.65,2743.47243601795
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.7,2867.2260725502597
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.75,3000.775704129893
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.8,3149.489551997313
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.85,3322.833704355606
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.9,3540.9402298662435
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.95,3864.2069561488315
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.975,4144.592631145913
+2021-05-31,1 wk ahead inc case,2021-06-05,GM05,Hesse State,quantile,0.99,4470.6015727493505
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,point,NA,1924.9750056169187
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.2,299.37502997484125
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.25,622.1911905807335
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.3,912.0900798576993
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.35,1180.7246043438986
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.4,1435.6324982538758
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.45,1682.258835636802
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.5,1924.9750056169187
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.55,2167.6911755970355
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.6,2414.317512979962
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.65,2669.2254068899397
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.7,2937.859931376139
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.75,3227.7588206531045
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.8,3550.5749812589966
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.85,3926.856642518105
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.9,4400.304893492048
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.95,5102.026521482034
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.975,5710.665383225042
+2021-05-31,2 wk ahead inc case,2021-06-12,GM05,Hesse State,quantile,0.99,6418.339593534198
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM06,Lower Saxony State,observed,NA,4044
+2021-05-31,0 wk ahead inc case,2021-05-29,GM06,Lower Saxony State,observed,NA,2145
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,point,NA,1763.9361020667634
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.01,75.81113586433435
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.025,341.67927965415356
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.05,570.3405506919519
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.1,833.972351841474
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.15,1011.8434764822734
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.2,1153.2098077173828
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.25,1274.4895324202944
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.3,1383.4024735109783
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.35,1484.326544704424
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.4,1580.0936188805633
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.45,1672.749371449299
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.5,1763.9361020667634
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.55,1855.1228326842281
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.6,1947.7785852529637
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.65,2043.5456594291034
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.7,2144.469730622549
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.75,2253.3826717132324
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.8,2374.6623964161445
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.85,2516.028727651254
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.9,2693.899852292053
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.95,2957.5316534415742
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.975,3186.1929244793732
+2021-05-31,1 wk ahead inc case,2021-06-05,GM06,Lower Saxony State,quantile,0.99,3452.061068269192
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,point,NA,1200.8104562439473
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.2,40.68011776740377
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.25,271.06202431331724
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.3,477.95209664370134
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.35,669.6665814421918
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.4,851.584879715615
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.45,1027.5929386184664
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.5,1200.8104562439473
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.55,1374.0279738694285
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.6,1550.0360327722801
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.65,1731.9543310457034
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.7,1923.668815844194
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.75,2130.558888174578
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.8,2360.940794720491
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.85,2629.4790437239853
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.9,2967.361479676029
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.95,3468.154148225858
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.975,3902.517102989683
+2021-05-31,2 wk ahead inc case,2021-06-12,GM06,Lower Saxony State,quantile,0.99,4407.557908500771
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM07,North Rhine-Westphalia State,observed,NA,13379
+2021-05-31,0 wk ahead inc case,2021-05-29,GM07,North Rhine-Westphalia State,observed,NA,7804
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,point,NA,6213.016226187436
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.01,1520.7496183898957
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.025,2259.74953732865
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.05,2895.3302366656594
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.1,3628.1140779414754
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.15,4122.51985675118
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.2,4515.457896766997
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.25,4852.5637472340595
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.3,5155.295219647787
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.35,5435.821044847389
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.4,5702.012620281554
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.45,5959.5560501241125
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.5,6213.016226187436
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.55,6466.476402250759
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.6,6724.019832093319
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.65,6990.211407527483
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.7,7270.737232727085
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.75,7573.468705140813
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.8,7910.574555607875
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.85,8303.512595623693
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.9,8797.918374433397
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.95,9530.70221570921
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.975,10166.28291504622
+2021-05-31,1 wk ahead inc case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.99,10905.282833984977
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,point,NA,5655.409899371888
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.15,909.7813193726588
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.2,1801.788605360343
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.25,2567.0514309029923
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.3,3254.2810996822104
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.35,3891.101805500562
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.4,4495.382380489577
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.45,5080.030830073572
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.5,5655.409899371888
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.55,6230.788968670205
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.6,6815.4374182542
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.65,7419.717993243216
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.7,8056.538699061568
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.75,8743.768367840785
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.8,9509.031193383435
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.85,10401.03847937112
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.9,11523.387328352295
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.95,13186.877392703806
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.975,14629.706940636963
+2021-05-31,2 wk ahead inc case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.99,16307.308101397939
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM08,Rhineland-Palatinate State,observed,NA,2587
+2021-05-31,0 wk ahead inc case,2021-05-29,GM08,Rhineland-Palatinate State,observed,NA,1441
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,point,NA,1172.3849394393308
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.01,294.67170622116714
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.025,432.90554125556423
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.05,551.7942654510539
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.1,688.8653503521986
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.15,781.3465605885657
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.2,854.847694770405
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.25,917.9051232333384
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.3,974.5326428648088
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.35,1027.0064789908229
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.4,1076.7990180467873
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.45,1124.9738758277929
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.5,1172.3849394393308
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.55,1219.7960030508686
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.6,1267.9708608318742
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.65,1317.763399887839
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.7,1370.237236013853
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.75,1426.8647556453234
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.8,1489.9221841082567
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.85,1563.4233182900962
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.9,1655.904528526463
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.95,1792.9756134276072
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.975,1911.864337623097
+2021-05-31,1 wk ahead inc case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.99,2050.0981726574946
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,point,NA,1029.8015373460098
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.1,49.282755600090695
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.15,236.82337575686802
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.2,385.8747154988308
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.25,513.7474932144903
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.3,628.5811996774912
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.35,734.9917423588188
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.4,835.9649414537419
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.45,933.6576801313931
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.5,1029.8015373460098
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.55,1125.9453945606265
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.6,1223.638133238278
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.65,1324.611332333201
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.7,1431.0218750145289
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.75,1545.8555814775295
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.8,1673.728359193189
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.85,1822.7796989351523
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.9,2010.3203190919294
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.95,2288.2837692048915
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.975,2529.3756083826456
+2021-05-31,2 wk ahead inc case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.99,2809.6969740172617
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM09,Saarland State,observed,NA,821
+2021-05-31,0 wk ahead inc case,2021-05-29,GM09,Saarland State,observed,NA,406
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,point,NA,336.14923175914936
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.05,9.991568803230791
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.1,82.03065444220405
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.15,130.63508351649318
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.2,169.26434295298117
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.25,202.4048079350071
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.3,232.16596973799562
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.35,259.7441214482095
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.4,285.9130905478668
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.45,311.2318710027973
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.5,336.14923175914936
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.55,361.06659251550144
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.6,386.385372970432
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.65,412.55434207008926
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.7,440.13249378030315
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.75,469.89365558329166
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.8,503.0341205653176
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.85,541.6633800018058
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.9,590.2678090760947
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.95,662.3068947150678
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.975,724.7900580314154
+2021-05-31,1 wk ahead inc case,2021-06-05,GM09,Saarland State,quantile,0.99,797.4402386835093
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,point,NA,322.82635300786785
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.2,34.245501782441465
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.25,91.5526891673187
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.3,143.01631459202304
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.35,190.7050331613901
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.4,235.95696359376274
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.45,279.7387299834078
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.5,322.82635300786785
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.55,365.913976032328
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.6,409.695742421973
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.65,454.94767285434574
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.7,502.6363914237128
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.75,554.1000168484172
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.8,611.4072042332944
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.85,678.2057301521824
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.9,762.2535287031664
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.95,886.8250270809622
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.975,994.8722240805175
+2021-05-31,2 wk ahead inc case,2021-06-12,GM09,Saarland State,quantile,0.99,1120.5004407767158
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM10,Schleswig-Holstein State,observed,NA,941
+2021-05-31,0 wk ahead inc case,2021-05-29,GM10,Schleswig-Holstein State,observed,NA,538
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,point,NA,524.1458071927556
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.01,123.55136403778579
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.025,186.64225075911668
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.05,240.9038939291463
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.1,303.46409337753863
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.15,345.6731629401559
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.2,379.2195933737894
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.25,407.9994436550422
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.3,433.8446386862735
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.35,457.7940635867419
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.4,480.51972579791914
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.45,502.50706698917924
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.5,524.1458071927556
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.55,545.784547396332
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.6,567.771888587592
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.65,590.4975507987692
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.7,614.4469756992377
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.75,640.292170730469
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.8,669.0720210117217
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.85,702.6184514453554
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.9,744.8275210079726
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.95,807.3877204563646
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.975,861.6493636263945
+2021-05-31,1 wk ahead inc case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.99,924.7402503477254
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,point,NA,522.0889506223126
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.1,86.5236295942014
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.15,169.83278383492564
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.2,236.04425867152003
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.25,292.84780849980893
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.3,343.859151833124
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.35,391.128763641313
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.4,435.98300274186715
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.45,479.37999816553355
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.5,522.0889506223126
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.55,564.7979030790917
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.6,608.1948985027582
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.65,653.0491376033124
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.7,700.3187494115014
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.75,751.3300927448164
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.8,808.1336425731054
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.85,874.3451174096999
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.9,957.654271650424
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.95,1081.1309878913444
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.975,1188.2286246563763
+2021-05-31,2 wk ahead inc case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.99,1312.7527723695607
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM11,Brandenburg State,observed,NA,1320
+2021-05-31,0 wk ahead inc case,2021-05-29,GM11,Brandenburg State,observed,NA,557
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,point,NA,367.3666047503896
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.05,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.1,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.15,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.2,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.25,38.86146541242522
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.3,111.96129511303104
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.35,179.69918138303785
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.4,243.9758113509334
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.45,306.1641947122509
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.5,367.3666047503896
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.55,428.5690147885284
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.6,490.757398149846
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.65,555.0340281177416
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.7,622.7719143877484
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.75,695.8717440883543
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.8,777.271870952411
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.85,872.1536603449288
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.9,991.5366169494296
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.95,1168.4801424359744
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.975,1321.9522625035956
+2021-05-31,1 wk ahead inc case,2021-06-05,GM11,Brandenburg State,quantile,0.99,1500.3967690904663
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,point,NA,388.05136532046726
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.2,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.25,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.3,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.35,90.01312261923482
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.4,192.0920743022346
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.45,290.85464140562055
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.5,388.05136532046726
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.55,485.24808923531407
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.6,584.0106563387001
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.65,686.0896080217001
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.7,793.665447376038
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.75,909.7566921685964
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.8,1039.0297984483802
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.85,1189.71339215628
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.9,1379.3077605152203
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.95,1660.3151748395592
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.975,1904.0471990121882
+2021-05-31,2 wk ahead inc case,2021-06-12,GM11,Brandenburg State,quantile,0.99,2187.4383502762794
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM12,Mecklenburg-Western Pomerania State,observed,NA,725
+2021-05-31,0 wk ahead inc case,2021-05-29,GM12,Mecklenburg-Western Pomerania State,observed,NA,291
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,point,NA,133.6216848405996
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.05,9.5846497863586535
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.1,36.980954106470435
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.15,55.46511056700338
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.2,70.1557321621508
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.25,82.75897741303721
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.3,94.07708116800293
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.35,104.564991031624
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.4,114.51699187725869
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.45,124.14566786897774
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.5,133.6216848405996
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.55,143.0977018122215
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.6,152.72637780394055
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.65,162.67837864957525
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.7,173.16628851319632
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.75,184.48439226816205
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.8,197.08763751904846
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.85,211.77825911419592
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.9,230.26241557472883
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.95,257.6587198948405
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,281.42092817267314
+2021-05-31,1 wk ahead inc case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.99,309.04963056946036
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,point,NA,93.93419148672568
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.15,13.375877221390823
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.2,28.51793944986298
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.25,41.50848056710585
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.3,53.174387979941606
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.35,63.98458976568596
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.4,74.24241412841985
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.45,84.16697791219913
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.5,93.93419148672568
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.55,103.70140506125223
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.6,113.62596884503152
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.65,123.88379320776544
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.7,134.6939949935098
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.75,146.35990240634555
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.8,159.3504435235884
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.85,174.4925057520606
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.9,193.54467761241654
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.95,221.78286632066832
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,246.2752837516441
+2021-05-31,2 wk ahead inc case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.99,274.7530120951664
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM13,Free State of Saxony,observed,NA,3863
+2021-05-31,0 wk ahead inc case,2021-05-29,GM13,Free State of Saxony,observed,NA,2086
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,point,NA,1617.946526069591
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.05,43.92830952401164
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.1,391.5848142689458
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.15,626.1470075173949
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.2,812.5696029384171
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.25,972.5035904270072
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.3,1116.1292541594446
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.35,1249.2198361103005
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.4,1375.5097834252772
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.45,1497.6967689941705
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.5,1617.946526069591
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.55,1738.1962831450119
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.6,1860.3832687139052
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.65,1986.673216028882
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.7,2119.763797979738
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.75,2263.389461712175
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.8,2423.323449200765
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.85,2609.7460446217883
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.9,2844.3082378702366
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.95,3191.9647426151696
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.975,3493.504913083634
+2021-05-31,1 wk ahead inc case,2021-06-05,GM13,Free State of Saxony,quantile,0.99,3844.1105273910257
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,point,NA,1524.7846127892658
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.2,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.25,196.72483624067286
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.3,492.2481991127845
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.35,766.0946365990146
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.4,1025.9481262719378
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.45,1277.3593847904278
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.5,1524.7846127892658
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.55,1772.209840788104
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.6,2023.6210993065943
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.65,2283.4745889795176
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.7,2557.321026465748
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.75,2852.84438933786
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.8,3181.923668012064
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.85,3565.5057583047846
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.9,4048.1396160015142
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.95,4763.475696870626
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.975,5383.923066108751
+2021-05-31,2 wk ahead inc case,2021-06-12,GM13,Free State of Saxony,quantile,0.99,6105.327218328954
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM14,Sachsen-Anhalt State,observed,NA,1349
+2021-05-31,0 wk ahead inc case,2021-05-29,GM14,Sachsen-Anhalt State,observed,NA,759
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,point,NA,860.4667580000817
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.025,17.841107518063154
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.05,153.31302033436396
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.1,309.5034596634125
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.15,414.8844075629478
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.2,498.63784430946737
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.25,570.4908354905664
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.3,635.0170422812433
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.35,694.8101891999645
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.4,751.5480384412449
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.45,806.4425642039638
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.5,860.4667580000817
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.55,914.4909517961996
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.6,969.3854775589185
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.65,1026.123326800199
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.7,1085.91647371892
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.75,1150.4426805095973
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.8,1222.295671690696
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.85,1306.0491084372159
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.9,1411.430056336751
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.95,1567.620495665799
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.975,1703.0924084821
+2021-05-31,1 wk ahead inc case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.99,1860.6077840971175
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,point,NA,1025.6149814735145
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.15,133.28357471945355
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.2,301.00974690556075
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.25,444.9038680196852
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.3,574.1252360149417
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.35,693.8680912961058
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.4,807.4923512785819
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.45,917.4251377744756
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.5,1025.6149814735145
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.55,1133.8048251725536
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.6,1243.7376116684472
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.65,1357.3618716509236
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.7,1477.1047269320875
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.75,1606.326094927344
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.8,1750.2202160414683
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.85,1917.9463882275763
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.9,2128.9842118577462
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.95,2441.774057127185
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.975,2713.07260030431
+2021-05-31,2 wk ahead inc case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.99,3028.515787338204
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM15,Free State of Thuringia,observed,NA,2269
+2021-05-31,0 wk ahead inc case,2021-05-29,GM15,Free State of Thuringia,observed,NA,1144
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,point,NA,671.1014592471264
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.05,16.834506674479258
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.1,161.34373757824977
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.15,258.84342960991125
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.2,336.3330940335401
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.25,402.81232629846204
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.3,462.5127314994107
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.35,517.8340540570426
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.4,570.3285792803073
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.45,621.117639948007
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.5,671.1014592471264
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.55,721.085278546246
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.6,771.8743392139456
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.65,824.3688644372103
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.7,879.6901869948423
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.75,939.390592195791
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.8,1005.8698244607128
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.85,1083.3594888843418
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.9,1180.8591809160032
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.95,1325.368411819773
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.975,1450.7086183922338
+2021-05-31,1 wk ahead inc case,2021-06-05,GM15,Free State of Thuringia,quantile,0.99,1596.4436959259538
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,point,NA,339.6009689708233
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.2,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.25,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.3,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.35,45.48930987143899
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.4,146.2233954253826
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.45,243.6847889848978
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.5,339.6009689708233
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.55,435.51714895674894
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.6,532.9785425162643
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.65,633.712628070208
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.7,739.8711810960018
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.75,854.432951100395
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.8,982.0029146738013
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.85,1130.7012875497755
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.9,1317.7977947917877
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.95,1595.103002664085
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.975,1835.6239148643458
+2021-05-31,2 wk ahead inc case,2021-06-12,GM15,Free State of Thuringia,quantile,0.99,2115.281454504046
+2021-05-31,-1 wk ahead inc case,2021-05-22,GM16,Berlin State,observed,NA,2014
+2021-05-31,0 wk ahead inc case,2021-05-29,GM16,Berlin State,observed,NA,1188
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,point,NA,936.1227251392307
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.01,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.025,0
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.05,63.70895367539015
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.1,256.4007022779591
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.15,386.4089102539841
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.2,489.73531260926586
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.25,578.3801654727786
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.3,657.9859830285659
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.35,731.7526366324133
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.4,801.7499772456806
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.45,869.4732143616403
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.5,936.1227251392307
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.55,1002.7722359168213
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.6,1070.4954730327809
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.65,1140.4928136460483
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.7,1214.2594672498958
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.75,1293.8652848056831
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.8,1382.5101376691957
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.85,1485.836540024478
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.9,1615.8447480005025
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.95,1808.5364966030706
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.975,1975.667851628672
+2021-05-31,1 wk ahead inc case,2021-06-05,GM16,Berlin State,quantile,0.99,2169.994170764668
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,point,NA,969.6184376524029
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.01,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.025,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.05,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.1,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.15,0
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.2,65.6968518612149
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.25,245.20011231041997
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.3,406.3995879752964
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.35,555.774925703089
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.4,697.5175137606393
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.45,834.655108079927
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.5,969.6184376524029
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.55,1104.581767224879
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.6,1241.719361544167
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.65,1383.4619496017172
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.7,1532.83728732951
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.75,1694.0367629943864
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.8,1873.540023443591
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.85,2082.772996527964
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.9,2346.035853456463
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.95,2736.231065231208
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.975,3074.6672200814082
+2021-05-31,2 wk ahead inc case,2021-06-12,GM16,Berlin State,quantile,0.99,3468.172389859427
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM,Germany,observed,NA,3642244
+2021-05-31,0 wk ahead cum case,2021-05-29,GM,Germany,observed,NA,3675296
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.01,3681551.11446588
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.025,3684651.624616747
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.05,3687318.2343950253
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.1,3690392.6646893197
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.15,3692466.9682129896
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.2,3694115.5588968424
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.25,3695529.9029102903
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.3,3696800.027546506
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.35,3697976.98730837
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.4,3699093.8070272324
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.45,3700174.3430300816
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.5,3701237.747542836
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.55,3702301.1520555904
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.6,3703381.688058439
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.65,3704498.507777302
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.7,3705675.4675391656
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.75,3706945.5921753813
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.8,3708359.9361888296
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.85,3710008.5268726824
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.9,3712082.8303963523
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.95,3715157.2606906467
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.975,3717823.870468925
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,quantile,0.99,3720924.3806197913
+2021-05-31,1 wk ahead cum case,2021-06-05,GM,Germany,point,NA,3701237.747542836
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.01,3681551.11446588
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.025,3684651.624616747
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.05,3687318.2343950253
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.1,3690392.6646893197
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.15,3696348.7798473854
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.2,3701753.7432626467
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.25,3706390.7206058726
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.3,3710554.869571899
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.35,3714413.5741711757
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.4,3718075.107492344
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.45,3721617.683355154
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.5,3725104.093016058
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.55,3728590.5026769624
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.6,3732133.0785397724
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.65,3735794.6118609402
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.7,3739653.316460217
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.75,3743817.4654262434
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.8,3748454.442769469
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.85,3753859.4061847306
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.9,3760660.0843441994
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.95,3770739.7138278475
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.975,3779482.2891896637
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,quantile,0.99,3789647.4224141897
+2021-05-31,2 wk ahead cum case,2021-06-12,GM,Germany,point,NA,3725104.093016058
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM02,Free State of Bavaria,observed,NA,632774
+2021-05-31,0 wk ahead cum case,2021-05-29,GM02,Free State of Bavaria,observed,NA,638232
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.01,639049.3411927011
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.025,639617.9515768673
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.05,640106.9878762725
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.1,640670.8154097003
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.15,641051.2271697269
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.2,641353.5663772976
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.25,641612.9464965999
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.3,641845.877860213
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.35,642061.7234823131
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.4,642266.5398700967
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.45,642464.7020955981
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.5,642659.7225338806
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.55,642854.7429721631
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.6,643052.9051976645
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.65,643257.7215854481
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.7,643473.5672075482
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.75,643706.4985711613
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.8,643965.8786904636
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.85,644268.2178980345
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.9,644648.629658061
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.95,645212.4571914887
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.975,645701.493490894
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,quantile,0.99,646270.1038750601
+2021-05-31,1 wk ahead cum case,2021-06-05,GM02,Free State of Bavaria,point,NA,642659.7225338806
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.01,639049.3411927011
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.025,639617.9515768673
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.05,640106.9878762725
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.1,640783.7972353416
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.15,642056.75291351
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.2,643068.4577330019
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.25,643936.4103842208
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.3,644715.8586902197
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.35,645438.1337067464
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.4,646123.5020660023
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.45,646786.6038852859
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.5,647439.1924757472
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.55,648091.7810662085
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.6,648754.882885492
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.65,649440.251244748
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.7,650162.5262612747
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.75,650941.9745672736
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.8,651809.9272184925
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.85,652821.6320379844
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.9,654094.5877161527
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.95,655981.2997887093
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.975,657617.7411387742
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,quantile,0.99,659520.457861147
+2021-05-31,2 wk ahead cum case,2021-06-12,GM02,Free State of Bavaria,point,NA,647439.1924757472
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM01,Baden-Württemberg State,observed,NA,485741
+2021-05-31,0 wk ahead cum case,2021-05-29,GM01,Baden-Württemberg State,observed,NA,491200
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.01,491700.538279079
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.025,492247.8802706556
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.05,492718.62457910203
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.1,493261.36261844455
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.15,493627.54539693426
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.2,493918.57586104766
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.25,494168.254085413
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.3,494392.472847523
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.35,494600.24494589336
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.4,494797.40034916904
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.45,494988.15048349916
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.5,495175.8763465156
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.55,495363.60220953205
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.6,495554.3523438621
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.65,495751.5077471378
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.7,495959.27984550816
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.75,496183.49860761815
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.8,496433.17683198355
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.85,496724.2072960969
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.9,497090.3900745866
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.95,497633.1281139291
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.975,498103.87242237554
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,quantile,0.99,498651.21441395214
+2021-05-31,1 wk ahead cum case,2021-06-05,GM01,Baden-Württemberg State,point,NA,495175.8763465156
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.01,491700.538279079
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.025,492247.8802706556
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.05,492718.62457910203
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.1,493450.6932280457
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.15,494525.79072272446
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.2,495380.244130211
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.25,496113.28907186043
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.3,496771.586085168
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.35,497381.5963738642
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.4,497960.4364848007
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.45,498520.47099099384
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.5,499071.6263616745
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.55,499622.7817323552
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.6,500182.81623854826
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.65,500761.6563494848
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.7,501371.666638181
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.75,502029.96365148854
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.8,502763.00859313796
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.85,503617.4620006245
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.9,504692.5594953033
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.95,506286.0159346544
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.975,507668.1017572928
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,quantile,0.99,509275.0752100135
+2021-05-31,2 wk ahead cum case,2021-06-12,GM01,Baden-Württemberg State,point,NA,499071.6263616745
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM03,Free Hanseatic City of Bremen,observed,NA,26820
+2021-05-31,0 wk ahead cum case,2021-05-29,GM03,Free Hanseatic City of Bremen,observed,NA,27028
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.01,27042.22443613142
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.025,27078.95502473303
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.05,27110.54535727866
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.1,27146.966987536027
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.15,27171.540488558592
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.2,27191.07072817549
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.25,27207.825934761284
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.3,27222.87262811675
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.35,27236.81563191617
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.4,27250.046179032506
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.45,27262.846886483436
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.5,27275.444643553885
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.55,27288.042400624337
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.6,27300.843108075267
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.65,27314.0736551916
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.7,27328.01665899102
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.75,27343.06335234649
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.8,27359.81855893228
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.85,27379.34879854918
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.9,27403.922299571746
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.95,27440.343929829112
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.975,27471.934262374743
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,quantile,0.99,27508.664850976355
+2021-05-31,1 wk ahead cum case,2021-06-05,GM03,Free Hanseatic City of Bremen,point,NA,27275.444643553885
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.01,27042.22443613142
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.025,27078.95502473303
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.05,27110.54535727866
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.1,27165.098475792776
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.15,27231.76471828949
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.2,27284.748934462987
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.25,27330.20467413578
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.3,27371.025333230646
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.35,27408.85175737636
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.4,27444.74533483656
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.45,27479.472786422295
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.5,27513.6496473833
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.55,27547.826508344308
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.6,27582.55395993004
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.65,27618.447537390242
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.7,27656.273961535957
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.75,27697.09462063082
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.8,27742.550360303616
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.85,27795.534576477112
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.9,27862.200818973826
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.95,27961.01023292886
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.975,28046.71266369382
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,quantile,0.99,28146.36026069326
+2021-05-31,2 wk ahead cum case,2021-06-12,GM03,Free Hanseatic City of Bremen,point,NA,27513.6496473833
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM04,Free Hanseatic City of Hamburg,observed,NA,75579
+2021-05-31,0 wk ahead cum case,2021-05-29,GM04,Free Hanseatic City of Hamburg,observed,NA,76097
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.01,76097
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.025,76097
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.05,76149.00475938675
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.1,76230.01011357059
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.15,76284.66404146467
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.2,76328.10125079009
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.25,76365.36650866886
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.3,76398.8318619752
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.35,76429.84249914816
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.4,76459.26856128848
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.45,76487.73861695427
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.5,76515.7572906436
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.55,76543.7759643329
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.6,76572.24601999871
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.65,76601.67208213902
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.7,76632.68271931198
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.75,76666.14807261832
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.8,76703.41333049709
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.85,76746.85053982252
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.9,76801.50446771659
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.95,76882.50982190044
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.975,76952.76988600417
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,quantile,0.99,77034.46239449515
+2021-05-31,1 wk ahead cum case,2021-06-05,GM04,Free Hanseatic City of Hamburg,point,NA,76515.7572906436
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.01,76097
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.025,76097
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.05,76149.00475938675
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.1,76230.01011357059
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.15,76284.66404146467
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.2,76334.2905929712
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.25,76447.40625345787
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.3,76548.98761256137
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.35,76643.11788041954
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.4,76732.43829959798
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.45,76818.85683884991
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.5,76903.90524481126
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.55,76988.95365077263
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.6,77075.37219002456
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.65,77164.692609203
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.7,77258.82287706117
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.75,77360.40423616466
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.8,77473.51989665134
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.85,77605.37001395172
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.9,77771.26756850618
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.95,78017.15273509416
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.975,78230.42144727604
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,quantile,0.99,78478.39241489508
+2021-05-31,2 wk ahead cum case,2021-06-12,GM04,Free Hanseatic City of Hamburg,point,NA,76903.90524481126
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM05,Hesse State,observed,NA,283058
+2021-05-31,0 wk ahead cum case,2021-05-29,GM05,Hesse State,observed,NA,286108
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.01,286438.6258262676
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.025,286764.634767871
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.05,287045.02044286806
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.1,287368.28716915066
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.15,287586.3936946613
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.2,287759.73784701957
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.25,287908.451694887
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.3,288042.0013264667
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.35,288165.75496299897
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.4,288283.18506217364
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.45,288396.80004213256
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.5,288508.6136995085
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.55,288620.42735688435
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.6,288734.04233684327
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.65,288851.47243601794
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.7,288975.2260725503
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.75,289108.7757041299
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.8,289257.48955199734
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.85,289430.8337043556
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.9,289648.94022986625
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.95,289972.20695614885
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.975,290252.5926311459
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,quantile,0.99,290578.6015727493
+2021-05-31,1 wk ahead cum case,2021-06-05,GM05,Hesse State,point,NA,288508.6136995085
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.01,286438.6258262676
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.025,286764.634767871
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.05,287045.02044286806
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.1,287368.28716915066
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.15,287586.3936946613
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.2,288059.1128769944
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.25,288530.64288546774
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.3,288954.09140632435
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.35,289346.47956734285
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.4,289718.8175604275
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.45,290079.0588777694
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.5,290433.5887051254
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.55,290788.11853248137
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.6,291148.35984982323
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.65,291520.6978429079
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.7,291913.0860039264
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.75,292336.534524783
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.8,292808.0645332563
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.85,293357.6903468737
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.9,294049.24512335827
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.95,295074.2334776309
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.975,295963.258014371
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,quantile,0.99,296996.94116628356
+2021-05-31,2 wk ahead cum case,2021-06-12,GM05,Hesse State,point,NA,290433.5887051254
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM06,Lower Saxony State,observed,NA,255516
+2021-05-31,0 wk ahead cum case,2021-05-29,GM06,Lower Saxony State,observed,NA,257661
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.01,257736.81113586432
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.025,258002.67927965414
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.05,258231.34055069197
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.1,258494.97235184148
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.15,258672.84347648226
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.2,258814.2098077174
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.25,258935.4895324203
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.3,259044.40247351097
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.35,259145.3265447044
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.4,259241.09361888055
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.45,259333.7493714493
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.5,259424.93610206677
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.55,259516.12283268422
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.6,259608.77858525296
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.65,259704.5456594291
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.7,259805.46973062254
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.75,259914.38267171325
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.8,260035.66239641616
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.85,260177.02872765125
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.9,260354.89985229206
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.95,260618.53165344158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.975,260847.19292447937
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,quantile,0.99,261113.0610682692
+2021-05-31,1 wk ahead cum case,2021-06-05,GM06,Lower Saxony State,point,NA,259424.93610206677
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.01,257736.81113586432
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.025,258002.67927965414
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.05,258231.34055069197
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.1,258494.97235184148
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.15,258672.84347648226
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.2,258854.88992548478
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.25,259206.5515567336
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.3,259522.35457015468
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.35,259814.9931261466
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.4,260092.6784985962
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.45,260361.34231006776
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.5,260625.7465583107
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.55,260890.15080655366
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.6,261158.81461802524
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.65,261436.4999904748
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.7,261729.13854646674
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.75,262044.9415598878
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.8,262396.6031911366
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.85,262806.50777137524
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.9,263322.26133196807
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.95,264086.68580166745
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.975,264749.71002746903
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,quantile,0.99,265520.61897676997
+2021-05-31,2 wk ahead cum case,2021-06-12,GM06,Lower Saxony State,point,NA,260625.7465583107
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM07,North Rhine-Westphalia State,observed,NA,795860
+2021-05-31,0 wk ahead cum case,2021-05-29,GM07,North Rhine-Westphalia State,observed,NA,803664
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.01,805184.7496183899
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.025,805923.7495373286
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.05,806559.3302366657
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.1,807292.1140779415
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.15,807786.5198567512
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.2,808179.457896767
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.25,808516.5637472341
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.3,808819.2952196478
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.35,809099.8210448474
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.4,809366.0126202815
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.45,809623.5560501241
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.5,809877.0162261875
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.55,810130.4764022508
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.6,810388.0198320933
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.65,810654.2114075274
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.7,810934.7372327271
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.75,811237.4687051409
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.8,811574.5745556079
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.85,811967.5125956237
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.9,812461.9183744334
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.95,813194.7022157093
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.975,813830.2829150462
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,quantile,0.99,814569.2828339849
+2021-05-31,1 wk ahead cum case,2021-06-05,GM07,North Rhine-Westphalia State,point,NA,809877.0162261875
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.01,805184.7496183899
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.025,805923.7495373286
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.05,806559.3302366657
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.1,807292.1140779415
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.15,808696.3011761238
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.2,809981.2465021274
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.25,811083.6151781371
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.3,812073.57631933
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.35,812990.9228503479
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.4,813861.3950007712
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.45,814703.5868801976
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.5,815532.4261255594
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.55,816361.265370921
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.6,817203.4572503475
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.65,818073.9294007707
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.7,818991.2759317886
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.75,819981.2370729815
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.8,821083.6057489914
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.85,822368.5510749948
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.9,823985.3057027857
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.95,826381.579608413
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.975,828459.9898556832
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,quantile,0.99,830876.5909353829
+2021-05-31,2 wk ahead cum case,2021-06-12,GM07,North Rhine-Westphalia State,point,NA,815532.4261255594
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM08,Rhineland-Palatinate State,observed,NA,150982
+2021-05-31,0 wk ahead cum case,2021-05-29,GM08,Rhineland-Palatinate State,observed,NA,152423
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.01,152717.67170622115
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.025,152855.90554125558
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.05,152974.79426545106
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.1,153111.8653503522
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.15,153204.34656058857
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.2,153277.8476947704
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.25,153340.90512323333
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.3,153397.5326428648
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.35,153450.00647899084
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.4,153499.7990180468
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.45,153547.9738758278
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.5,153595.38493943933
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.55,153642.79600305087
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.6,153690.97086083188
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.65,153740.76339988783
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.7,153793.23723601384
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.75,153849.86475564534
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.8,153912.92218410826
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.85,153986.4233182901
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.9,154078.90452852647
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.95,154215.9756134276
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.975,154334.8643376231
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,quantile,0.99,154473.09817265748
+2021-05-31,1 wk ahead cum case,2021-06-05,GM08,Rhineland-Palatinate State,point,NA,153595.38493943933
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.01,152717.67170622115
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.025,152855.90554125558
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.05,152974.79426545106
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.1,153161.14810595228
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.15,153441.16993634542
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.2,153663.72241026923
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.25,153854.65261644783
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.3,154026.1138425423
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.35,154184.99822134964
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.4,154335.76395950053
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.45,154481.63155595917
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.5,154625.18647678534
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.55,154768.7413976115
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.6,154914.60899407015
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.65,155065.37473222104
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.7,155224.25911102837
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.75,155395.72033712285
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.8,155586.65054330145
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.85,155809.20301722526
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.9,156089.2248476184
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.95,156504.2593826325
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.975,156864.23994600575
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,quantile,0.99,157282.79514667476
+2021-05-31,2 wk ahead cum case,2021-06-12,GM08,Rhineland-Palatinate State,point,NA,154625.18647678534
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM09,Saarland State,observed,NA,40281
+2021-05-31,0 wk ahead cum case,2021-05-29,GM09,Saarland State,observed,NA,40687
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.01,40687
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.025,40687
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.05,40696.991568803234
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.1,40769.030654442206
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.15,40817.63508351649
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.2,40856.26434295298
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.25,40889.40480793501
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.3,40919.165969737995
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.35,40946.74412144821
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.4,40972.91309054787
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.45,40998.2318710028
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.5,41023.14923175915
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.55,41048.066592515504
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.6,41073.385372970435
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.65,41099.55434207009
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.7,41127.1324937803
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.75,41156.89365558329
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.8,41190.03412056532
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.85,41228.6633800018
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.9,41277.2678090761
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.95,41349.30689471507
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.975,41411.790058031416
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,quantile,0.99,41484.440238683506
+2021-05-31,1 wk ahead cum case,2021-06-05,GM09,Saarland State,point,NA,41023.14923175915
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.01,40687
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.025,40687
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.05,40696.991568803234
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.1,40769.030654442206
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.15,40817.63508351649
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.2,40890.509844735425
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.25,40980.957497102325
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.3,41062.18228433002
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.35,41137.449154609596
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.4,41208.87005414163
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.45,41277.970600986206
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.5,41345.97558476702
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.55,41413.98056854783
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.6,41483.08111539241
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.65,41554.50201492444
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.7,41629.768885204016
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.75,41710.99367243171
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.8,41801.44132479861
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.85,41906.86911015399
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.9,42039.52133777926
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.95,42236.131921796026
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.975,42406.66228211193
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,quantile,0.99,42604.940679460226
+2021-05-31,2 wk ahead cum case,2021-06-12,GM09,Saarland State,point,NA,41345.97558476702
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM10,Schleswig-Holstein State,observed,NA,62408
+2021-05-31,0 wk ahead cum case,2021-05-29,GM10,Schleswig-Holstein State,observed,NA,62946
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.01,63069.55136403778
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.025,63132.64225075912
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.05,63186.90389392915
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.1,63249.46409337754
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.15,63291.673162940155
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.2,63325.21959337379
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.25,63353.99944365504
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.3,63379.84463868627
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.35,63403.79406358674
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.4,63426.519725797916
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.45,63448.50706698918
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.5,63470.145807192755
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.55,63491.78454739633
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.6,63513.771888587595
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.65,63536.49755079877
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.7,63560.44697569924
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.75,63586.29217073047
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.8,63615.07202101172
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.85,63648.618451445356
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.9,63690.827521007974
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.95,63753.38772045636
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.975,63807.64936362639
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,quantile,0.99,63870.74025034773
+2021-05-31,1 wk ahead cum case,2021-06-05,GM10,Schleswig-Holstein State,point,NA,63470.145807192755
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.01,63069.55136403778
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.025,63132.64225075912
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.05,63186.90389392915
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.1,63335.98772297174
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.15,63461.50594677508
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.2,63561.26385204531
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.25,63646.847252154854
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.3,63723.7037905194
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.35,63794.92282722805
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.4,63862.50272853979
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.45,63927.88706515471
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.5,63992.234757815066
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.55,64056.58245047543
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.6,64121.96678709035
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.65,64189.54668840208
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.7,64260.76572511074
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.75,64337.622263475285
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.8,64423.20566358483
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.85,64522.963568855055
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.9,64648.4817926584
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.95,64834.51870834771
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.975,64995.87798828277
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,quantile,0.99,65183.49302271729
+2021-05-31,2 wk ahead cum case,2021-06-12,GM10,Schleswig-Holstein State,point,NA,63992.234757815066
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM11,Brandenburg State,observed,NA,107601
+2021-05-31,0 wk ahead cum case,2021-05-29,GM11,Brandenburg State,observed,NA,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.01,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.025,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.05,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.1,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.15,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.2,108158
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.25,108196.86146541242
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.3,108269.96129511303
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.35,108337.69918138304
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.4,108401.97581135093
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.45,108464.16419471226
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.5,108525.3666047504
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.55,108586.56901478853
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.6,108648.75739814984
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.65,108713.03402811775
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.7,108780.77191438775
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.75,108853.87174408835
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.8,108935.2718709524
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.85,109030.15366034493
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.9,109149.53661694942
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.95,109326.48014243598
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.975,109479.95226250359
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,quantile,0.99,109658.39676909047
+2021-05-31,1 wk ahead cum case,2021-06-05,GM11,Brandenburg State,point,NA,108525.3666047504
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.01,108158
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.025,108158
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.05,108158
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.1,108158
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.15,108158
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.2,108158
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.25,108196.86146541242
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.3,108269.96129511303
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.35,108427.71230400227
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.4,108594.06788565317
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.45,108755.01883611787
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.5,108913.41797007086
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.55,109071.81710402384
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.6,109232.76805448855
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.65,109399.12363613944
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.7,109574.43736176379
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.75,109763.62843625696
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.8,109974.3016694008
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.85,110219.86705250121
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.9,110528.84437746464
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.95,110986.79531727554
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.975,111383.99946151578
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,quantile,0.99,111845.83511936675
+2021-05-31,2 wk ahead cum case,2021-06-12,GM11,Brandenburg State,point,NA,108913.41797007086
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM12,Mecklenburg-Western Pomerania State,observed,NA,43517
+2021-05-31,0 wk ahead cum case,2021-05-29,GM12,Mecklenburg-Western Pomerania State,observed,NA,43808
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.01,43808
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.025,43808
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.05,43817.58464978636
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.1,43844.98095410647
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.15,43863.465110567005
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.2,43878.15573216215
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.25,43890.75897741304
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.3,43902.077081168005
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.35,43912.56499103162
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.4,43922.51699187726
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.45,43932.14566786898
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.5,43941.6216848406
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.55,43951.09770181222
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.6,43960.72637780394
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.65,43970.67837864957
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.7,43981.166288513195
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.75,43992.48439226816
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.8,44005.08763751905
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.85,44019.778259114195
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.9,44038.262415574725
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.95,44065.65871989484
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,44089.42092817267
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,quantile,0.99,44117.04963056946
+2021-05-31,1 wk ahead cum case,2021-06-05,GM12,Mecklenburg-Western Pomerania State,point,NA,43941.6216848406
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.01,43808
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.025,43808
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.05,43817.58464978636
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.1,43844.98095410647
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.15,43876.8409877884
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.2,43906.673671612014
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.25,43932.267457980146
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.3,43955.251469147945
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.35,43976.54958079731
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.4,43996.75940600568
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.45,44016.312645781174
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.5,44035.55587632732
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.55,44054.79910687348
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.6,44074.35234664897
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.65,44094.56217185734
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.7,44115.86028350671
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.75,44138.844294674505
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.8,44164.43808104264
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.85,44194.270764866254
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.9,44231.80709318715
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.95,44287.44158621551
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,44335.69621192432
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,quantile,0.99,44391.802642664625
+2021-05-31,2 wk ahead cum case,2021-06-12,GM12,Mecklenburg-Western Pomerania State,point,NA,44035.55587632732
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM13,Free State of Saxony,observed,NA,281297
+2021-05-31,0 wk ahead cum case,2021-05-29,GM13,Free State of Saxony,observed,NA,283383
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.01,283383
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.025,283383
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.05,283426.928309524
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.1,283774.5848142689
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.15,284009.1470075174
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.2,284195.5696029384
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.25,284355.503590427
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.3,284499.12925415946
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.35,284632.2198361103
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.4,284758.50978342525
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.45,284880.69676899415
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.5,285000.9465260696
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.55,285121.196283145
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.6,285243.3832687139
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.65,285369.6732160289
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.7,285502.76379797974
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.75,285646.38946171216
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.8,285806.3234492008
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.85,285992.7460446218
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.9,286227.3082378702
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.95,286574.9647426152
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.975,286876.5049130836
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,quantile,0.99,287227.110527391
+2021-05-31,1 wk ahead cum case,2021-06-05,GM13,Free State of Saxony,point,NA,285000.9465260696
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.01,283383
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.025,283383
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.05,283426.928309524
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.1,283774.5848142689
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.15,284009.1470075174
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.2,284195.5696029384
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.25,284552.2284266677
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.3,284991.37745327223
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.35,285398.3144727093
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.4,285784.4579096972
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.45,286158.0561537846
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.5,286525.7311388588
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.55,286893.4061239331
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.6,287267.0043680205
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.65,287653.1478050084
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.7,288060.0848244455
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.75,288499.23385105
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.8,288988.24711721286
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.85,289558.2518029266
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.9,290275.44785387174
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.95,291338.44043948577
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.975,292260.4279791924
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,quantile,0.99,293332.43774572
+2021-05-31,2 wk ahead cum case,2021-06-12,GM13,Free State of Saxony,point,NA,286525.7311388588
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM14,Sachsen-Anhalt State,observed,NA,97515
+2021-05-31,0 wk ahead cum case,2021-05-29,GM14,Sachsen-Anhalt State,observed,NA,98274
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.01,98274
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.025,98291.84110751806
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.05,98427.31302033436
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.1,98583.5034596634
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.15,98688.88440756295
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.2,98772.63784430947
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.25,98844.49083549056
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.3,98909.01704228124
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.35,98968.81018919997
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.4,99025.54803844125
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.45,99080.44256420396
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.5,99134.46675800008
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.55,99188.4909517962
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.6,99243.38547755891
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.65,99300.1233268002
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.7,99359.91647371891
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.75,99424.4426805096
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.8,99496.29567169069
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.85,99580.04910843722
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.9,99685.43005633676
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.95,99841.6204956658
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.975,99977.0924084821
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,quantile,0.99,100134.60778409711
+2021-05-31,1 wk ahead cum case,2021-06-05,GM14,Sachsen-Anhalt State,point,NA,99134.46675800008
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.01,98274
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.025,98291.84110751806
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.05,98427.31302033436
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.1,98583.5034596634
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.15,98822.16798228241
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.2,99073.64759121503
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.25,99289.39470351025
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.3,99483.14227829619
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.35,99662.67828049607
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.4,99833.04038971983
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.45,99997.86770197844
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.5,100160.0817394736
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.55,100322.29577696875
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.6,100487.12308922736
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.65,100657.48519845112
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.7,100837.02120065101
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.75,101030.76877543694
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.8,101246.51588773217
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.85,101497.9954966648
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.9,101814.4142681945
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.95,102283.39455279299
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.975,102690.16500878641
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,quantile,0.99,103163.12357143532
+2021-05-31,2 wk ahead cum case,2021-06-12,GM14,Sachsen-Anhalt State,point,NA,100160.0817394736
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM15,Free State of Thuringia,observed,NA,126214
+2021-05-31,0 wk ahead cum case,2021-05-29,GM15,Free State of Thuringia,observed,NA,127358
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.01,127358
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.025,127358
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.05,127374.83450667448
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.1,127519.34373757825
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.15,127616.84342960991
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.2,127694.33309403354
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.25,127760.81232629846
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.3,127820.51273149942
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.35,127875.83405405705
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.4,127928.3285792803
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.45,127979.117639948
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.5,128029.10145924713
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.55,128079.08527854625
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.6,128129.87433921394
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.65,128182.36886443722
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.7,128237.69018699485
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.75,128297.39059219579
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.8,128363.86982446071
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.85,128441.35948888434
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.9,128538.859180916
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.95,128683.36841181977
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.975,128808.70861839224
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,quantile,0.99,128954.44369592595
+2021-05-31,1 wk ahead cum case,2021-06-05,GM15,Free State of Thuringia,point,NA,128029.10145924713
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.01,127358
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.025,127358
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.05,127374.83450667448
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.1,127519.34373757825
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.15,127616.84342960991
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.2,127694.33309403354
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.25,127760.81232629846
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.3,127820.51273149942
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.35,127921.32336392849
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.4,128074.5519747057
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.45,128222.8024289329
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.5,128368.70242821795
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.55,128514.60242750299
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.6,128662.85288173021
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.65,128816.08149250742
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.7,128977.56136809084
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.75,129151.82354329618
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.8,129345.87273913452
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.85,129572.06077643411
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.9,129856.6569757078
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.95,130278.47141448385
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.975,130644.33253325657
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,quantile,0.99,131069.72515043
+2021-05-31,2 wk ahead cum case,2021-06-12,GM15,Free State of Thuringia,point,NA,128368.70242821795
+2021-05-31,-1 wk ahead cum case,2021-05-22,GM16,Berlin State,observed,NA,177033
+2021-05-31,0 wk ahead cum case,2021-05-29,GM16,Berlin State,observed,NA,178221
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.01,178221
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.025,178221
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.05,178284.70895367538
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.1,178477.40070227796
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.15,178607.408910254
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.2,178710.73531260926
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.25,178799.38016547277
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.3,178878.98598302857
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.35,178952.75263663242
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.4,179022.7499772457
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.45,179090.47321436164
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.5,179157.12272513923
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.55,179223.7722359168
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.6,179291.4954730328
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.65,179361.49281364604
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.7,179435.25946724988
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.75,179514.86528480568
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.8,179603.5101376692
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.85,179706.83654002447
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.9,179836.8447480005
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.95,180029.53649660308
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.975,180196.66785162868
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,quantile,0.99,180390.99417076466
+2021-05-31,1 wk ahead cum case,2021-06-05,GM16,Berlin State,point,NA,179157.12272513923
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.01,178221
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.025,178221
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.05,178284.70895367538
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.1,178477.40070227796
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.15,178607.408910254
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.2,178776.4321644705
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.25,179044.58027778319
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.3,179285.38557100386
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.35,179508.5275623355
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.4,179720.26749100632
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.45,179925.12832244157
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.5,180126.74116279164
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.55,180328.3540031417
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.6,180533.21483457694
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.65,180744.95476324778
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.7,180968.0967545794
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.75,181208.90204780007
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.8,181477.0501611128
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.85,181789.60953655245
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.9,182182.88060145697
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.95,182765.76756183428
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.975,183271.33507171008
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,quantile,0.99,183859.1665606241
+2021-05-31,2 wk ahead cum case,2021-06-12,GM16,Berlin State,point,NA,180126.74116279164
