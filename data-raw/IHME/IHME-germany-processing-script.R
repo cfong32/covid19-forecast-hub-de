@@ -19,12 +19,17 @@ require(MMWRweek)
 require(lubridate)
 
 
+#Run all files for the second period (to update incident deaths)
+run_second_period<-FALSE
+path_export<-ifelse(run_second_period,
+                    "../../data-temp/IHME-CurveFit/Second_period_incident_deaths/",
+                    "../../data-processed/IHME-CurveFit/")
 ## list all files and read
 filepaths <- list.files("./",
-             pattern = "Hospitalization_all_locs.csv",
-             recursive = TRUE,
-             full.names = FALSE,
-             ignore.case = TRUE)
+                        pattern = "Hospitalization_all_locs.csv",
+                        recursive = TRUE,
+                        full.names = FALSE,
+                        ignore.case = TRUE)
 
 #remove files that are not main model
 filepaths<-filepaths[-c(grep("Best",filepaths),grep("Worse",filepaths),
@@ -46,7 +51,7 @@ for(country in c("Germany","Poland"))
     list_forecast[[i]]<-get_forecast_date(filepaths[i],country=country)
   }
   real_vs_reported<-t(as.data.frame(list_forecast))
-
+  
   rownames(real_vs_reported)<-as.character(real_vs_reported[,1])
   
   #delete reports that have no new forecast horizon, always keep oldest
@@ -57,10 +62,21 @@ for(country in c("Germany","Poland"))
   
   # exclude forecasts already processed
   # exclude everything with date before July
+  
+  #or if running for incident death inclusion, only include second evaluation period
+  
   keep_date<-rep(TRUE,length(filepaths))
-  for (i in 1:dim(real_vs_reported)[1]){
-    keep_date[i] <- !(real_vs_reported[i,1] %in% dates_processed | real_vs_reported[i,1] <= as.Date("2020-07-01"))
+  if(run_second_period)
+  {
+    for (i in 1:dim(real_vs_reported)[1]){
+      keep_date[i] <- !(real_vs_reported[i,1] <= as.Date("2020-12-22") | real_vs_reported[i,1] >= as.Date("2021-03-26"))
+    }
+  }else {
+    for (i in 1:dim(real_vs_reported)[1]){
+      keep_date[i] <- !(real_vs_reported[i,1] %in% dates_processed | real_vs_reported[i,1] <= as.Date("2020-07-01"))
+    }
   }
+  
   
   # filepaths<-filepaths[real_vs_reported[keep_report,2]>as.Date("2020-07-01")]
   # forecast_dates<-real_vs_reported[keep_report & real_vs_reported[,2]>as.Date("2020-07-01"),]
@@ -81,15 +97,14 @@ for(country in c("Germany","Poland"))
     # formatted_file <- make_qntl_dat(path=filepaths_to_process[i],forecast_date=forecast_dates[i,1],
     #                                 submission_date=forecast_dates[i,1],country=country) 
     formatted_file <- make_qntl_dat(path=filepaths_to_process[i],forecast_date=forecast_dates[i],
-                                    submission_date=forecast_dates[i],country=country)
+                                    submission_date=forecast_dates[i],country=country,run_second_period=run_second_period)
     
     date <- get_date(filepaths_to_process[i])
     #date<-forecast_dates[i,2]
     
     write_csv(
       formatted_file,
-      path = paste0(
-        "../../data-processed/IHME-CurveFit/",
+      path = paste0(path_export,
         date,
         "-",country,"-IHME-CurveFit.csv"
       )
