@@ -20,7 +20,10 @@ require(lubridate)
 
 
 #Run all files for the second period (to update incident deaths)
-run_second_period<-FALSE
+run_second_period<-TRUE
+#define second period dates:
+mondays_second_period<-seq(as.Date("2021-01-11"),as.Date("2021-03-29"),length.out=12)
+
 path_export<-ifelse(run_second_period,
                     "../../data-temp/IHME-CurveFit/Second_period_incident_deaths/",
                     "../../data-processed/IHME-CurveFit/")
@@ -96,20 +99,31 @@ for(country in c("Germany","Poland"))
     
     # formatted_file <- make_qntl_dat(path=filepaths_to_process[i],forecast_date=forecast_dates[i,1],
     #                                 submission_date=forecast_dates[i,1],country=country) 
-    formatted_file <- make_qntl_dat(path=filepaths_to_process[i],forecast_date=forecast_dates[i],
-                                    submission_date=forecast_dates[i],country=country,run_second_period=run_second_period)
     
-    date <- get_date(filepaths_to_process[i])
+    date_print <- get_date(filepaths_to_process[i])
+    if(run_second_period)
+    {
+      date_fc<-get_date(filepaths_to_process[i])
+      #use the closest monday in that follows a given date (or is exactly on that monday) and get index
+      min_positive_diff<-min((mondays_second_period-date_fc)[mondays_second_period-date_fc>=0])
+      date_print<-mondays_second_period[which(mondays_second_period-date_fc==min_positive_diff)]
+    }
+    
+    formatted_file <- make_qntl_dat(path=filepaths_to_process[i],forecast_date=forecast_dates[i],
+                                    submission_date=forecast_dates[i],country=country,
+                                    run_second_period=run_second_period,
+                                    second_period_target_monday=date_print)
+    
     #date<-forecast_dates[i,2]
     
     write_csv(
       formatted_file,
       path = paste0(path_export,
-        date,
+                    date_print,
         "-",country,"-IHME-CurveFit.csv"
       )
     )
-    print(paste0("Finished with date ",date," in country ", country) )
+    print(paste0("Finished with date ",date_print," in country ", country) )
   }
 }
 #Warning: "NAs introduced by coercion" is fine and issued when NA is written in column quantile for observed values

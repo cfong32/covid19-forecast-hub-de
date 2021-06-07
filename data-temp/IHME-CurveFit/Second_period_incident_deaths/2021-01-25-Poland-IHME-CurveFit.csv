@@ -1,0 +1,15 @@
+forecast_date,target,target_end_date,location,location_name,type,quantile,value
+2021-01-25,1 wk ahead inc death,2021-01-30,PL,Poland,point,NA,1906.673183805895
+2021-01-25,10 wk ahead inc death,2021-04-03,PL,Poland,point,NA,622.6263416763919
+2021-01-25,11 wk ahead inc death,2021-04-10,PL,Poland,point,NA,508.3997091744469
+2021-01-25,12 wk ahead inc death,2021-04-17,PL,Poland,point,NA,404.8707384431347
+2021-01-25,13 wk ahead inc death,2021-04-24,PL,Poland,point,NA,312.8333256027315
+2021-01-25,14 wk ahead inc death,2021-05-01,PL,Poland,point,NA,236.3829659483169
+2021-01-25,2 wk ahead inc death,2021-02-06,PL,Poland,point,NA,1770.057503188759
+2021-01-25,3 wk ahead inc death,2021-02-13,PL,Poland,point,NA,1661.836751963814
+2021-01-25,4 wk ahead inc death,2021-02-20,PL,Poland,point,NA,1516.389266617399
+2021-01-25,5 wk ahead inc death,2021-02-27,PL,Poland,point,NA,1340.057906629201
+2021-01-25,6 wk ahead inc death,2021-03-06,PL,Poland,point,NA,1175.542864422455
+2021-01-25,7 wk ahead inc death,2021-03-13,PL,Poland,point,NA,1023.511639926485
+2021-01-25,8 wk ahead inc death,2021-03-20,PL,Poland,point,NA,881.628696748891
+2021-01-25,9 wk ahead inc death,2021-03-27,PL,Poland,point,NA,747.0935806808409

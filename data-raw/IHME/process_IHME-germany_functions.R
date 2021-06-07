@@ -72,12 +72,13 @@ coerceable_to_date <- function(x) {
 #' @param submission_date the date that is indicated on the file, i.e. when the forecasts where submitted, important for target in week ahead forecasts
 #' @param country the country you want the forecast for, currently supported: Germany and Poland
 #' @param run_second_period Dummy that when set to true returns additonally incident deaths that are pooled to week ahead dates
+#' @param second_period_target_monday If run_second_period=TRUE, this indicates the day on which the forecast period starts
 #' @return long-format data_frame with quantiles
 #'
 
 
 
-make_qntl_dat <- function(path,forecast_date,submission_date, country="Germany", run_second_period=FALSE) {
+make_qntl_dat <- function(path,forecast_date,submission_date, country="Germany", run_second_period=FALSE,second_period_target_monday=NULL) {
   require(tidyverse)
   require(MMWRweek)
   require(lubridate)
@@ -364,55 +365,68 @@ make_qntl_dat <- function(path,forecast_date,submission_date, country="Germany",
     dplyr::rename(location = state_code, target_end_date = date_v) %>%
     dplyr::select(-"day_v",-"ew")
   
-  ## Inc deaths weekly if you want them
+  ## Inc deaths weekly if you want them, start only from next monday in evaluation period
   if(run_second_period)
   {
-    if (lubridate::wday(submission_date, label = TRUE, abbr = FALSE) == "Sunday" |
-        lubridate::wday(submission_date, label = TRUE, abbr = FALSE) == "Monday") {
-      death_qntl1_1 <- data[, c(col_list1_1)] %>%
-        dplyr::rename(date_v = date) %>%
-        dplyr::filter(date_v >= submission_date) %>%  # avoids ew difference issues with change of year
-        dplyr::mutate(
-          day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
-          ew = unname(MMWRweek(date_v)[[2]]) ) %>% #now generate labels before grouping and check for year changes
-        dplyr::mutate(target_id = paste(ifelse(ew - (
-          unname(MMWRweek(submission_date)[[2]]) + 1
-        ) + 1  <0,ew+53 - (
-          unname(MMWRweek(submission_date)[[2]]) + 1
-        ) + 1 +1 ,ew - (
-          unname(MMWRweek(submission_date)[[2]]) + 1
-        ) + 1 +1 ), "wk ahead inc death")) %>% 
-        dplyr::group_by(ew,location_name) %>% dplyr::mutate(inc_weekly=sum(deaths_mean)) %>%  #group and sum
-        dplyr::mutate(target_end_date = case_when(day_v=="Saturday" ~ date_v))  %>% #add correct target end date
-        dplyr::ungroup(ew,location_name) %>% #ungroup only weeks
-        dplyr::filter(!is.na(target_end_date))
-    }else{
-      death_qntl1_1 <- data[, c(col_list1_1)] %>%
-        dplyr::rename(date_v = date) %>%
-        dplyr::filter(date_v >= submission_date) %>%  # avoids ew difference issues with change of year
-        dplyr::mutate(
-          day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
-          ew = unname(MMWRweek(date_v)[[2]]) ) %>% #now generate labels before grouping and check for year changes
-        dplyr::mutate(target_id = paste(ifelse(ew - (
-          unname(MMWRweek(submission_date)[[2]]) + 1
-        ) + 1  <0,ew+53 - (
-          unname(MMWRweek(submission_date)[[2]]) + 1
-        ) + 1 ,ew - (
-          unname(MMWRweek(submission_date)[[2]]) + 1
-        ) + 1 ), "wk ahead inc death")) %>% 
-        dplyr::group_by(ew,location_name) %>% dplyr::mutate(inc_weekly=sum(deaths_mean)) %>%  #group and sum
-        dplyr::mutate(target_end_date = case_when(day_v=="Saturday" ~ date_v))  %>% #add correct target end date
-        dplyr::ungroup(ew,location_name) %>% #ungroup only weeks
-        dplyr::filter(!is.na(target_end_date)) %>% #filter to only have the week ahead value
-        dplyr::filter(!(target_id =="0 wk ahead inc death")) #remove first week that is only partially there
-    }
+    death_qntl1_1 <- data[, c(col_list1_1)] %>%
+      dplyr::rename(date_v = date) %>%
+      dplyr::filter(date_v >=(second_period_target_monday-1)) %>%  # avoids ew difference issues with change of year
+      dplyr::mutate(
+        day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
+        ew = unname(MMWRweek(date_v)[[2]]) ) %>% #now generate labels before grouping and check for year changes
+      dplyr::mutate(target_id = paste(ifelse(
+        ew - unname(MMWRweek(second_period_target_monday)[[2]]) <0,
+        ew+53 - unname(MMWRweek(second_period_target_monday)[[2]])+1 ,
+        ew - unname(MMWRweek(second_period_target_monday)[[2]]) +1 ), "wk ahead inc death")) %>% 
+      dplyr::group_by(ew,location_name) %>% dplyr::mutate(inc_weekly=sum(deaths_mean)) %>%  #group and sum
+      dplyr::mutate(target_end_date = case_when(day_v=="Saturday" ~ date_v))  %>% #add correct target end date
+      dplyr::ungroup(ew,location_name) %>% #ungroup only weeks
+      dplyr::filter(!is.na(target_end_date))
+    # if (lubridate::wday(submission_date, label = TRUE, abbr = FALSE) == "Sunday" |
+    #     lubridate::wday(submission_date, label = TRUE, abbr = FALSE) == "Monday") {
+    #   death_qntl1_1 <- data[, c(col_list1_1)] %>%
+    #     dplyr::rename(date_v = date) %>%
+    #     dplyr::filter(date_v >=(second_period_target_monday-1)) %>%  # avoids ew difference issues with change of year
+    #     dplyr::mutate(
+    #       day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
+    #       ew = unname(MMWRweek(date_v)[[2]]) ) %>% #now generate labels before grouping and check for year changes
+    #     dplyr::mutate(target_id = paste(ifelse(ew - (
+    #       unname(MMWRweek(submission_date)[[2]]) + 1
+    #     ) + 1  <0,ew+53 - (
+    #       unname(MMWRweek(submission_date)[[2]]) + 1
+    #     ) + 1 +1 ,ew - (
+    #       unname(MMWRweek(submission_date)[[2]]) + 1
+    #     ) + 1 +1 ), "wk ahead inc death")) %>% 
+    #     dplyr::group_by(ew,location_name) %>% dplyr::mutate(inc_weekly=sum(deaths_mean)) %>%  #group and sum
+    #     dplyr::mutate(target_end_date = case_when(day_v=="Saturday" ~ date_v))  %>% #add correct target end date
+    #     dplyr::ungroup(ew,location_name) %>% #ungroup only weeks
+    #     dplyr::filter(!is.na(target_end_date))
+    # }else{
+    #   death_qntl1_1 <- data[, c(col_list1_1)] %>%
+    #     dplyr::rename(date_v = date) %>%
+    #     dplyr::filter(date_v >= submission_date) %>%  # avoids ew difference issues with change of year
+    #     dplyr::mutate(
+    #       day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
+    #       ew = unname(MMWRweek(date_v)[[2]]) ) %>% #now generate labels before grouping and check for year changes
+    #     dplyr::mutate(target_id = paste(ifelse(ew - (
+    #       unname(MMWRweek(submission_date)[[2]]) + 1
+    #     ) + 1  <0, ew+53 - (
+    #       unname(MMWRweek(submission_date)[[2]]) + 1
+    #     ) + 1 ,ew - (
+    #       unname(MMWRweek(submission_date)[[2]]) + 1
+    #     ) + 1 ), "wk ahead inc death")) %>% 
+    #     dplyr::group_by(ew,location_name) %>% dplyr::mutate(inc_weekly=sum(deaths_mean)) %>%  #group and sum
+    #     dplyr::mutate(target_end_date = case_when(day_v=="Saturday" ~ date_v))  %>% #add correct target end date
+    #     dplyr::ungroup(ew,location_name) %>% #ungroup only weeks
+    #     dplyr::filter(!is.na(target_end_date)) %>% #filter to only have the week ahead value
+    #     dplyr::filter(!(target_id =="0 wk ahead inc death")) #remove first week that is only partially there
+    # }
     
-    
-    death_qntl1_2 <- death_qntl1_1 %>% dplyr::mutate(forecast_date=submission_date,type="point",quantile="NA") %>%
+    death_qntl1_2 <- death_qntl1_1 %>% dplyr::mutate(forecast_date=second_period_target_monday,type="point",quantile="NA") %>%
       dplyr::left_join(state_fips_codes, by = c("location_name" = "state_name")) %>%
       dplyr::rename(location = state_code,value=inc_weekly) %>%
       dplyr::select(-"day_v",-"ew",-"deaths_mean") %>%
-      dplyr::select(location_name,target_end_date,target_id,quantile,value,type,location,population)
+      dplyr::select(location_name,forecast_date,target_end_date,target_id,quantile,value,type,location,population)
     
   }
 
@@ -421,10 +435,12 @@ make_qntl_dat <- function(path,forecast_date,submission_date, country="Germany",
   ### combining data
   
   # deleted death_qntl3, only adds hospitalizations
+  
+  #For second period, we only want week ahead inc numbers
   if(run_second_period)
   {
     comb <-
-      rbind(death_qntl1, death_qntl2, death_qntl2_2,death_qntl1_2) # deleted death_qntl2_2, needs to be added later
+      death_qntl1_2 # deleted death_qntl2_2, needs to be added later
   } else{
     comb <-
       rbind(death_qntl1, death_qntl2, death_qntl2_2) # deleted death_qntl2_2, needs to be added later
