@@ -21,7 +21,7 @@ for file in files:
     datetime_object = datetime.strptime(date_str, '%Y-%m-%d')
     
     # read in forecasts files of current week
-    if date.today() - timedelta(days=8) < datetime_object.date():
+    if date.today() - timedelta(days=15) < datetime_object.date():
         df = pd.read_csv("https://raw.githubusercontent.com/epiforecasts/covid19-forecast-hub-europe/main/" + file)
         
         #create directory
