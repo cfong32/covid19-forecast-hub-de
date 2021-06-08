@@ -5,7 +5,7 @@ path_hub_eu <- "../../euhub"
 # vector of all models submitted to EU Hub:
 models_eu <- list.dirs(paste0(path_hub_eu, "/data-processed"), full.names = FALSE)
 # the forecast_dates for which to transfer forecasts
-forecast_dates <- as.character(Sys.Date() - 0:10) # as.character(as.Date("2021-04-05") - 0:3)
+forecast_dates <- as.character(Sys.Date() - 0:3) # as.character(as.Date("2021-04-05") - 0:3)
 
 # loop over models
 for(team in models_eu){
