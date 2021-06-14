@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v2/all.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/ard-data/2020-rki-impf-archive/master/data/9_csv_v3/all.csv')
 
 # rename columns
 column_dict = {'region': 'location'}
@@ -23,6 +23,7 @@ df['location'] = df.location_name.replace(fips_dict)
 def translate_metric(m):
     replacements = {'kumulativ': 'cumulative',
                     'erst': 'first',
+                    'zweit': 'second',
                     'voll': 'full',
                     'dosen': 'doses',
                     'impfstelle': 'at',
