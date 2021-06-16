@@ -51,6 +51,14 @@ jobs:
         Rscript transfer_forecasts_from_europe.R
         cd ../../
         
+        echo "=============================================================================="
+        echo "Freeing up disk space on CI system"
+        echo "=============================================================================="
+
+        echo "Listing 100 largest packages"
+        dpkg-query -Wf '${Installed-Size}\t${Package}\n' | sort -n | tail -n 100
+        df -h
+        
     - name: Create Pull Request
       id: cpr
       uses: peter-evans/create-pull-request@v3
