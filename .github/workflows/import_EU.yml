@@ -22,6 +22,7 @@ jobs:
           git sparse-checkout init --cone
           git sparse-checkout add "data-processed" "github-actions" "code"
           git checkout
+          git fetch
     
     
     - name: setup python
