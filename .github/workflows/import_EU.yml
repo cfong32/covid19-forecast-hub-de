@@ -10,10 +10,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-      with:
-        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 1 # otherwise, you will failed to push refs to dest repo
+    #- uses: actions/checkout@master
+    #  with:
+    #    persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+    #    fetch-depth: 1 # otherwise, you will failed to push refs to dest repo
+    
+    - name: Partial Clone
+      run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+          git sparse-checkout init --cone
+          git sparse-checkout add "data-processed" "github-actions" "code"
+          git checkout
+    
     
     - name: setup python
       uses: actions/setup-python@v2
