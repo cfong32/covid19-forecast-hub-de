@@ -1,4 +1,4 @@
-name: update_EU
+name: depl_to_EU
 
 on: 
  workflow_dispatch:
