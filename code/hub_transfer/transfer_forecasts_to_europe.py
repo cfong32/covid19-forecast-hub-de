@@ -20,6 +20,7 @@ url = "https://api.github.com/repos/epiforecasts/covid19-forecast-hub-europe/git
 r = requests.get(url)
 res = r.json()
 files = [file["path"] for file in res["tree"] if (file["path"].startswith("data-processed/") and file["path"].endswith(".csv"))]
+files = []
 
 # list files pres
 excluded_models = ["USC-SIkJalpha", "MIMUW-StochSEIR", "LeipzigIMISE-SECIR", "epiforecasts-EpiExpert", "epiforecasts-EpiNow2",
@@ -113,5 +114,7 @@ for team in models_de_pl:
                     
                     if not os.path.exists(Path(path_hub_eu+ "/data-processed/"+ team)):
                         os.makedirs(Path(path_hub_eu+ "/data-processed/"+ team))
-                        
+                    
+                    dat["value"] = dat["value"].round(0).astype(int)
+                    
                     dat.to_csv(Path(path_hub_eu + "/" + file_eu), index=False)
