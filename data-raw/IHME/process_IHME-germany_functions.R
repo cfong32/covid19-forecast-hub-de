@@ -1,4 +1,4 @@
-# Author: Konstantin G�rgen
+# Author: Konstantin G?rgen
 # Date: Fri May 08 14:51:21 2020
 # --------------
 #################################################################################
@@ -7,29 +7,31 @@
 ###### The original file has been provided under the MIT license, and so is this adapted version.
 #################################################################################
 
+# fixed issues with change of year
+# January 2021
+# Jakob Ketterer
+
 
 #Function to get real and reported forecast date
 
 #' Check when the last non-zero forecast is equal in mean, upper and lower quantil
 #'
 #' @param path the forecast file path
+#' @param country country you want to check the forecast date for
 #' @return vector with reported forecast date and observed forecast date, i.e. last observed value
 #'
 
-get_forecast_date<-function(path) {
+get_forecast_date<-function(path,country="Germany") {
   
-  data <- read.csv(path, stringsAsFactors = FALSE) %>% filter(location_name=="Germany") %>%
+  data <- data.table::fread(path, stringsAsFactors = FALSE,data.table=FALSE) %>% filter(location_name==country) %>%
     mutate(date=as.Date(date))
   given_forecast_date <- get_date(path)
   is_equal_lmu<-data$deaths_mean==data$deaths_upper & data$deaths_lower==data$deaths_mean
   is_not_zero<-data$deaths_mean!=0
-  real_date<-max(data$date[is_equal_lmu & is_not_zero])
+  real_date<-max(data$date[is_equal_lmu & is_not_zero],na.rm = TRUE)
   
   return(c(report_date=given_forecast_date,Real_forecast_date=real_date))
-  
 }
-
-
 
 ## Functions to process IHME files
 
@@ -62,20 +64,36 @@ coerceable_to_date <- function(x) {
 #' @param path the forecast file path
 #' @param forecast_date the real forecast date as extracted from file, i.e. last date where observations, not projections are available
 #' @param submission_date the date that is indicated on the file, i.e. when the forecasts where submitted, important for target in week ahead forecasts
-#' @param all_states Should all states be forecasted or just on Federal Level, default=FALSE, not implemented yet
+#' @param country the country you want the forecast for, currently supported: Germany and Poland
 #' @return long-format data_frame with quantiles
 #'
-make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE) {
+
+
+
+make_qntl_dat <- function(path,forecast_date,submission_date, country="Germany",cases=FALSE) {
   require(tidyverse)
   require(MMWRweek)
   require(lubridate)
+  require(data.table)
   
   forecast_date<-as.Date(forecast_date)
   submission_date<-as.Date(submission_date)
-  data <- read.csv(path, stringsAsFactors = FALSE)
+  #use data.table package, faster to read in
+  #leave data type as data.frame for compatibility with tidyverse
+  #use utf-8 to keep Umlaut-characters
+  data <-fread(path, stringsAsFactors = FALSE,data.table=FALSE,encoding="UTF-8")
+ 
+  #Get Baden-Wurttemberg (with umlaut u) and replace with u
+  data$location_name[grep("Baden-W",data$location_name)]<-"Baden-Wurttemberg"
+  
+  #change ? to u
+  #data$location_name<-gsub("?","u",data$location_name)
+  
+  #New Change in IHME location names, u is now Ã¼
+  #data$location_name<-gsub("ü","u",data$location_name)
+
   #forecast date is given from function now
   #forecast_date <- get_date(path)
-  
   
   # make sure that all names are the same over different data sets
   
@@ -84,7 +102,7 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
     data <- data %>%
       dplyr::rename(date = names(data)[grep("date", names(data))])
   }
-  # remove death smoothed column, only NA for Germany
+  # remove death or case smoothed column, not regarded (yet)
   if (length(grep("smoothed", names(data))) > 0) {
     data <- data %>%
       dplyr::select(-grep("smoothed", names(data)))
@@ -102,17 +120,48 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
   #  dplyr::select(-names(data)[which(grepl("location",names(data)))])#[-which(names(data)[which(grepl("location",names(data))==TRUE)]=="location")])
   
   ## read state code
+  state_name<-ifelse(country=="Germany","germany","poland")
+  code_fips<-paste0("../../template/state_codes_",state_name,".csv")
   state_fips_codes <-
-    read.csv("../../template/state_codes_germany.csv",
+    fread(code_fips,data.table = FALSE,encoding = "UTF-8",
              stringsAsFactors = FALSE)
   
-  ## code for incident deaths
+  #first filter data so only your desired countries/regions are manipulated (speeds up procedure)
+  
+  data<-data %>% left_join(state_fips_codes, by = c("location_name" = "state_name")) %>% 
+    dplyr::filter(!is.na(state_code))
+  
+  #if there are NA-values for cum-deaths, replace them with value from last day
+  
+  count<-0
+  if(1%in%which(is.na(data$totdea_mean))) #check if first entry is NA, omit that one
+  {
+    data<-data[-1,]
+  }
+    
+  while(sum(is.na(data$totdea_mean))>0 ) #stop if there is no NA left
+  {
+    count<-count+1
+    data$totdea_mean[is.na(data$totdea_mean)]<-data$totdea_mean[which(is.na(data$totdea_mean))-1]
+    data$totdea_lower[is.na(data$totdea_lower)]<-data$totdea_lower[which(is.na(data$totdea_lower))-1]
+    data$totdea_upper[is.na(data$totdea_upper)]<-data$totdea_upper[which(is.na(data$totdea_upper))-1]
+    
+  }
+    
+  ## code for incident deaths or cases (var names might be confusing since they
+  #seem only to cover cases, but are general)
   
   col_list1 <-
     c(
-      grep("location_name", colnames(data)),
-      grep("date", colnames(data)),
-      grep("death", colnames(data))
+      setdiff(
+        c(
+          grep("location_name", colnames(data)),
+          grep("date", colnames(data)),
+          grep("death", colnames(data)) ),
+        c(
+          grep("rate",colnames(data)),grep("data",colnames(data))
+        )
+      )
     )
   death_qntl1 <- data[, col_list1] %>% # only take important rows
     dplyr::rename(date_v = date) %>%
@@ -151,14 +200,19 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
     # rename columns to match output standard
     dplyr::rename(location = state_code) %>%
     dplyr::rename(target_end_date = date_v)
-  
+
   ## code for cumulative deaths
-  
   col_list2 <-
     c(
-      grep("location_name", colnames(data)),
-      grep("date", colnames(data)),
-      grep("totdea", colnames(data))
+      setdiff(
+        c(
+          grep("location_name", colnames(data)),
+          grep("date", colnames(data)),
+          grep("totdea", colnames(data)) ),
+        c(
+          grep("rate",colnames(data))
+        )
+      )
     )
   death_qntl2 <- data[, col_list2] %>% # only take important rows
     dplyr::rename(date_v = date) %>%
@@ -211,7 +265,6 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
   #   dplyr::mutate(type=ifelse(quantile=="NA","point","quantile"),forecast_date=forecast_date) %>%
   #   dplyr::rename(target_end_date=date_v)
   
-  
   ## weekly forecasts
   
   # add if for forecast date weekly
@@ -222,13 +275,12 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
   } else {
     Sys.setlocale(category = "LC_TIME", locale = "en_US.UTF8")
   }
-  
 
-  
   if (lubridate::wday(submission_date, label = TRUE, abbr = FALSE) == "Sunday" |
       lubridate::wday(submission_date, label = TRUE, abbr = FALSE) == "Monday") {
     death_qntl2_1 <- data[, c(col_list2)] %>%
       dplyr::rename(date_v = date) %>%
+      dplyr::filter(date_v >= submission_date) %>%  # avoids ew difference issues with change of year
       dplyr::mutate(
         day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
         ew = unname(MMWRweek(date_v)[[2]])
@@ -248,6 +300,7 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
   } else {
     death_qntl2_1 <- data[, c(col_list2)] %>%
       dplyr::rename(date_v = date) %>%
+      dplyr::filter(date_v >= submission_date) %>% # avoids ew difference issues with change of year
       dplyr::mutate(
         day_v = lubridate::wday(date_v, label = TRUE, abbr = FALSE),
         ew = unname(MMWRweek(date_v)[[2]])
@@ -280,8 +333,6 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
     dplyr::left_join(state_fips_codes, by = c("location_name" = "state_name")) %>%
     dplyr::rename(location = state_code, target_end_date = date_v) %>%
     dplyr::select(-"day_v",-"ew")
-  
-
   
   ### combining data
   
@@ -319,3 +370,4 @@ make_qntl_dat <- function(path,forecast_date,submission_date, all_states = FALSE
   
   return(final)
 }
+

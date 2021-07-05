@@ -1,0 +1,1835 @@
+"forecast_date","target","target_end_date","location","location_name","type","quantile","value"
+2021-03-29,"0 day ahead inc death",2021-03-29,"GM","Germany","observed",NA,171.285714285714
+2021-03-29,"0 day ahead cum death",2021-03-29,"GM","Germany","observed",NA,75922
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","point",NA,178.792449902536
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","point",NA,187.71669483753
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","point",NA,196.991833086142
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","point",NA,207.620985967702
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","point",NA,219.533842387679
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","point",NA,231.433153308602
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","point",NA,245.003696073633
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","point",NA,260.793224236963
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","point",NA,277.39252660324
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","point",NA,296.233007276599
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","point",NA,313.357849441555
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","point",NA,333.767549675687
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","point",NA,356.940988868689
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","point",NA,380.252570292074
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","point",NA,404.949397893741
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","point",NA,428.621989040825
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","point",NA,452.747351784727
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","point",NA,477.115787270322
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","point",NA,497.857743497336
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","point",NA,525.455014601743
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","point",NA,554.936535831762
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","point",NA,580.843333603618
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","point",NA,611.355137354584
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","point",NA,643.543061863496
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","point",NA,676.985268949992
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","point",NA,716.412200519539
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","point",NA,752.502742564268
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","point",NA,794.882381561108
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","point",NA,832.814215804201
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","point",NA,875.308887860584
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.01,104.768946149346
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.01,100.168768667723
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.01,93.2757232072681
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.01,85.970365406013
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.01,77.6551229138606
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.01,71.0850685606661
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.01,65.6130788727231
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.01,63.4283923909419
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.01,61.7885637497753
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.01,61.4734762946217
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.01,62.829372101011
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.01,64.8064683384875
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.01,66.4968043949846
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.01,67.5590973269835
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.01,67.8940027539024
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.01,69.3543426070809
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.01,68.1303788730617
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.01,68.2942161473529
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.01,67.8670038819772
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.01,67.3469483770834
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.01,66.857793810372
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.01,64.535848505634
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.01,66.6164227929425
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.01,64.4183992730992
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.01,63.1043964371177
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.01,59.4690668104683
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.01,55.9536947674222
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.01,57.2349384672252
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.01,51.743511970231
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.01,53.6731453827642
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.025,113.484433747877
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.025,109.666144632755
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.025,103.508369270857
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.025,97.4428996309508
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.025,91.197849202643
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.025,86.3615254665221
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.025,83.234364300634
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.025,82.630702291975
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.025,82.2813512664421
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.025,82.4768848228245
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.025,83.4823653915962
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.025,85.2822446798724
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.025,87.3397635033574
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.025,88.5820063721445
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.025,90.5460812936228
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.025,94.0439859985513
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.025,94.5591215239256
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.025,96.2475572037829
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.025,99.0287145159759
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.025,99.4692949847556
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.025,100.720328275806
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.025,102.848249938308
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.025,106.072090775086
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.025,107.111174578406
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.025,109.91454278094
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.025,112.544043848581
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.025,112.576701080347
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.025,117.008232361497
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.025,116.852927884544
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.025,120.615711025294
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.05,121.348829446446
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.05,118.471014895516
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.05,113.584740455994
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.05,108.909568080281
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.05,104.383073155013
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.05,100.530106102828
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.05,98.8911404891668
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.05,98.2857671611809
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.05,98.5717350594951
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.05,99.8940820705526
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.05,101.730129489601
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.05,104.88071470644
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.05,108.453900464439
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.05,111.82598971174
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.05,115.663446234445
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.05,120.424673877283
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.05,124.568707881294
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.05,129.295253025804
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.05,133.634122312591
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.05,138.787450847147
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.05,143.384210033044
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.05,147.642120586956
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.05,153.069689731249
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.05,156.424091114955
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.05,160.805761572916
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.05,164.20657230593
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.05,163.902453040887
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.05,169.121089929
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.05,171.13180562526
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.05,175.498526873919
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.1,131.12249208388
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.1,129.640068480775
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.1,126.28996055026
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.1,123.175196739158
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.1,120.303335719395
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.1,117.965814185627
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.1,116.921803591854
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.1,117.850688375474
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.1,119.448970880258
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.1,122.272398614397
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.1,125.236034323997
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.1,130.965522950645
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.1,136.173918104349
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.1,140.796668703884
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.1,145.720204724453
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.1,151.004609030891
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.1,156.364476163561
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.1,160.802194630009
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.1,166.627281827412
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.1,173.049070787935
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.1,178.136583942741
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.1,182.704739249191
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.1,188.933273264002
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.1,195.602229734236
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.1,202.054003732652
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.1,207.338642528719
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.1,213.008568160356
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.1,219.997571361144
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.1,222.882922922753
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.1,230.112160577612
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.15,138.504960789036
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.15,137.7049497564
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.15,135.774371794006
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.15,133.759337927859
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.15,132.505627477122
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.15,131.184886749511
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.15,131.432955268092
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.15,133.785700305636
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.15,136.549835190672
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.15,140.945707279272
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.15,145.082384662326
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.15,151.351320079375
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.15,158.519435301892
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.15,164.294209921181
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.15,171.147593114619
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.15,176.981348922451
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.15,183.51945407814
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.15,188.830870294999
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.15,195.417967669228
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.15,203.463163341312
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.15,208.467179747763
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.15,214.775453453766
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.15,223.131314514757
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.15,229.422019196452
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.15,238.922313533271
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.15,247.315228124166
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.15,256.245025483164
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.15,268.702457658454
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.15,276.240513523247
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.15,284.492438009953
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.2,144.716236405157
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.2,144.943828641415
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.2,144.164486240643
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.2,143.670570121035
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.2,143.634218444864
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.2,143.955241521866
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.2,145.805539809909
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.2,149.81467110786
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.2,153.973513040273
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.2,160.066591068912
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.2,165.625624159717
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.2,173.400903362552
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.2,181.970893721
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.2,189.059239946394
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.2,199.440514833683
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.2,207.875538739704
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.2,216.744081588469
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.2,224.17251618047
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.2,235.343336744132
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.2,246.159176894925
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.2,254.957572590518
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.2,265.027993696172
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.2,274.252899978708
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.2,284.42459885009
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.2,296.60367689952
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.2,306.668377999863
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.2,316.379082617054
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.2,330.004973885309
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.2,337.551782722197
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.2,348.506129339375
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.25,150.389865690715
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.25,151.674547362003
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.25,151.939931799939
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.25,152.915648854115
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.25,154.651334617435
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.25,156.675765043661
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.25,160.180947545874
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.25,165.841998693413
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.25,171.732057301945
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.25,179.836324746658
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.25,187.058108453585
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.25,197.062137761844
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.25,208.814258181306
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.25,218.037241940398
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.25,230.198136535675
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.25,241.118090598925
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.25,252.594544266749
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.25,263.693325270075
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.25,278.634862472043
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.25,292.849924606364
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.25,307.641358945449
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.25,321.30603917668
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.25,334.967948462022
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.25,351.836551093538
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.25,366.295987333334
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.25,380.145633501893
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.25,396.175455964954
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.25,416.469633727334
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.25,429.260339998902
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.25,444.689005267217
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.3,155.82096997778
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.3,158.247085682982
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.3,159.863069916766
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.3,162.15060946461
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.3,165.464146330877
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.3,169.358995977621
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.3,174.41777547358
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.3,181.879160741516
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.3,188.902194074916
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.3,199.230324677684
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.3,207.46489236188
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.3,219.495019016703
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.3,232.636823010835
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.3,245.089555888741
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.3,259.578707801102
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.3,274.153654148878
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.3,287.890530632482
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.3,300.903402911092
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.3,316.507742197911
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.3,332.888818468076
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.3,352.377607269879
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.3,368.643795651253
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.3,386.70645077207
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.3,407.151241429266
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.3,424.849301208981
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.3,444.257761826516
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.3,462.377469955972
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.3,486.840745964638
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.3,501.656568832839
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.3,519.703563587536
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.35,161.261331166642
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.35,164.895726968555
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.35,167.873950279621
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.35,172.035206935742
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.35,176.836719659208
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.35,182.539579407376
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.35,189.418537539101
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.35,198.521299163873
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.35,206.94581926416
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.35,218.565668735907
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.35,228.865021636183
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.35,242.225533444529
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.35,256.994860806782
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.35,271.818473447668
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.35,287.931535956687
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.35,304.028408432153
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.35,321.183056763958
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.35,339.023999471352
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.35,356.583698788705
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.35,377.294510249444
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.35,400.058784176403
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.35,419.514423706932
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.35,440.681094538506
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.35,466.467786095131
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.35,488.317235658052
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.35,512.097828569342
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.35,535.780945344869
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.35,566.210017022401
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.35,585.864708787276
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.35,608.857178050723
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.4,166.866528587139
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.4,172.043565967056
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.4,176.509825324233
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.4,182.471265651751
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.4,189.266033406589
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.4,197.124373000499
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.4,206.303094825244
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.4,216.885824636577
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.4,228.35884575391
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.4,242.340163229795
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.4,254.256743050301
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.4,270.03864149015
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.4,286.994460345907
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.4,302.817610517528
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.4,320.404567715189
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.4,337.141728044017
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.4,356.926143607128
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.4,377.294003647888
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.4,397.925722207479
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.4,422.394134497723
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.4,448.83939002776
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.4,473.773693241493
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.4,499.941084819181
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.4,531.567186273446
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.4,558.91024198676
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.4,589.675842641506
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.4,616.79231123039
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.4,648.651336249595
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.4,673.397552594482
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.4,706.32483680995
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.45,172.486292510018
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.45,179.679750184202
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.45,186.357613777444
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.45,194.24781986793
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.45,203.669648236292
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.45,213.371253468041
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.45,224.944583930902
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.45,238.794988026434
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.45,253.170568375335
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.45,270.161912955402
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.45,284.537120194028
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.45,302.388221949225
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.45,323.659241926619
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.45,343.812252985182
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.45,364.844849137061
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.45,382.952055115223
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.45,402.691491935738
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.45,422.887965004374
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.45,440.998169865369
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.45,468.158105236656
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.45,496.031470249665
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.45,521.923573049415
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.45,553.248417379759
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.45,586.016639903812
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.45,617.135806234065
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.45,654.10012298992
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.45,686.530402206302
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.45,727.114846662519
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.45,761.31642543638
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.45,801.054937403518
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.5,178.792449902536
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.5,187.71669483753
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.5,196.991833086142
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.5,207.620985967702
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.5,219.533842387679
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.5,231.433153308602
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.5,245.003696073633
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.5,260.793224236963
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.5,277.39252660324
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.5,296.233007276599
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.5,313.357849441555
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.5,333.767549675687
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.5,356.940988868689
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.5,380.252570292074
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.5,404.949397893741
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.5,428.621989040825
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.5,452.747351784727
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.5,477.115787270322
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.5,497.857743497336
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.5,525.455014601743
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.5,554.936535831762
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.5,580.843333603618
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.5,611.355137354584
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.5,643.543061863496
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.5,676.985268949992
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.5,716.412200519539
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.5,752.502742564268
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.5,794.882381561108
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.5,832.814215804201
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.5,875.308887860584
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.55,185.577039215734
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.55,196.950831981332
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.55,208.8435014377
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.55,222.393819587292
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.55,237.265217439967
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.55,251.309868564224
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.55,266.19381942067
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.55,283.863572606791
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.55,301.566142036184
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.55,321.987487358953
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.55,340.777414275407
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.55,362.460178684845
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.55,387.0876373863
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.55,411.932946924397
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.55,441.001837226472
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.55,470.78525481448
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.55,503.40906837272
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.55,535.80260734433
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.55,565.015507411341
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.55,598.741966095958
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.55,634.218947393832
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.55,665.070542896166
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.55,696.996127825311
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.55,733.386121517877
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.55,766.494667619961
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.55,809.227131382384
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.55,838.344676289022
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.55,883.04020827658
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.55,919.508646334658
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.55,966.224626736262
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.6,193.224365319926
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.6,206.993179276721
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.6,222.14408627222
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.6,238.733051353982
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.6,256.071079699661
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.6,273.49635674429
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.6,291.472116069062
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.6,310.944389034859
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.6,330.546884233686
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.6,350.516489151764
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.6,370.872783226178
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.6,394.398626447277
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.6,422.791854992091
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.6,449.946120123988
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.6,482.118148640531
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.6,515.258367663058
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.6,552.486270944903
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.6,591.682598315783
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.6,627.908755451774
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.6,670.064154725009
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.6,710.672585749401
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.6,749.98051038878
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.6,792.497921115985
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.6,841.472445120266
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.6,884.521173213179
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.6,941.099953313242
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.6,985.97113146273
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.6,1050.80845035711
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.6,1099.03197584788
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.6,1158.89073368947
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.65,202.024474499738
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.65,218.623346854563
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.65,236.850039920298
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.65,256.627658884615
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.65,277.925892064227
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.65,299.046906774064
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.65,322.079669840947
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.65,344.251956307186
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.65,367.840734496625
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.65,392.636172173747
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.65,414.683838624171
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.65,441.360100928118
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.65,475.029042405016
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.65,510.131623566454
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.65,545.798047609245
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.65,577.471463952265
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.65,612.709131949195
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.65,651.869351140539
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.65,696.385494352212
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.65,748.848288089444
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.65,808.658550970636
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.65,869.23465516866
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.65,924.648444066214
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.65,993.618002967832
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.65,1047.86398194356
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.65,1119.66320263605
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.65,1158.9818610661
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.65,1232.92833222304
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.65,1274.91683715239
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.65,1347.17591984336
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.7,212.318558681262
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.7,232.635752832176
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.7,254.302826727139
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.7,278.059902852318
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.7,303.900368539027
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.7,330.631784018719
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.7,358.702847857783
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.7,385.897007800825
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.7,417.151038211402
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.7,447.915669235385
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.7,476.974833559992
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.7,508.868956462392
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.7,544.524130599516
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.7,579.202980210994
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.7,619.437840794086
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.7,657.260751268458
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.7,700.614955179911
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.7,744.324321299745
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.7,793.935081162728
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.7,844.82368149134
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.7,914.72708285876
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.7,981.086952763923
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.7,1051.06831520748
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.7,1124.60590418486
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.7,1203.89790214256
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.7,1302.29455745035
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.7,1388.11893879127
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.7,1499.80419023909
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.7,1580.27310863386
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.7,1698.63812758467
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.75,225.118522033727
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.75,250.20559456703
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.75,276.41627712322
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.75,305.034000527817
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.75,336.413396725162
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.75,370.53497688778
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.75,403.279385336148
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.75,433.456333564565
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.75,468.321497798132
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.75,503.114881072629
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.75,534.348063267338
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.75,570.784594057003
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.75,611.612086090178
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.75,656.299057348819
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.75,701.001840537315
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.75,750.998828029507
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.75,808.666699008654
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.75,860.15092291378
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.75,919.388067506783
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.75,978.152613746091
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.75,1047.60339651534
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.75,1112.06213057415
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.75,1188.919786351
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.75,1270.97871740966
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.75,1377.88964521156
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.75,1496.36411427229
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.75,1586.78049518021
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.75,1710.03873576787
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.75,1801.31526475549
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.75,1937.93318093516
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.8,242.517569168295
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.8,274.627833331339
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.8,308.15094906707
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.8,342.674333173818
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.8,382.093708424391
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.8,421.777451503369
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.8,461.232906946226
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.8,499.92687583036
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.8,539.985336081417
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.8,582.05587182068
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.8,617.590829285789
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.8,668.076428442198
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.8,721.130621940201
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.8,773.258303231794
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.8,819.899820263271
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.8,868.047221807172
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.8,928.228457412504
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.8,995.541576481897
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.8,1089.1608176329
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.8,1181.45499446989
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.8,1280.93469974083
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.8,1373.54894464454
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.8,1475.59121803552
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.8,1583.26783585643
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.8,1715.97736563108
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.8,1852.37301901322
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.8,1955.82016865044
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.8,2100.0245475752
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.8,2208.37058645905
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.8,2372.32998395318
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.85,266.401772969566
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.85,311.09440384046
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.85,356.021493780404
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.85,403.105785688725
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.85,456.033233520315
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.85,507.178782267022
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.85,548.428135791744
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.85,597.507688460606
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.85,653.095779409535
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.85,702.358577496263
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.85,739.261261760616
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.85,790.653659901097
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.85,851.848494176993
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.85,933.622034796213
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.85,1003.39319106247
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.85,1071.95386902685
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.85,1154.52328862984
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.85,1242.29424239359
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.85,1349.54119502457
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.85,1454.14794406242
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.85,1575.01476509709
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.85,1691.15834103579
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.85,1829.92925188368
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.85,1965.66134370968
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.85,2135.08553296396
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.85,2316.98935511373
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.85,2428.65816905173
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.85,2603.6561545011
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.85,2742.41564145721
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.85,2948.23262291178
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.9,297.331515335224
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.9,352.915631605651
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.9,411.82206449828
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.9,475.648819492053
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.9,546.083946231389
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.9,612.671042512103
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.9,676.854865931408
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.9,741.187590314267
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.9,809.806859450755
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.9,883.707199636359
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.9,957.655545450743
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.9,1054.55787349497
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.9,1145.48429136261
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.9,1250.54589466216
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.9,1353.51123854835
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.9,1468.44725747938
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.9,1585.73880974216
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.9,1721.38084012262
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.9,1867.28813624871
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.9,1999.07471419599
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.9,2174.91328409877
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.9,2265.42000251653
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.9,2526.75531263878
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.9,2714.26014769018
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.9,2986.32081498325
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.9,3195.41316247857
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.9,3330.24767976802
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.9,3534.48625061537
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.9,3692.52962858567
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.9,3886.7562639528
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.95,344.838250748398
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.95,416.16674354286
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.95,488.772723774327
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.95,574.872239908344
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.95,666.932096499922
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.95,759.116252510791
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.95,854.48966693739
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.95,955.36688636831
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.95,1066.89081305671
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.95,1216.43208652046
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.95,1343.258291736
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.95,1477.5572942508
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.95,1614.86014575701
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.95,1775.96785462758
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.95,1961.64994049793
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.95,2159.15645420516
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.95,2363.03557880537
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.95,2605.11362720362
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.95,2853.43576158212
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.95,3141.88979603858
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.95,3448.71205244459
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.95,3694.02731401489
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.95,4128.47911719801
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.95,4565.27493583279
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.95,5067.68909184286
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.95,5542.71276045451
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.95,5963.39780685399
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.95,6607.84158608606
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.95,7033.4633344642
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.95,7483.99997170064
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.975,411.937601915692
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.975,513.921665252721
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.975,619.166352493791
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.975,738.730828903404
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.975,862.291065097522
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.975,983.091875874015
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.975,1104.48420614763
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.975,1224.17762639616
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.975,1349.40100892351
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.975,1476.23173898201
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.975,1558.06896992824
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.975,1689.44905405742
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.975,1856.95041566037
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.975,2050.06776796838
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.975,2321.70621002393
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.975,2623.55620976532
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.975,2993.27930941103
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.975,3303.49775291981
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.975,3796.58163313136
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.975,4290.38898066804
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.975,4810.67525142495
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.975,5404.29738029343
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.975,6027.45504568802
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.975,6700.19911170159
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.975,7371.85363186996
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.975,7993.75555900537
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.975,8528.1824133897
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.975,9030.65367978256
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.975,9489.39302081595
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.975,9960.75975582343
+2021-03-29,"1 day ahead inc death",2021-03-30,"GM","Germany","quantile",0.99,473.70931531362
+2021-03-29,"2 day ahead inc death",2021-03-31,"GM","Germany","quantile",0.99,590.042188770151
+2021-03-29,"3 day ahead inc death",2021-04-01,"GM","Germany","quantile",0.99,720.589081708819
+2021-03-29,"4 day ahead inc death",2021-04-02,"GM","Germany","quantile",0.99,861.681055305928
+2021-03-29,"5 day ahead inc death",2021-04-03,"GM","Germany","quantile",0.99,1007.45894850629
+2021-03-29,"6 day ahead inc death",2021-04-04,"GM","Germany","quantile",0.99,1147.25230699361
+2021-03-29,"7 day ahead inc death",2021-04-05,"GM","Germany","quantile",0.99,1266.09458817571
+2021-03-29,"8 day ahead inc death",2021-04-06,"GM","Germany","quantile",0.99,1383.01148853242
+2021-03-29,"9 day ahead inc death",2021-04-07,"GM","Germany","quantile",0.99,1508.16732227763
+2021-03-29,"10 day ahead inc death",2021-04-08,"GM","Germany","quantile",0.99,1649.91741951195
+2021-03-29,"11 day ahead inc death",2021-04-09,"GM","Germany","quantile",0.99,1812.66193391769
+2021-03-29,"12 day ahead inc death",2021-04-10,"GM","Germany","quantile",0.99,2043.28032425539
+2021-03-29,"13 day ahead inc death",2021-04-11,"GM","Germany","quantile",0.99,2304.64610141062
+2021-03-29,"14 day ahead inc death",2021-04-12,"GM","Germany","quantile",0.99,2553.52919948142
+2021-03-29,"15 day ahead inc death",2021-04-13,"GM","Germany","quantile",0.99,2797.71215176076
+2021-03-29,"16 day ahead inc death",2021-04-14,"GM","Germany","quantile",0.99,3004.03213853907
+2021-03-29,"17 day ahead inc death",2021-04-15,"GM","Germany","quantile",0.99,3349.19008914298
+2021-03-29,"18 day ahead inc death",2021-04-16,"GM","Germany","quantile",0.99,3703.81557653718
+2021-03-29,"19 day ahead inc death",2021-04-17,"GM","Germany","quantile",0.99,4178.51621923165
+2021-03-29,"20 day ahead inc death",2021-04-18,"GM","Germany","quantile",0.99,4717.469685995
+2021-03-29,"21 day ahead inc death",2021-04-19,"GM","Germany","quantile",0.99,5286.46005494086
+2021-03-29,"22 day ahead inc death",2021-04-20,"GM","Germany","quantile",0.99,5880.03083850663
+2021-03-29,"23 day ahead inc death",2021-04-21,"GM","Germany","quantile",0.99,6553.09482710837
+2021-03-29,"24 day ahead inc death",2021-04-22,"GM","Germany","quantile",0.99,7275.47551521732
+2021-03-29,"25 day ahead inc death",2021-04-23,"GM","Germany","quantile",0.99,8014.33194345352
+2021-03-29,"26 day ahead inc death",2021-04-24,"GM","Germany","quantile",0.99,8844.83301293236
+2021-03-29,"27 day ahead inc death",2021-04-25,"GM","Germany","quantile",0.99,9676.9634037272
+2021-03-29,"28 day ahead inc death",2021-04-26,"GM","Germany","quantile",0.99,10526.7908249765
+2021-03-29,"29 day ahead inc death",2021-04-27,"GM","Germany","quantile",0.99,11304.0270253817
+2021-03-29,"30 day ahead inc death",2021-04-28,"GM","Germany","quantile",0.99,12111.2569039112
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","point",NA,76100.7924499025
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","point",NA,76288.5091447401
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","point",NA,76485.5009778262
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","point",NA,76693.1219637939
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","point",NA,76912.6558061816
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","point",NA,77144.0889594902
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","point",NA,77389.0926555638
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","point",NA,77649.8858798008
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","point",NA,77927.278406404
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","point",NA,78223.5114136806
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","point",NA,78536.8692631222
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","point",NA,78870.6368127979
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","point",NA,79227.5778016666
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","point",NA,79607.8303719586
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","point",NA,80012.7797698524
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","point",NA,80441.4017588932
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","point",NA,80894.1491106779
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","point",NA,81371.2648979482
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","point",NA,81869.1226414456
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","point",NA,82394.5776560473
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","point",NA,82949.5141918791
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","point",NA,83530.3575254827
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","point",NA,84141.7126628373
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","point",NA,84785.2557247008
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","point",NA,85462.2409936508
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","point",NA,86178.6531941703
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","point",NA,86931.1559367346
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","point",NA,87726.0383182957
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","point",NA,88558.8525340999
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","point",NA,89434.1614219605
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.01,76026.7689461493
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.01,76126.9377148171
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.01,76220.2134380243
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.01,76306.1838034304
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.01,76383.8389263442
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.01,76454.9239949049
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.01,76520.5370737776
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.01,76583.9654661685
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.01,76645.7540299183
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.01,76707.2275062129
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.01,76770.0568783139
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.01,76834.8633466524
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.01,76901.3601510474
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.01,76968.9192483744
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.01,77036.8132511283
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.01,77106.1675937354
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.01,77174.2979726084
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.01,77242.5921887558
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.01,77310.4591926378
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.01,77377.8061410149
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.01,77444.6639348252
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.01,77509.1997833309
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.01,77575.8162061238
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.01,77640.2346053969
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.01,77703.339001834
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.01,77762.8080686445
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.01,77818.7617634119
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.01,77875.9967018792
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.01,77927.7402138494
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.01,77981.4133592321
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.025,76035.4844337479
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.025,76145.1505783806
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.025,76248.6589476515
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.025,76346.1018472824
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.025,76437.2996964851
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.025,76523.6612219516
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.025,76606.8955862522
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.025,76689.5262885442
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.025,76771.8076398107
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.025,76854.2845246335
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.025,76937.7668900251
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.025,77023.049134705
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.025,77110.3888982083
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.025,77198.9709045804
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.025,77289.5169858741
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.025,77383.5609718726
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.025,77478.1200933965
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.025,77574.3676506003
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.025,77673.3963651163
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.025,77772.8656601011
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.025,77873.5859883769
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.025,77976.4342383152
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.025,78082.5063290903
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.025,78189.6175036687
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.025,78299.5320464496
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.025,78412.0760902982
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.025,78524.6527913785
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.025,78641.66102374
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.025,78758.5139516246
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.025,78879.1296626499
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.05,76043.3488294464
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.05,76161.819844342
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.05,76275.404584798
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.05,76384.3141528782
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.05,76488.6972260333
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.05,76589.2273321361
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.05,76688.1184726252
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.05,76786.4042397864
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.05,76884.9759748459
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.05,76984.8700569165
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.05,77086.6001864061
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.05,77191.4809011125
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.05,77299.934801577
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.05,77411.7607912887
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.05,77527.4242375231
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.05,77647.8489114004
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.05,77772.4176192817
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.05,77901.7128723075
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.05,78035.3469946201
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.05,78174.1344454673
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.05,78317.5186555003
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.05,78465.1607760873
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.05,78618.2304658185
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.05,78774.6545569335
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.05,78935.4603185064
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.05,79099.6668908123
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.05,79263.5693438532
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.05,79432.6904337822
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.05,79603.8222394075
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.05,79779.3207662814
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.1,76053.1224920839
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.1,76182.7625605647
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.1,76309.0525211149
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.1,76432.2277178541
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.1,76552.5310535735
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.1,76670.4968677591
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.1,76787.4186713509
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.1,76905.2693597264
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.1,77024.7183306067
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.1,77146.9907292211
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.1,77272.2267635451
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.1,77403.1922864957
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.1,77539.3662046001
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.1,77680.162873304
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.1,77825.8830780284
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.1,77976.8876870593
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.1,78133.2521632229
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.1,78294.0543578529
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.1,78460.6816396803
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.1,78633.7307104682
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.1,78811.867294411
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.1,78994.5720336602
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.1,79183.5053069242
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.1,79379.1075366584
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.1,79581.161540391
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.1,79788.5001829198
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.1,80001.5087510801
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.1,80221.5063224413
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.1,80444.389245364
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.1,80674.5014059416
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.15,76060.504960789
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.15,76198.2099105454
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.15,76333.9842823394
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.15,76467.7436202673
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.15,76600.2492477444
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.15,76731.4341344939
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.15,76862.867089762
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.15,76996.6527900677
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.15,77133.2026252583
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.15,77274.1483325376
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.15,77419.2307171999
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.15,77570.5820372793
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.15,77729.1014725812
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.15,77893.3956825024
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.15,78064.543275617
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.15,78241.5246245395
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.15,78425.0440786176
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.15,78613.8749489126
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.15,78809.2929165818
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.15,79012.7560799231
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.15,79221.2232596709
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.15,79435.9987131247
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.15,79659.1300276394
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.15,79888.5520468359
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.15,80127.4743603691
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.15,80374.7895884933
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.15,80631.0346139765
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.15,80899.7370716349
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.15,81175.9775851582
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.15,81460.4700231681
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.2,76066.7162364052
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.2,76211.6600650466
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.2,76355.8245512872
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.2,76499.4951214083
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.2,76643.1293398531
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.2,76787.084581375
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.2,76932.8901211849
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.2,77082.7047922927
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.2,77236.678305333
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.2,77396.7448964019
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.2,77562.3705205617
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.2,77735.7714239242
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.2,77917.7423176452
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.2,78106.8015575916
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.2,78306.2420724253
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.2,78514.117611165
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.2,78730.8616927535
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.2,78955.0342089339
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.2,79190.3775456781
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.2,79436.536722573
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.2,79691.4942951635
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.2,79956.5222888597
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.2,80230.7751888384
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.2,80515.1997876885
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.2,80811.803464588
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.2,81118.4718425879
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.2,81434.8509252049
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.2,81764.8558990902
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.2,82102.4076818124
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.2,82450.9138111518
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.25,76072.3898656907
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.25,76224.0644130527
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.25,76376.0043448527
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.25,76528.9199937068
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.25,76683.5713283242
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.25,76840.2470933679
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.25,77000.4280409137
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.25,77166.2700396072
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.25,77338.0020969091
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.25,77517.8384216558
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.25,77704.8965301093
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.25,77901.9586678712
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.25,78110.7729260525
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.25,78328.8101679929
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.25,78559.0083045286
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.25,78800.1263951275
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.25,79052.7209393942
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.25,79316.4142646643
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.25,79595.0491271364
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.25,79887.8990517427
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.25,80195.5404106882
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.25,80516.8464498649
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.25,80851.8143983269
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.25,81203.6509494204
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.25,81569.9469367538
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.25,81950.0925702556
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.25,82346.2680262206
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.25,82762.7376599479
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.25,83191.9979999468
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.25,83636.687005214
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.3,76077.8209699778
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.3,76236.0680556608
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.3,76395.9311255775
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.3,76558.0817350421
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.3,76723.545881373
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.3,76892.9048773506
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.3,77067.3226528242
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.3,77249.2018135657
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.3,77438.1040076406
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.3,77637.3343323183
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.3,77844.7992246802
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.3,78064.2942436969
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.3,78296.9310667078
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.3,78542.0206225965
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.3,78801.5993303976
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.3,79075.7529845465
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.3,79363.6435151789
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.3,79664.54691809
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.3,79981.054660288
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.3,80313.943478756
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.3,80666.3210860259
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.3,81034.9648816772
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.3,81421.6713324492
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.3,81828.8225738785
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.3,82253.6718750875
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.3,82697.929636914
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.3,83160.30710687
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.3,83647.1478528346
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.3,84148.8044216674
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.3,84668.507985255
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.35,76083.2613311666
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.35,76248.1570581352
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.35,76416.0310084148
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.35,76588.0662153506
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.35,76764.9029350098
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.35,76947.4425144171
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.35,77136.8610519562
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.35,77335.3823511201
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.35,77542.3281703843
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.35,77760.8938391202
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.35,77989.7588607564
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.35,78231.9843942009
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.35,78488.9792550077
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.35,78760.7977284553
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.35,79048.729264412
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.35,79352.7576728442
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.35,79673.9407296081
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.35,80012.9647290795
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.35,80369.5484278682
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.35,80746.8429381176
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.35,81146.901722294
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.35,81566.416146001
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.35,82007.0972405395
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.35,82473.5650266346
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.35,82961.8822622927
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.35,83473.980090862
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.35,84009.7610362069
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.35,84575.9710532293
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.35,85161.8357620166
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.35,85770.6929400673
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.4,76088.8665285871
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.4,76260.9100945542
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.4,76437.4199198784
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.4,76619.8911855302
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.4,76809.1572189368
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.4,77006.2815919373
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.4,77212.5846867625
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.4,77429.4705113991
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.4,77657.829357153
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.4,77900.1695203828
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.4,78154.4262634331
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.4,78424.4649049232
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.4,78711.4593652692
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.4,79014.2769757867
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.4,79334.6815435019
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.4,79671.8232715459
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.4,80028.749415153
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.4,80406.0434188009
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.4,80803.9691410084
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.4,81226.3632755061
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.4,81675.2026655339
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.4,82148.9763587754
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.4,82648.9174435945
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.4,83180.484629868
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.4,83739.3948718547
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.4,84329.0707144963
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.4,84945.8630257266
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.4,85594.5143619762
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.4,86267.9119145707
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.4,86974.2367513807
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.45,76094.48629251
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.45,76274.1660426942
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.45,76460.5236564717
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.45,76654.7714763396
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.45,76858.4411245759
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.45,77071.8123780439
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.45,77296.7569619748
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.45,77535.5519500013
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.45,77788.7225183766
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.45,78058.884431332
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.45,78343.421551526
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.45,78645.8097734753
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.45,78969.4690154019
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.45,79313.2812683871
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.45,79678.1261175241
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.45,80061.0781726393
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.45,80463.7696645751
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.45,80886.6576295795
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.45,81327.6557994448
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.45,81795.8139046815
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.45,82291.8453749311
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.45,82813.7689479806
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.45,83367.0173653603
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.45,83953.0340052641
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.45,84570.1698114982
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.45,85224.2699344881
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.45,85910.8003366944
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.45,86637.9151833569
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.45,87399.2316087933
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.45,88200.2865461968
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.5,76100.7924499025
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.5,76288.5091447401
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.5,76485.5009778262
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.5,76693.1219637939
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.5,76912.6558061816
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.5,77144.0889594902
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.5,77389.0926555638
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.5,77649.8858798008
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.5,77927.278406404
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.5,78223.5114136806
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.5,78536.8692631222
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.5,78870.6368127979
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.5,79227.5778016666
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.5,79607.8303719586
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.5,80012.7797698524
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.5,80441.4017588932
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.5,80894.1491106779
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.5,81371.2648979482
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.5,81869.1226414456
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.5,82394.5776560473
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.5,82949.5141918791
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.5,83530.3575254827
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.5,84141.7126628373
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.5,84785.2557247008
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.5,85462.2409936508
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.5,86178.6531941703
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.5,86931.1559367346
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.5,87726.0383182957
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.5,88558.8525340999
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.5,89434.1614219605
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.55,76107.5770392157
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.55,76304.5278711971
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.55,76513.3713726348
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.55,76735.7651922221
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.55,76973.030409662
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.55,77224.3402782263
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.55,77490.5340976469
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.55,77774.3976702537
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.55,78075.9638122899
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.55,78397.9512996488
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.55,78738.7287139243
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.55,79101.1888926091
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.55,79488.2765299954
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.55,79900.2094769198
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.55,80341.2113141463
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.55,80811.9965689607
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.55,81315.4056373335
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.55,81851.2082446778
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.55,82416.2237520891
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.55,83014.9657181851
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.55,83649.1846655789
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.55,84314.2552084751
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.55,85011.2513363004
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.55,85744.6374578183
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.55,86511.1321254382
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.55,87320.3592568206
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.55,88158.7039331096
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.55,89041.7441413862
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.55,89961.2527877209
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.55,90927.4774144572
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.6,76115.2243653199
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.6,76322.2175445966
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.6,76544.3616308689
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.6,76783.0946822228
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.6,77039.1657619225
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.6,77312.6621186668
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.6,77604.1342347359
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.6,77915.0786237707
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.6,78245.6255080044
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.6,78596.1419971562
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.6,78967.0147803823
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.6,79361.4134068296
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.6,79784.2052618217
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.6,80234.1513819457
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.6,80716.2695305862
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.6,81231.5278982493
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.6,81784.0141691942
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.6,82375.69676751
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.6,83003.6055229617
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.6,83673.6696776868
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.6,84384.3422634362
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.6,85134.3227738249
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.6,85926.8206949409
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.6,86768.2931400612
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.6,87652.8143132744
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.6,88593.9142665876
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.6,89579.8853980503
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.6,90630.6938484074
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.6,91729.7258242553
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.6,92888.6165579448
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.65,76124.0244744997
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.65,76342.6478213543
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.65,76579.4978612746
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.65,76836.1255201592
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.65,77114.0514122234
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.65,77413.0983189975
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.65,77735.1779888384
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.65,78079.4299451456
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.65,78447.2706796423
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.65,78839.906851816
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.65,79254.5906904402
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.65,79695.9507913683
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.65,80170.9798337733
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.65,80681.1114573398
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.65,81226.909504949
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.65,81804.3809689013
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.65,82417.0901008505
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.65,83068.959451991
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.65,83765.3449463432
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.65,84514.1932344327
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.65,85322.8517854033
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.65,86192.086440572
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.65,87116.7348846382
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.65,88110.352887606
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.65,89158.2168695496
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.65,90277.8800721856
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.65,91436.8619332517
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.65,92669.7902654748
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.65,93944.7071026272
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.65,95291.8830224705
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.7,76134.3185586813
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.7,76366.9543115134
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.7,76621.2571382406
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.7,76899.3170410929
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.7,77203.2174096319
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.7,77533.8491936506
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.7,77892.5520415084
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.7,78278.4490493092
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.7,78695.6000875207
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.7,79143.515756756
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.7,79620.490590316
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.7,80129.3595467784
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.7,80673.8836773779
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.7,81253.0866575889
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.7,81872.524498383
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.7,82529.7852496515
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.7,83230.4002048314
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.7,83974.7245261311
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.7,84768.6596072939
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.7,85613.4832887852
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.7,86528.210371644
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.7,87509.2973244079
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.7,88560.3656396154
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.7,89684.9715438002
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.7,90888.8694459428
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.7,92191.1640033931
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.7,93579.2829421844
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.7,95079.0871324235
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.7,96659.3602410574
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.7,98357.998368642
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.75,76147.1185220337
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.75,76397.3241166008
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.75,76673.740393724
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.75,76978.7743942518
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.75,77315.187790977
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.75,77685.7227678647
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.75,78089.0021532009
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.75,78522.4584867654
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.75,78990.7799845636
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.75,79493.8948656362
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.75,80028.2429289035
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.75,80599.0275229605
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.75,81210.6396090507
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.75,81866.9386663996
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.75,82567.9405069369
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.75,83318.9393349664
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.75,84127.606033975
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.75,84987.7569568888
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.75,85907.1450243956
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.75,86885.2976381417
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.75,87932.901034657
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.75,89044.9631652312
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.75,90233.8829515822
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.75,91504.8616689918
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.75,92882.7513142034
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.75,94379.1154284757
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.75,95965.8959236559
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.75,97675.9346594238
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.75,99477.2499241793
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.75,101415.183105114
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.8,76164.5175691683
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.8,76439.1454024996
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.8,76747.2963515667
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.8,77089.9706847405
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.8,77472.0643931649
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.8,77893.8418446683
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.8,78355.0747516145
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.8,78855.0016274449
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.8,79394.9869635263
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.8,79977.042835347
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.8,80594.6336646328
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.8,81262.7100930749
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.8,81983.8407150151
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.8,82757.0990182469
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.8,83576.9988385102
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.8,84445.0460603174
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.8,85373.2745177299
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.8,86368.8160942118
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.8,87457.9769118447
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.8,88639.4319063146
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.8,89920.3666060554
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.8,91293.9155507
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.8,92769.5067687355
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.8,94352.7746045919
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.8,96068.751970223
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.8,97921.1249892362
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.8,99876.9451578866
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.8,101976.969705462
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.8,104185.340291921
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.8,106557.670275874
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.85,76188.4017729696
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.85,76499.49617681
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.85,76855.5176705904
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.85,77258.6234562792
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.85,77714.6566897995
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.85,78221.8354720665
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.85,78770.2636078582
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.85,79367.7712963188
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.85,80020.8670757284
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.85,80723.2256532246
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.85,81462.4869149853
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.85,82253.1405748863
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.85,83104.9890690633
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.85,84038.6111038596
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.85,85042.004294922
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.85,86113.9581639489
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.85,87268.4814525787
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.85,88510.7756949723
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.85,89860.3168899969
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.85,91314.4648340593
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.85,92889.4795991564
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.85,94580.6379401922
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.85,96410.5671920758
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.85,98376.2285357855
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.85,100511.314068749
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.85,102828.303423863
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.85,105256.961592915
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.85,107860.617747416
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.85,110603.033388873
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.85,113551.266011785
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.9,76219.3315153352
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.9,76572.2471469409
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.9,76984.0692114392
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.9,77459.7180309312
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.9,78005.8019771626
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.9,78618.4730196747
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.9,79295.3278856061
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.9,80036.5154759204
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.9,80846.3223353711
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.9,81730.0295350075
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.9,82687.6850804582
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.9,83742.2429539532
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.9,84887.7272453158
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.9,86138.273139978
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.9,87491.7843785263
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.9,88960.2316360057
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.9,90545.9704457479
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.9,92267.3512858705
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.9,94134.6394221192
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.9,96133.7141363152
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.9,98308.6274204139
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.9,100574.04742293
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.9,103100.802735569
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.9,105815.062883259
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.9,108801.383698243
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.9,111996.796860721
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.9,115327.044540489
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.9,118861.530791105
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.9,122554.06041969
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.9,126440.816683643
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.95,76266.8382507484
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.95,76683.0049942913
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.95,77171.7777180656
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.95,77746.6499579739
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.95,78413.5820544739
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.95,79172.6983069846
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.95,80027.187973922
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.95,80982.5548602903
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.95,82049.445673347
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.95,83265.8777598675
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.95,84609.1360516035
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.95,86086.6933458543
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.95,87701.5534916113
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.95,89477.5213462389
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.95,91439.1712867368
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.95,93598.327740942
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.95,95961.3633197474
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.95,98566.476946951
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.95,101419.912708533
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.95,104561.802504572
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.95,108010.514557016
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.95,111704.541871031
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.95,115833.020988229
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.95,120398.295924062
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.95,125465.985015905
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.95,131008.697776359
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.95,136972.095583213
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.95,143579.937169299
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.95,150613.400503764
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.95,158097.400475464
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.975,76333.9376019157
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.975,76847.8592671684
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.975,77467.0256196622
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.975,78205.7564485656
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.975,79068.0475136631
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.975,80051.1393895371
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.975,81155.6235956848
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.975,82379.8012220809
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.975,83729.2022310044
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.975,85205.4339699865
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.975,86763.5029399147
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.975,88452.9519939721
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.975,90309.9024096325
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.975,92359.9701776009
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.975,94681.6763876248
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.975,97305.2325973901
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.975,100298.511906801
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.975,103602.009659721
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.975,107398.591292852
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.975,111688.98027352
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.975,116499.655524945
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.975,121903.952905239
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.975,127931.407950927
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.975,134631.607062628
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.975,142003.460694498
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.975,149997.216253504
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.975,158525.398666893
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.975,167556.052346676
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.975,177045.445367492
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.975,187006.205123315
+2021-03-29,"1 day ahead cum death",2021-03-30,"GM","Germany","quantile",0.99,76395.7093153136
+2021-03-29,"2 day ahead cum death",2021-03-31,"GM","Germany","quantile",0.99,76985.7515040838
+2021-03-29,"3 day ahead cum death",2021-04-01,"GM","Germany","quantile",0.99,77706.3405857926
+2021-03-29,"4 day ahead cum death",2021-04-02,"GM","Germany","quantile",0.99,78568.0216410985
+2021-03-29,"5 day ahead cum death",2021-04-03,"GM","Germany","quantile",0.99,79575.4805896048
+2021-03-29,"6 day ahead cum death",2021-04-04,"GM","Germany","quantile",0.99,80722.7328965984
+2021-03-29,"7 day ahead cum death",2021-04-05,"GM","Germany","quantile",0.99,81988.8274847741
+2021-03-29,"8 day ahead cum death",2021-04-06,"GM","Germany","quantile",0.99,83371.8389733066
+2021-03-29,"9 day ahead cum death",2021-04-07,"GM","Germany","quantile",0.99,84880.0062955842
+2021-03-29,"10 day ahead cum death",2021-04-08,"GM","Germany","quantile",0.99,86529.9237150961
+2021-03-29,"11 day ahead cum death",2021-04-09,"GM","Germany","quantile",0.99,88342.5856490138
+2021-03-29,"12 day ahead cum death",2021-04-10,"GM","Germany","quantile",0.99,90385.8659732692
+2021-03-29,"13 day ahead cum death",2021-04-11,"GM","Germany","quantile",0.99,92690.5120746798
+2021-03-29,"14 day ahead cum death",2021-04-12,"GM","Germany","quantile",0.99,95244.0412741613
+2021-03-29,"15 day ahead cum death",2021-04-13,"GM","Germany","quantile",0.99,98041.753425922
+2021-03-29,"16 day ahead cum death",2021-04-14,"GM","Germany","quantile",0.99,101045.785564461
+2021-03-29,"17 day ahead cum death",2021-04-15,"GM","Germany","quantile",0.99,104394.975653604
+2021-03-29,"18 day ahead cum death",2021-04-16,"GM","Germany","quantile",0.99,108098.791230141
+2021-03-29,"19 day ahead cum death",2021-04-17,"GM","Germany","quantile",0.99,112277.307449373
+2021-03-29,"20 day ahead cum death",2021-04-18,"GM","Germany","quantile",0.99,116994.777135368
+2021-03-29,"21 day ahead cum death",2021-04-19,"GM","Germany","quantile",0.99,122281.237190309
+2021-03-29,"22 day ahead cum death",2021-04-20,"GM","Germany","quantile",0.99,128161.268028815
+2021-03-29,"23 day ahead cum death",2021-04-21,"GM","Germany","quantile",0.99,134714.362855924
+2021-03-29,"24 day ahead cum death",2021-04-22,"GM","Germany","quantile",0.99,141989.838371141
+2021-03-29,"25 day ahead cum death",2021-04-23,"GM","Germany","quantile",0.99,150004.170314595
+2021-03-29,"26 day ahead cum death",2021-04-24,"GM","Germany","quantile",0.99,158849.003327527
+2021-03-29,"27 day ahead cum death",2021-04-25,"GM","Germany","quantile",0.99,168525.966731254
+2021-03-29,"28 day ahead cum death",2021-04-26,"GM","Germany","quantile",0.99,179052.757556231
+2021-03-29,"29 day ahead cum death",2021-04-27,"GM","Germany","quantile",0.99,190356.784581612
+2021-03-29,"30 day ahead cum death",2021-04-28,"GM","Germany","quantile",0.99,202468.041485524
+2021-03-29,"-1 wk ahead cum death",2021-03-20,"GM","Germany","observed",NA,74574
+2021-03-29,"0 wk ahead cum death",2021-03-27,"GM","Germany","observed",NA,75789
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","point",NA,76912.6558061816
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","point",NA,78870.6368127979
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","point",NA,81869.1226414456
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","point",NA,86178.6531941703
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.01,76383.8389263442
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.01,76834.8633466524
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.01,77310.4591926378
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.01,77762.8080686445
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.025,76437.2996964851
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.025,77023.049134705
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.025,77673.3963651163
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.025,78412.0760902982
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.05,76488.6972260333
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.05,77191.4809011125
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.05,78035.3469946201
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.05,79099.6668908123
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.1,76552.5310535735
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.1,77403.1922864957
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.1,78460.6816396803
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.1,79788.5001829198
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.15,76600.2492477444
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.15,77570.5820372793
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.15,78809.2929165818
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.15,80374.7895884933
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.2,76643.1293398531
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.2,77735.7714239242
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.2,79190.3775456781
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.2,81118.4718425879
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.25,76683.5713283242
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.25,77901.9586678712
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.25,79595.0491271364
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.25,81950.0925702556
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.3,76723.545881373
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.3,78064.2942436969
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.3,79981.054660288
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.3,82697.929636914
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.35,76764.9029350098
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.35,78231.9843942009
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.35,80369.5484278682
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.35,83473.980090862
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.4,76809.1572189368
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.4,78424.4649049232
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.4,80803.9691410084
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.4,84329.0707144963
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.45,76858.4411245759
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.45,78645.8097734753
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.45,81327.6557994448
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.45,85224.2699344881
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.5,76912.6558061816
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.5,78870.6368127979
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.5,81869.1226414456
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.5,86178.6531941703
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.55,76973.030409662
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.55,79101.1888926091
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.55,82416.2237520891
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.55,87320.3592568206
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.6,77039.1657619225
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.6,79361.4134068296
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.6,83003.6055229617
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.6,88593.9142665876
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.65,77114.0514122234
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.65,79695.9507913683
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.65,83765.3449463432
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.65,90277.8800721856
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.7,77203.2174096319
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.7,80129.3595467784
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.7,84768.6596072939
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.7,92191.1640033931
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.75,77315.187790977
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.75,80599.0275229605
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.75,85907.1450243956
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.75,94379.1154284757
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.8,77472.0643931649
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.8,81262.7100930749
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.8,87457.9769118447
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.8,97921.1249892362
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.85,77714.6566897995
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.85,82253.1405748863
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.85,89860.3168899969
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.85,102828.303423863
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.9,78005.8019771626
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.9,83742.2429539532
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.9,94134.6394221192
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.9,111996.796860721
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.95,78413.5820544739
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.95,86086.6933458543
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.95,101419.912708533
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.95,131008.697776359
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.975,79068.0475136631
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.975,88452.9519939721
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.975,107398.591292852
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.975,149997.216253504
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM","Germany","quantile",0.99,79575.4805896048
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM","Germany","quantile",0.99,90385.8659732692
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM","Germany","quantile",0.99,112277.307449373
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM","Germany","quantile",0.99,158849.003327527
+2021-03-29,"-1 wk ahead inc death",2021-03-20,"GM","Germany","observed",NA,1264
+2021-03-29,"0 wk ahead inc death",2021-03-27,"GM","Germany","observed",NA,1215
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","point",NA,1334.22723475302
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","point",NA,1957.98100661628
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","point",NA,2998.48582864771
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","point",NA,4309.53055272473
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.01,805.410354915639
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.025,858.871125056511
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.05,910.268654604679
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.1,974.102482144896
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.15,1021.82067631585
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.2,1064.70076842454
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.25,1105.14275689564
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.3,1145.11730994444
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.35,1186.4743635812
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.4,1230.7286475082
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.45,1280.01255314731
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.55,1394.60183823345
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.6,1460.73719049394
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.65,1535.62284079487
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.7,1624.78883820335
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.75,1736.75921954838
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.8,1893.63582173634
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.85,2136.2281183709
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.9,2427.37340573403
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.95,2835.15348304528
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.975,3489.61894223456
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.99,3997.05201817624
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM","Germany","quantile",0.5,1334.22723475302
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.01,451.024420308227
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.025,585.749438219866
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.05,702.783675079264
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.1,850.661232922252
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.15,970.332789534884
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.2,1092.64208407109
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.25,1218.38733954698
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.3,1340.7483623239
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.35,1467.08145919113
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.4,1615.30768598648
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.45,1787.36864889937
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.55,2128.15848294707
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.6,2322.24764490712
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.65,2581.89937914486
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.7,2926.1421371465
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.75,3283.83973198359
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.8,3790.64569991004
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.85,4538.48388508688
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.9,5736.44097679061
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.95,7673.11129138046
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.975,9384.90448030899
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.99,10810.3853836644
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM","Germany","quantile",0.5,1957.98100661628
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.01,475.595845985343
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.025,650.34723041136
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.05,843.866093507596
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.1,1057.48935318456
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.15,1238.71087930251
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.2,1454.60612175385
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.25,1693.09045926517
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.3,1916.76041659104
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.35,2137.56403366731
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.4,2379.50423608514
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.45,2681.84602596957
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.55,3315.03485948004
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.6,3642.19211613213
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.65,4069.39415497493
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.7,4639.30006051544
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.75,5308.11750143504
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.8,6195.26681876974
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.85,7607.17631511053
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.9,10392.396468166
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.95,15333.2193626788
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.975,18945.6392988802
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.99,21891.4414761037
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM","Germany","quantile",0.5,2998.48582864771
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.01,452.348876006717
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.025,738.679725181883
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.05,1064.3198961922
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.1,1327.81854323948
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.15,1565.49667191149
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.2,1928.0942969098
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.25,2355.04344311928
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.3,2716.87497662604
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.35,3104.43166299381
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.4,3525.10157348787
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.45,3896.61413504329
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.55,4904.13550473149
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.6,5590.30874362586
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.65,6512.5351258424
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.7,7422.50439609927
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.75,8471.97040408009
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.8,10463.1480773915
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.85,12967.9865338664
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.9,17862.1574386021
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.95,29588.7850678262
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.975,42598.6249606514
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.99,46571.6958781541
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM","Germany","quantile",0.5,4309.53055272473
+2021-03-29,"-1 wk ahead cum death",2021-03-20,"GM13","Free State of Saxony","observed",NA,8207
+2021-03-29,"0 wk ahead cum death",2021-03-27,"GM13","Free State of Saxony","observed",NA,8332
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","point",NA,8438.29225954922
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","point",NA,8656.85892981687
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","point",NA,9054.40057788058
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","point",NA,9743.09252949958
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.01,8384.99203335394
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.01,8432.5629517077
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.01,8477.12699128649
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.01,8512.47267341805
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.025,8390.38265322649
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.025,8448.74711593208
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.025,8506.13003965336
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.025,8556.96772944418
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.05,8395.48322210226
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.05,8465.60300735975
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.05,8535.25358658085
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.05,8600.73443922861
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.1,8401.99872164861
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.1,8488.2661719216
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.1,8577.83793670655
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.1,8667.28782288122
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.15,8406.81719906433
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.15,8504.9962874616
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.15,8617.91601974249
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.15,8735.65278997538
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.2,8410.93140776181
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.2,8519.52403900251
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.2,8654.19733256253
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.2,8806.45588461662
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.25,8414.83210548484
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.25,8533.38192554698
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.25,8685.10104539257
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.25,8867.46321333104
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.3,8418.65180854071
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.3,8547.65700787995
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.3,8716.68018155091
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.3,8925.30528476611
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.35,8422.54104674083
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.35,8563.39674522424
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.35,8754.51258807794
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.35,8995.28254747812
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.4,8426.58537586005
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.4,8580.77070735247
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.4,8797.12836733997
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.4,9085.45735707745
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.45,8430.96038579592
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.45,8600.07593045165
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.45,8841.53432894234
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.45,9180.72043657021
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.5,8435.56337953266
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.5,8622.10780578363
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.5,8891.71337187798
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.5,9285.94118447484
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.55,8440.37427666683
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.55,8645.75166251278
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.55,8948.11020909295
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.55,9400.33501832542
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.6,8445.30477037149
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.6,8668.97492553677
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.6,9005.49785533746
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.6,9524.08649496878
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.65,8450.37596415272
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.65,8691.79570517622
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.65,9067.75303661659
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.65,9649.01941486257
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.7,8455.75688733797
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.7,8714.63198316917
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.7,9136.11569101513
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.7,9785.84896633641
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.75,8461.60514377362
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.75,8738.04186195766
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.75,9206.91676983371
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.75,9982.7237590373
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.8,8468.49645109732
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.8,8764.41858335675
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.8,9273.62270499207
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.8,10124.7651850346
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.85,8477.80766774251
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.85,8802.8874162665
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.85,9359.61682007916
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.85,10287.537126335
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.9,8494.53844513778
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.9,8879.60366290381
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.9,9579.33553111038
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.9,10790.1257071804
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.95,8526.71452677444
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.95,9024.12666180124
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.95,10020.8298483914
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.95,11945.4143029075
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.975,8548.27813800466
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.975,9141.87267852291
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.975,10332.7084759936
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.975,12635.0879024402
+2021-03-29,"1 wk ahead cum death",2021-04-03,"GM13","Free State of Saxony","quantile",0.99,8572.7300666817
+2021-03-29,"2 wk ahead cum death",2021-04-10,"GM13","Free State of Saxony","quantile",0.99,9257.64234258958
+2021-03-29,"3 wk ahead cum death",2021-04-17,"GM13","Free State of Saxony","quantile",0.99,10705.7673408573
+2021-03-29,"4 wk ahead cum death",2021-04-24,"GM13","Free State of Saxony","quantile",0.99,13650.8470216633
+2021-03-29,"-1 wk ahead inc death",2021-03-20,"GM13","Free State of Saxony","observed",NA,87
+2021-03-29,"0 wk ahead inc death",2021-03-27,"GM13","Free State of Saxony","observed",NA,125
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","point",NA,126.134808104085
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","point",NA,186.544426250976
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","point",NA,269.605566094346
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","point",NA,394.227812596866
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.01,75.5634619253682
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.025,80.9540817979228
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.05,86.0546506736893
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.1,92.5701502200382
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.15,97.3886276357576
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.2,101.502836333242
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.25,105.403534056269
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.3,109.223237112137
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.35,113.112475312254
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.4,117.156804431475
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.45,121.531814367348
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.55,130.945705238254
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.6,135.876198942923
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.65,140.94739272415
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.7,146.3283159094
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.75,152.176572345048
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.8,159.067879668745
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.85,168.379096313936
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.9,185.109873709207
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.95,217.285955345867
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.975,238.849566576084
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.99,263.301495253123
+2021-03-29,"1 wk ahead inc death",2021-04-03,"GM13","Free State of Saxony","quantile",0.5,126.134808104085
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.01,47.570918353765
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.025,58.3644627055859
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.05,70.1197852574871
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.1,86.2674502729899
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.15,98.1790883972716
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.2,108.592631240694
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.25,118.54982006214
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.3,129.00519933924
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.35,140.855698483414
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.4,154.185331492425
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.45,169.115544655729
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.55,205.377385845952
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.6,223.67015516528
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.65,241.419741023498
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.7,258.875095831195
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.75,276.43671818404
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.8,295.922132259434
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.85,325.079748523994
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.9,385.065217766029
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.95,497.412135026798
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.975,593.594540518254
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.99,684.912275907886
+2021-03-29,"2 wk ahead inc death",2021-04-10,"GM13","Free State of Saxony","quantile",0.5,186.544426250976
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.01,44.5640395787821
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.025,57.3829237212845
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.05,69.6505792210987
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.1,89.5717647849464
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.15,112.919732280885
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.2,134.673293560021
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.25,151.719119845587
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.3,169.023173670961
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.35,191.115842853703
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.4,216.357659987495
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.45,241.458398490691
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.55,302.35854658017
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.6,336.522929800684
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.65,375.957331440367
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.7,421.483707845964
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.75,468.874907876051
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.8,509.204121635318
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.85,556.729403812656
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.9,699.731868206567
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.95,996.703186590144
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.975,1190.83579747067
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.99,1448.12499826769
+2021-03-29,"3 wk ahead inc death",2021-04-17,"GM13","Free State of Saxony","quantile",0.5,269.605566094346
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.01,35.3456821315615
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.025,50.8376897908117
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.05,65.4808526477643
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.1,89.4498861746713
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.15,117.736770232892
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.2,152.258552054088
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.25,182.362167938468
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.3,208.625103215201
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.35,240.769959400178
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.4,288.328989737482
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.45,339.186107627873
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.55,452.224809232473
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.6,518.588639631325
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.65,581.266378245983
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.7,649.733275321274
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.75,775.806989203589
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.8,851.14248004253
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.85,927.920306255849
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.9,1210.79017607002
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.95,1924.58445451613
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.975,2302.37942644667
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.99,2945.07968080599
+2021-03-29,"4 wk ahead inc death",2021-04-24,"GM13","Free State of Saxony","quantile",0.5,394.227812596866
