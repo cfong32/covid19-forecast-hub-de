@@ -89,6 +89,7 @@ subset_forecasts_for_plot <- function(forecasts, forecast_date = NULL, target_ty
 }
 
 determine_ylim <- function(forecasts, forecast_date = NULL, target_type, horizon, location, truth, start_at_zero = TRUE){
+  truth <- subset(truth, date >= forecast_date - 28)
   forecasts <- subset_forecasts_for_plot(forecasts = forecasts, forecast_date = forecast_date,
                             target_type = target_type, horizon = horizon, location = location)
   lower <- if(start_at_zero){
@@ -195,8 +196,8 @@ plot_forecast <- function(forecasts,
 
   if(is.null(horizon) & is.null(forecast_date)) stop("Exactly one out of horizon and forecast_date needs to be specified")
 
-  forecasts <- subset(forecasts, target_end_date >= start & target_end_date <= end)
-  truth <- truth[truth$date >= start & truth$location == location, ]
+  forecasts <- subset(forecasts, target_end_date >= start - 7 & target_end_date <= end)
+  # truth <- truth[truth$date >= start & truth$location == location, ]
   xlim <- c(start, end)
 
   if(is.null(ylim)) ylim <- determine_ylim(forecasts = forecasts, forecast_date = forecast_date,
