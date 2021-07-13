@@ -22,7 +22,8 @@ res = r.json()
 files = [file["path"] for file in res["tree"] if (file["path"].startswith("data-processed/") and file["path"].endswith(".csv"))]
 
 # list files pres
-excluded_models = ["USC-SIkJalpha", "MIMUW-StochSEIR", "LeipzigIMISE-SECIR"]
+excluded_models = ["USC-SIkJalpha", "MIMUW-StochSEIR", "LeipzigIMISE-SECIR", "epiforecasts-EpiExpert", "epiforecasts-EpiNow2",
+                   "epiforecasts-EpiNow2_secondary", "epiforecasts-EpiExpert_Rt", "epiforecasts-EpiExpert_direct"]
 
 # the forecast_dates for which to transfer forecasts
 forecast_dates = [datetime.now() - timedelta(x) for x in range(4)]
@@ -112,5 +113,7 @@ for team in models_de_pl:
                     
                     if not os.path.exists(Path(path_hub_eu+ "/data-processed/"+ team)):
                         os.makedirs(Path(path_hub_eu+ "/data-processed/"+ team))
-                        
+                    
+                    dat["value"] = dat["value"].round(0).astype(int)
+                    
                     dat.to_csv(Path(path_hub_eu + "/" + file_eu), index=False)
