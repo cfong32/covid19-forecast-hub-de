@@ -31,8 +31,8 @@ if __name__ == "__main__":
         raise Exception(f"No forecasts of given format in {data_raw_dir} yet, set latest_fc_date manually!")
     
     # define start combination of version numbers and forecast dates
-    start_version = 31
-    start_fc_date = datetime.strptime("2020-12-27", DATE_FORMAT)
+    start_version = 39
+    start_fc_date = datetime.strptime("2021-03-14", DATE_FORMAT)
 
     # get latest combination of version numbers and forecast dates already present in our repo
     latest_fc_date = date_list[0]

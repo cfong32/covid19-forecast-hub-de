@@ -1,9 +1,9 @@
   
 name: "UCLA"
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 17 * * 3"
+  push:
+    branches-ignore:
+      - '**'
   
 
 jobs:

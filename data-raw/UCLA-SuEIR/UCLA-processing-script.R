@@ -6,6 +6,10 @@
 ## Jakob Ketterer
 ## Januar 2021
 
+## exclude date 2021-03-07 from processing as it was uploaded retrospectively
+## Jakob Ketterer
+## March 2021
+
 source("process_UCLA_file_germany.R")
 
 # make sure that English names of days and months are used
@@ -30,7 +34,7 @@ files_to_process <- all_files[grepl("pred_world", all_files)]
 # ignore the 13 dates belonging to 2020 to avoid issues
 files_to_process <- files_to_process[-(length(files_to_process)-12):-length(files_to_process)]
 forecast_dates <- as.Date(paste0("2021-", gsub(".csv", "", gsub("pred_world_", "", files_to_process))))
-files_to_process
+
 # ignore all files from 2021 that have been processed already
 filenames_processed <- list.files("../../data-processed/UCLA-SuEIR/", pattern=".csv", full.names=FALSE)
 dates_processed <- unlist(lapply(filenames_processed, FUN = function(x) as.Date(substr(basename(x), 0, 10))))
@@ -39,8 +43,13 @@ dates_processed <- unlist(lapply(filenames_processed, FUN = function(x) as.Date(
 forecast_dates <- as.Date(setdiff(forecast_dates, dates_processed), origin = "1970-01-01")
 files_to_process <- sort(files_to_process)[(length(files_to_process)-length(forecast_dates)+1):length(files_to_process)]
 
-forecast_dates
-files_to_process
+# EXCLUDED DATES
+# exclude 2021-03-07 as it was uploaded retrospectively
+forecast_dates <- forecast_dates[! forecast_dates %in% as.Date("2021-03-07")]
+files_to_process <- setdiff(files_to_process, "pred_world_03-07.csv")
+
+# forecast_dates
+# files_to_process
 
 for(j in seq_along(locations)){
   for(i in seq_along(files_to_process)){

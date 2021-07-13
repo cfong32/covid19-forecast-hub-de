@@ -1,0 +1,25 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","point",NA,163162.748118412
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.025,128083.303503073
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.1,140225.532169634
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.25,151090.727396475
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.5,163162.748118412
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.75,175234.768840348
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.9,186099.964067189
+"2021-04-05","1 wk ahead inc case","2021-04-10","PL","quantile",0.975,198242.19273375
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","point",NA,188372.568435429
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.025,105619.35232989
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.1,134263.148828522
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.25,159894.394091809
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.5,188372.568435429
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.75,216850.742779048
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.9,242481.988042336
+"2021-04-05","2 wk ahead inc case","2021-04-17","PL","quantile",0.975,271125.784540967
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","point",NA,187168.717082233
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.025,105490.087413974
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.1,133761.931779768
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.25,159060.344195866
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.5,187168.717082233
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.75,215277.0899686
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.9,240575.502384698
+"2021-04-05","3 wk ahead inc case","2021-04-24","PL","quantile",0.975,268847.346750491

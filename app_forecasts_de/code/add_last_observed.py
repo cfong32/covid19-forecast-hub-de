@@ -61,7 +61,7 @@ df = df[['forecast_date', 'target', 'target_end_date', 'location', 'type',
        'shift_ECDC', 'shift_JHU', 'first_commit_date']]
 
 # export csv
-df.to_csv('../data/forecasts_to_plot_archive.csv', index=False)
+#df.to_csv('../data/forecasts_to_plot_archive.csv', index=False)
 
 # light version to load faster
 df = df[(df.timezero.isin(pd.Series(df.timezero.unique()).nlargest(8)) & df.location.isin(['GM', 'PL'])) | 

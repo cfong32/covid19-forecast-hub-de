@@ -6,10 +6,12 @@ import os
 
 if __name__ == "__main__":
     
-    # url = "https://raw.githubusercontent.com/uclaml/ucla-covid19-forecasts/master/projection_result/pred_world_02-06.csv"
-    url = "https://ihmecovid19storage.blob.core.windows.net/archive/2021-02-20/ihme-covid19.zip"
-    file_name = "ihme-covid19.zip"
+    file_name = "pred_world_03-07.csv"
+    # file_name = "ihme-covid19.zip"
     dir_name = os.path.join("./data-raw/UCLA-SuEIR", file_name)
+
+    url = "https://raw.githubusercontent.com/uclaml/ucla-covid19-forecasts/master/projection_result/" + file_name
+    # url = "https://ihmecovid19storage.blob.core.windows.net/archive/2021-02-20/" + file_name
 
     urllib.request.urlretrieve(url, dir_name)
     print("Downloaded and saved forecast to", dir_name)
