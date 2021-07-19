@@ -18,12 +18,12 @@ def wide_to_long(df):
 
     Parameters
     ----------
-    df : TYPE
+    df : 
         dataframe in wide format
 
     Returns
     -------
-    df : TYPE
+    df : 
         dataframe in long format
 
     """
@@ -64,11 +64,10 @@ abbr_vois = {"Śląskie": "PL83", "Mazowieckie": "PL78", "Małopolskie": "PL77",
              "Zachodniopomorskie": "PL87", "Warmińsko-Mazurskie": "PL85", 
              "Lubuskie": "PL76", "Poland": "PL"}
 
-inc_case_rows = range(8, 25)
-cum_case_rows = range(31, 48)
-inc_death_rows = range(51, 68)
-cum_death_rows = range(71, 88)
-
+inc_case_rows = range(11, 28)
+cum_case_rows = range(34, 51)
+inc_death_rows = range(54, 71)
+cum_death_rows = range(74, 91)
 
 result = []
 
