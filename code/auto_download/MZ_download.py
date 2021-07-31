@@ -12,6 +12,7 @@ import os
 import zipfile
 import pandas as pd
 import datetime
+import shutil
     
 # look up abbreviations of voivodships
 
@@ -41,22 +42,22 @@ map_abbr_name = {"PL72": "Dolnoslaskie", "PL73": "Kujawsko-Pomorskie",
                  "PL87": "Zachodniopomorskie", "PL": "Poland"}
 
 # download raw zip file
-#urllib.request.urlretrieve("https://arcgis.com/sharing/rest/content/items/a8c562ead9c54e13a135b02e0d875ffb/data", "poland.zip")
-#
-# extract file
-#file_name = os.path.abspath("poland.zip")
-#zip_ref = zipfile.ZipFile(file_name)
-#os.mkdir(os.path.join(os.getcwd(), "poland_unzip"))
-#zip_ref.extractall("poland_unzip")
+urllib.request.urlretrieve("https://arcgis.com/sharing/rest/content/items/a8c562ead9c54e13a135b02e0d875ffb/data", "poland.zip")
 
-inc_case_dfs = []
-inc_death_dfs = []
+# extract file
+with open(os.path.abspath("poland.zip"), mode="rb") as file:
+    zip_ref = zipfile.ZipFile(file)
+    os.mkdir(os.path.join(os.getcwd(), "poland_unzip"))
+    zip_ref.extractall("poland_unzip")
 
 curr_inc_case = pd.read_csv("../../data-truth/MZ/truth_MZ-Incident Cases_Poland.csv")
 curr_inc_deaths = pd.read_csv("../../data-truth/MZ/truth_MZ-Incident Deaths_Poland.csv")
 
 curr_cum_case = pd.read_csv("../../data-truth/MZ/truth_MZ-Cumulative Cases_Poland.csv")
 curr_cum_deaths = pd.read_csv("../../data-truth/MZ/truth_MZ-Cumulative Deaths_Poland.csv")
+
+inc_case_dfs = []
+inc_death_dfs = []
 
 # get csv files
 for file in os.listdir("./poland_unzip"):
@@ -96,13 +97,6 @@ inc_death_df = inc_death_df[inc_death_df["date"] > last_update]
 inc_case_df["date"] = inc_case_df["date"].dt.date
 inc_death_df["date"] = inc_death_df["date"].dt.date
 
-#create cumulatve data
-cum_case_df = inc_case_df.copy()
-cum_case_df["value"] = cum_case_df.groupby("location").cumsum()
-
-cum_death_df = inc_death_df.copy()
-cum_death_df["value"] = cum_death_df.groupby("location").cumsum()
-
 # add new data to dataframe
 final_inc_case = pd.concat([curr_inc_case, inc_case_df])
 final_inc_case = final_inc_case.set_index("date")
@@ -110,7 +104,14 @@ final_inc_case = final_inc_case.set_index("date")
 final_inc_deaths = pd.concat([curr_inc_deaths, inc_death_df])
 final_inc_deaths = final_inc_deaths.set_index("date")
 
-# create cum data
+#create latest cumulatve data
+cum_case_df = inc_case_df.copy()
+cum_case_df["value"] = cum_case_df.groupby("location").cumsum()
+
+cum_death_df = inc_death_df.copy()
+cum_death_df["value"] = cum_death_df.groupby("location").cumsum()
+
+# add up cum data
 latest_death_sum = curr_cum_deaths[curr_cum_deaths["date"] == curr_cum_deaths["date"].max()][["location", "value"]]
 latest_death_sum = pd.Series(latest_death_sum.value.values, index=latest_death_sum.location).to_dict()
 
@@ -121,3 +122,20 @@ def update_cumulative(location, value, previous_cumulative):
     return value + previous_cumulative[location]
 
 cum_death_df["value"] = cum_death_df.apply(lambda row: update_cumulative(row["location"], row["value"], latest_death_sum), axis=1)
+cum_case_df["value"] = cum_case_df.apply(lambda row: update_cumulative(row["location"], row["value"], latest_case_sum), axis=1)
+
+final_cum_case = pd.concat([curr_cum_case, cum_case_df])
+final_cum_case = final_cum_case.set_index("date")
+
+final_cum_death = pd.concat([curr_cum_deaths, cum_death_df])
+final_cum_death = final_cum_death.set_index("date")
+
+# write to file
+final_inc_case.to_csv("../../data-truth/MZ/truth_MZ-Incident Cases_Poland.csv")
+final_cum_case.to_csv("../../data-truth/MZ/truth_MZ-Cumulative Cases_Poland.csv")
+final_inc_deaths.to_csv("../../data-truth/MZ/truth_MZ-Incident Deaths_Poland.csv")
+final_cum_death.to_csv("../../data-truth/MZ/truth_MZ-Cumulative Deaths_Poland.csv")
+
+# clean up
+shutil.rmtree("./poland_unzip")
+os.remove("poland.zip")
