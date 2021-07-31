@@ -8669,6 +8669,7 @@ date,location_name,location,value
 2021-07-27,Wielkopolskie,PL86,285846.0
 2021-07-27,Zachodniopomorskie,PL87,129981.0
 2021-07-27,Poland,PL,2881256.0
+2021-07-28,Poland,PL,2881362.0
 2021-07-28,Dolnoslaskie,PL72,213370.0
 2021-07-28,Kujawsko-Pomorskie,PL73,181085.0
 2021-07-28,Lubelskie,PL75,127044.0
@@ -8685,7 +8686,7 @@ date,location_name,location,value
 2021-07-28,Warminsko-Mazurskie,PL85,121973.0
 2021-07-28,Wielkopolskie,PL86,285849.0
 2021-07-28,Zachodniopomorskie,PL87,129985.0
-2021-07-28,Poland,PL,2881362.0
+2021-07-29,Poland,PL,2881500.0
 2021-07-29,Dolnoslaskie,PL72,213376.0
 2021-07-29,Kujawsko-Pomorskie,PL73,181088.0
 2021-07-29,Lubelskie,PL75,127054.0
@@ -8702,7 +8703,7 @@ date,location_name,location,value
 2021-07-29,Warminsko-Mazurskie,PL85,121980.0
 2021-07-29,Wielkopolskie,PL86,285858.0
 2021-07-29,Zachodniopomorskie,PL87,129991.0
-2021-07-29,Poland,PL,2881500.0
+2021-07-30,Poland,PL,2881667.0
 2021-07-30,Dolnoslaskie,PL72,213384.0
 2021-07-30,Kujawsko-Pomorskie,PL73,181097.0
 2021-07-30,Lubelskie,PL75,127068.0
@@ -8719,7 +8720,7 @@ date,location_name,location,value
 2021-07-30,Warminsko-Mazurskie,PL85,121987.0
 2021-07-30,Wielkopolskie,PL86,285867.0
 2021-07-30,Zachodniopomorskie,PL87,129995.0
-2021-07-30,Poland,PL,2881667.0
+2021-07-31,Poland,PL,2881820.0
 2021-07-31,Dolnoslaskie,PL72,213391.0
 2021-07-31,Kujawsko-Pomorskie,PL73,181101.0
 2021-07-31,Lubelskie,PL75,127088.0
@@ -8736,4 +8737,20 @@ date,location_name,location,value
 2021-07-31,Warminsko-Mazurskie,PL85,121992.0
 2021-07-31,Wielkopolskie,PL86,285873.0
 2021-07-31,Zachodniopomorskie,PL87,130000.0
-2021-07-31,Poland,PL,2881820.0
+2021-08-01,Poland,PL,2881973.0
+2021-08-01,Dolnoslaskie,PL72,213404.0
+2021-08-01,Kujawsko-Pomorskie,PL73,181108.0
+2021-08-01,Lubelskie,PL75,127097.0
+2021-08-01,Lubuskie,PL76,74074.0
+2021-08-01,Lodzkie,PL74,180273.0
+2021-08-01,Malopolskie,PL77,222956.0
+2021-08-01,Mazowieckie,PL78,397005.0
+2021-08-01,Opolskie,PL79,70003.0
+2021-08-01,Podkarpackie,PL80,126669.0
+2021-08-01,Podlaskie,PL81,70038.0
+2021-08-01,Pomorskie,PL82,192496.0
+2021-08-01,Slaskie,PL83,362735.0
+2021-08-01,Swietokrzyskie,PL84,73107.0
+2021-08-01,Warminsko-Mazurskie,PL85,122000.0
+2021-08-01,Wielkopolskie,PL86,285877.0
+2021-08-01,Zachodniopomorskie,PL87,130008.0
