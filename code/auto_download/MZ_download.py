@@ -5,7 +5,7 @@ Created on Thu Jul 29 18:37:07 2021
 @author: Jannik
 """
 
-import urllib
+import urllib.request
 import glob
 from unidecode import unidecode
 import os
