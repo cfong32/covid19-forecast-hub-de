@@ -77,6 +77,7 @@ epi_week,epi_year,date,location,location_name,cum_death,inc_death,cum_case,inc_c
 27,2021,2021-07-10,GM,Germany,91239,199,3743164,5105
 28,2021,2021-07-17,GM,Germany,91369,130,3751253,8089
 29,2021,2021-07-24,GM,Germany,91531,162,3761869,10616
+30,2021,2021-07-31,GM,Germany,91666,135,3776724,14855
 5,2020,2020-02-01,PL,Poland,0,0,0,0
 6,2020,2020-02-08,PL,Poland,0,0,0,0
 7,2020,2020-02-15,PL,Poland,0,0,0,0
@@ -155,3 +156,4 @@ epi_week,epi_year,date,location,location_name,cum_death,inc_death,cum_case,inc_c
 27,2021,2021-07-10,PL,Poland,75159,76,2880755,540
 28,2021,2021-07-17,PL,Poland,75212,53,2881355,600
 29,2021,2021-07-24,PL,Poland,75241,29,2882066,711
+30,2021,2021-07-31,PL,Poland,75261,20,2882939,873
