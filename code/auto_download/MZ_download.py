@@ -62,6 +62,7 @@ inc_death_dfs = []
 # get csv files
 for file in os.listdir("./poland_unzip"):
     if file.endswith(".csv"):
+        print("test")
         print(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file))
         df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";")
         df["wojewodztwo"] = df["wojewodztwo"].apply(lambda x: unidecode(x))
