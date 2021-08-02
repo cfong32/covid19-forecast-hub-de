@@ -63,7 +63,7 @@ inc_death_dfs = []
 # get csv files
 for file in os.listdir("./poland_unzip"):
     if file.endswith(".csv"):
-        
+       
         date_raw = file[0:8]
         date = datetime.datetime.strptime(date_raw[0:4] + "." + date_raw[4:6] + "." + date_raw[6:], "%Y.%m.%d")
         
