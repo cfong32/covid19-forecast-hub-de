@@ -17,21 +17,11 @@ import datetime
     
 # look up abbreviations of voivodships
 
-abbr_vois = {"slaskie": "PL83", "mazowieckie": "PL78", "malopolskie": "PL77", 
-             "wielkopolskie": "PL86", "lodzkie": "PL74", "dolnoslaskie": "PL72", 
-             "pomorskie": "PL82", "podkarpackie": "PL80",
-             "kujawsko-pomorskie": "PL73", "lubelskie": "PL75", 
-             "opolskie": "PL79", "swietokrzyskie": "PL84", "podlaskie": "PL81",
-             "zachodniopomorskie": "PL87", "warminsko-mazurskie": "PL85", 
-             "lubuskie": "PL76", "Caly kraj": "PL"}
-
-abbr_vois_omnious_encoding = {"lskie": "PL83", "mazowieckie": "PL78", "maopolskie": "PL77", 
-             "wielkopolskie": "PL86", "dzkie": "PL74", "dolnolskie": "PL72", 
-             "pomorskie": "PL82", "podkarpackie": "PL80",
-             "kujawsko-pomorskie": "PL73", "lubelskie": "PL75", 
-             "opolskie": "PL79", "witokrzyskie": "PL84", "podlaskie": "PL81",
-             "zachodniopomorskie": "PL87", "warmisko-mazurskie": "PL85", 
-             "lubuskie": "PL76", "Cay kraj": "PL"}
+terit_to_abbr = {"t24": "PL83", "t14": "PL78", "t12": "PL77", "t30": "PL86", 
+                 "t10": "PL74", "t02": "PL72", "t22": "PL82", "t18": "PL80",
+                 "t04": "PL73", "t06": "PL75", "t16": "PL79", "t26": "PL84", 
+                 "t20": "PL81", "t32": "PL87", "t28": "PL85", "t08": "PL76", 
+                 "t00": "PL"}
 
 # due to unknown encoding we have to map the names back to real names
 map_abbr_name = {"PL72": "Dolnoslaskie", "PL73": "Kujawsko-Pomorskie",
@@ -71,14 +61,10 @@ for file in os.listdir("./poland_unzip"):
             
             print("Processing date: {}".format(date))
             
-            df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";", engine="python")
-            df["wojewodztwo"] = df["wojewodztwo"].apply(lambda x: unidecode(x))
-            try:
-                df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois[x])
-            except:
-                # if the above fails, the encoding is weird and we have to process the files separately
-                df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois_omnious_encoding[x])
-            
+            df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";", encoding="cp1252")
+            df.drop(columns=["wojewodztwo"], inplace=True)
+                
+            df["location"] = df["teryt"].apply(lambda x: terit_to_abbr[x])
             df["location_name"] = df["location"].apply(lambda x: map_abbr_name[x])
             
             #extract date from filename
