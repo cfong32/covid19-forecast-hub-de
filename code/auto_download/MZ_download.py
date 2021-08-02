@@ -13,6 +13,7 @@ import zipfile
 import pandas as pd
 import datetime
 import shutil
+import datetime
     
 # look up abbreviations of voivodships
 
@@ -62,28 +63,35 @@ inc_death_dfs = []
 # get csv files
 for file in os.listdir("./poland_unzip"):
     if file.endswith(".csv"):
-        df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";", engine='python')
-        df["wojewodztwo"] = df["wojewodztwo"].apply(lambda x: unidecode(x))
-        try:
-            df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois[x])
-        except:
-            # if the above fails, the encoding is weird and we have to process the files separately
-            df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois_omnious_encoding[x])
         
-        df["location_name"] = df["location"].apply(lambda x: map_abbr_name[x])
+        date_raw = file[0:8]
+        date = datetime.datetime.strptime(date_raw[0:4] + "." + date_raw[4:6] + "." + date_raw[6:], "%Y.%m.%d")
         
-        #extract date from filename
-        date = file[0:8]
-        df["date"] = (date[0:4] + "." + date[4:6] + "." + date[6:])
-        df["date"] = pd.to_datetime(df["date"], format="%Y.%m.%d")
-        #shift to ecdc
-        df["date"] = df["date"]. apply(lambda x: x + datetime.timedelta(days=1))
-        
-        inc_case_df = df[["date", "location_name", "location", "liczba_przypadkow"]].rename(columns={"liczba_przypadkow": "value"})
-        inc_case_dfs.append(inc_case_df)
-        
-        inc_death_df = df[["date", "location_name", "location", "zgony"]].rename(columns={"zgony": "value"})
-        inc_death_dfs.append(inc_death_df)
+        if date > datetime.datetime.strptime("2021.07.15", "%Y.%m.%d"):
+            
+            print("Processing date: {}".format(date))
+            
+            df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";", engine="python")
+            df["wojewodztwo"] = df["wojewodztwo"].apply(lambda x: unidecode(x))
+            try:
+                df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois[x])
+            except:
+                # if the above fails, the encoding is weird and we have to process the files separately
+                df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois_omnious_encoding[x])
+            
+            df["location_name"] = df["location"].apply(lambda x: map_abbr_name[x])
+            
+            #extract date from filename
+            df["date"] = (date_raw[0:4] + "." + date_raw[4:6] + "." + date_raw[6:])
+            df["date"] = pd.to_datetime(df["date"], format="%Y.%m.%d")
+            #shift to ecdc
+            df["date"] = df["date"].apply(lambda x: x + datetime.timedelta(days=1))
+            
+            inc_case_df = df[["date", "location_name", "location", "liczba_przypadkow"]].rename(columns={"liczba_przypadkow": "value"})
+            inc_case_dfs.append(inc_case_df)
+            
+            inc_death_df = df[["date", "location_name", "location", "zgony"]].rename(columns={"zgony": "value"})
+            inc_death_dfs.append(inc_death_df)
 
 inc_case_df = pd.concat(inc_case_dfs)
 inc_death_df = pd.concat(inc_death_dfs)
