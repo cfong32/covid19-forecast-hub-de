@@ -13,24 +13,15 @@ import zipfile
 import pandas as pd
 import datetime
 import shutil
+import datetime
     
 # look up abbreviations of voivodships
 
-abbr_vois = {"slaskie": "PL83", "mazowieckie": "PL78", "malopolskie": "PL77", 
-             "wielkopolskie": "PL86", "lodzkie": "PL74", "dolnoslaskie": "PL72", 
-             "pomorskie": "PL82", "podkarpackie": "PL80",
-             "kujawsko-pomorskie": "PL73", "lubelskie": "PL75", 
-             "opolskie": "PL79", "swietokrzyskie": "PL84", "podlaskie": "PL81",
-             "zachodniopomorskie": "PL87", "warminsko-mazurskie": "PL85", 
-             "lubuskie": "PL76", "Caly kraj": "PL"}
-
-abbr_vois_omnious_encoding = {"lskie": "PL83", "mazowieckie": "PL78", "maopolskie": "PL77", 
-             "wielkopolskie": "PL86", "dzkie": "PL74", "dolnolskie": "PL72", 
-             "pomorskie": "PL82", "podkarpackie": "PL80",
-             "kujawsko-pomorskie": "PL73", "lubelskie": "PL75", 
-             "opolskie": "PL79", "witokrzyskie": "PL84", "podlaskie": "PL81",
-             "zachodniopomorskie": "PL87", "warmisko-mazurskie": "PL85", 
-             "lubuskie": "PL76", "Cay kraj": "PL"}
+terit_to_abbr = {"t24": "PL83", "t14": "PL78", "t12": "PL77", "t30": "PL86", 
+                 "t10": "PL74", "t02": "PL72", "t22": "PL82", "t18": "PL80",
+                 "t04": "PL73", "t06": "PL75", "t16": "PL79", "t26": "PL84", 
+                 "t20": "PL81", "t32": "PL87", "t28": "PL85", "t08": "PL76", 
+                 "t00": "PL"}
 
 # due to unknown encoding we have to map the names back to real names
 map_abbr_name = {"PL72": "Dolnoslaskie", "PL73": "Kujawsko-Pomorskie",
@@ -62,28 +53,31 @@ inc_death_dfs = []
 # get csv files
 for file in os.listdir("./poland_unzip"):
     if file.endswith(".csv"):
-        df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";", engine='python')
-        df["wojewodztwo"] = df["wojewodztwo"].apply(lambda x: unidecode(x))
-        try:
-            df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois[x])
-        except:
-            # if the above fails, the encoding is weird and we have to process the files separately
-            df["location"] = df["wojewodztwo"].apply(lambda x: abbr_vois_omnious_encoding[x])
+       
+        date_raw = file[0:8]
+        date = datetime.datetime.strptime(date_raw[0:4] + "." + date_raw[4:6] + "." + date_raw[6:], "%Y.%m.%d")
         
-        df["location_name"] = df["location"].apply(lambda x: map_abbr_name[x])
-        
-        #extract date from filename
-        date = file[0:8]
-        df["date"] = (date[0:4] + "." + date[4:6] + "." + date[6:])
-        df["date"] = pd.to_datetime(df["date"], format="%Y.%m.%d")
-        #shift to ecdc
-        df["date"] = df["date"]. apply(lambda x: x + datetime.timedelta(days=1))
-        
-        inc_case_df = df[["date", "location_name", "location", "liczba_przypadkow"]].rename(columns={"liczba_przypadkow": "value"})
-        inc_case_dfs.append(inc_case_df)
-        
-        inc_death_df = df[["date", "location_name", "location", "zgony"]].rename(columns={"zgony": "value"})
-        inc_death_dfs.append(inc_death_df)
+        if date > datetime.datetime.strptime("2021.07.15", "%Y.%m.%d"):
+            
+            print("Processing date: {}".format(date))
+            
+            df = pd.read_csv(os.path.join(os.path.join(os.getcwd(), "poland_unzip"), file), sep=";", encoding="cp1252")
+            df.drop(columns=["wojewodztwo"], inplace=True)
+                
+            df["location"] = df["teryt"].apply(lambda x: terit_to_abbr[x])
+            df["location_name"] = df["location"].apply(lambda x: map_abbr_name[x])
+            
+            #extract date from filename
+            df["date"] = (date_raw[0:4] + "." + date_raw[4:6] + "." + date_raw[6:])
+            df["date"] = pd.to_datetime(df["date"], format="%Y.%m.%d")
+            #shift to ecdc
+            df["date"] = df["date"].apply(lambda x: x + datetime.timedelta(days=1))
+            
+            inc_case_df = df[["date", "location_name", "location", "liczba_przypadkow"]].rename(columns={"liczba_przypadkow": "value"})
+            inc_case_dfs.append(inc_case_df)
+            
+            inc_death_df = df[["date", "location_name", "location", "zgony"]].rename(columns={"zgony": "value"})
+            inc_death_dfs.append(inc_death_df)
 
 inc_case_df = pd.concat(inc_case_dfs)
 inc_death_df = pd.concat(inc_death_dfs)
