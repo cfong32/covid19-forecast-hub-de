@@ -1,5 +1,5 @@
 forecast_date,target,target_end_date,location,location_name,type,quantile,value
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM,Germany,observed,NA,465
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM,Germany,observed,NA,465
 2021-11-01,0 wk ahead inc death,2021-10-30,GM,Germany,observed,NA,705
 2021-11-01,1 wk ahead inc death,2021-11-06,GM,Germany,point,NA,1115
 2021-11-01,1 wk ahead inc death,2021-11-06,GM,Germany,quantile,0.010,1022
@@ -97,7 +97,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM,Germany,quantile,0.950,5526
 2021-11-01,4 wk ahead inc death,2021-11-27,GM,Germany,quantile,0.975,6057
 2021-11-01,4 wk ahead inc death,2021-11-27,GM,Germany,quantile,0.990,6992
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM,Germany,observed,NA,94991
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM,Germany,observed,NA,94991
 2021-11-01,0 wk ahead cum death,2021-10-30,GM,Germany,observed,NA,95696
 2021-11-01,1 wk ahead cum death,2021-11-06,GM,Germany,point,NA,96867
 2021-11-01,1 wk ahead cum death,2021-11-06,GM,Germany,quantile,0.010,96755
@@ -195,7 +195,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM,Germany,quantile,0.950,107890
 2021-11-01,4 wk ahead cum death,2021-11-27,GM,Germany,quantile,0.975,108787
 2021-11-01,4 wk ahead cum death,2021-11-27,GM,Germany,quantile,0.990,110321
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM01,Baden-Württemberg State,observed,NA,67
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM01,Baden-Württemberg State,observed,NA,67
 2021-11-01,0 wk ahead inc death,2021-10-30,GM01,Baden-Württemberg State,observed,NA,117
 2021-11-01,1 wk ahead inc death,2021-11-06,GM01,Baden-Württemberg State,point,NA,171
 2021-11-01,1 wk ahead inc death,2021-11-06,GM01,Baden-Württemberg State,quantile,0.010,154
@@ -293,7 +293,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM01,Baden-Württemberg State,quantile,0.950,931
 2021-11-01,4 wk ahead inc death,2021-11-27,GM01,Baden-Württemberg State,quantile,0.975,1034
 2021-11-01,4 wk ahead inc death,2021-11-27,GM01,Baden-Württemberg State,quantile,0.990,1224
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM01,Baden-Württemberg State,observed,NA,10873
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM01,Baden-Württemberg State,observed,NA,10873
 2021-11-01,0 wk ahead cum death,2021-10-30,GM01,Baden-Württemberg State,observed,NA,10990
 2021-11-01,1 wk ahead cum death,2021-11-06,GM01,Baden-Württemberg State,point,NA,11167
 2021-11-01,1 wk ahead cum death,2021-11-06,GM01,Baden-Württemberg State,quantile,0.010,11148
@@ -391,7 +391,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM01,Baden-Württemberg State,quantile,0.950,12978
 2021-11-01,4 wk ahead cum death,2021-11-27,GM01,Baden-Württemberg State,quantile,0.975,13147
 2021-11-01,4 wk ahead cum death,2021-11-27,GM01,Baden-Württemberg State,quantile,0.990,13453
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM02,Free State of Bavaria,observed,NA,99
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM02,Free State of Bavaria,observed,NA,99
 2021-11-01,0 wk ahead inc death,2021-10-30,GM02,Free State of Bavaria,observed,NA,123
 2021-11-01,1 wk ahead inc death,2021-11-06,GM02,Free State of Bavaria,point,NA,201
 2021-11-01,1 wk ahead inc death,2021-11-06,GM02,Free State of Bavaria,quantile,0.010,182
@@ -489,7 +489,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM02,Free State of Bavaria,quantile,0.950,921
 2021-11-01,4 wk ahead inc death,2021-11-27,GM02,Free State of Bavaria,quantile,0.975,1027
 2021-11-01,4 wk ahead inc death,2021-11-27,GM02,Free State of Bavaria,quantile,0.990,1172
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM02,Free State of Bavaria,observed,NA,15943
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM02,Free State of Bavaria,observed,NA,15943
 2021-11-01,0 wk ahead cum death,2021-10-30,GM02,Free State of Bavaria,observed,NA,16066
 2021-11-01,1 wk ahead cum death,2021-11-06,GM02,Free State of Bavaria,point,NA,16279
 2021-11-01,1 wk ahead cum death,2021-11-06,GM02,Free State of Bavaria,quantile,0.010,16259
@@ -587,7 +587,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM02,Free State of Bavaria,quantile,0.950,18146
 2021-11-01,4 wk ahead cum death,2021-11-27,GM02,Free State of Bavaria,quantile,0.975,18312
 2021-11-01,4 wk ahead cum death,2021-11-27,GM02,Free State of Bavaria,quantile,0.990,18557
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM03,Free Hanseatic City of Bremen,observed,NA,3
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM03,Free Hanseatic City of Bremen,observed,NA,3
 2021-11-01,0 wk ahead inc death,2021-10-30,GM03,Free Hanseatic City of Bremen,observed,NA,6
 2021-11-01,1 wk ahead inc death,2021-11-06,GM03,Free Hanseatic City of Bremen,point,NA,4
 2021-11-01,1 wk ahead inc death,2021-11-06,GM03,Free Hanseatic City of Bremen,quantile,0.010,3
@@ -685,7 +685,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.950,11
 2021-11-01,4 wk ahead inc death,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.975,13
 2021-11-01,4 wk ahead inc death,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.990,15
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM03,Free Hanseatic City of Bremen,observed,NA,524
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM03,Free Hanseatic City of Bremen,observed,NA,524
 2021-11-01,0 wk ahead cum death,2021-10-30,GM03,Free Hanseatic City of Bremen,observed,NA,530
 2021-11-01,1 wk ahead cum death,2021-11-06,GM03,Free Hanseatic City of Bremen,point,NA,534
 2021-11-01,1 wk ahead cum death,2021-11-06,GM03,Free Hanseatic City of Bremen,quantile,0.010,533
@@ -783,7 +783,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.950,559
 2021-11-01,4 wk ahead cum death,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.975,562
 2021-11-01,4 wk ahead cum death,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.990,565
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM04,Free Hanseatic City of Hamburg,observed,NA,5
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM04,Free Hanseatic City of Hamburg,observed,NA,5
 2021-11-01,0 wk ahead inc death,2021-10-30,GM04,Free Hanseatic City of Hamburg,observed,NA,54
 2021-11-01,1 wk ahead inc death,2021-11-06,GM04,Free Hanseatic City of Hamburg,point,NA,53
 2021-11-01,1 wk ahead inc death,2021-11-06,GM04,Free Hanseatic City of Hamburg,quantile,0.010,49
@@ -881,7 +881,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.950,124
 2021-11-01,4 wk ahead inc death,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.975,136
 2021-11-01,4 wk ahead inc death,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.990,149
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM04,Free Hanseatic City of Hamburg,observed,NA,1766
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM04,Free Hanseatic City of Hamburg,observed,NA,1766
 2021-11-01,0 wk ahead cum death,2021-10-30,GM04,Free Hanseatic City of Hamburg,observed,NA,1820
 2021-11-01,1 wk ahead cum death,2021-11-06,GM04,Free Hanseatic City of Hamburg,point,NA,1877
 2021-11-01,1 wk ahead cum death,2021-11-06,GM04,Free Hanseatic City of Hamburg,quantile,0.010,1873
@@ -979,7 +979,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.950,2173
 2021-11-01,4 wk ahead cum death,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.975,2194
 2021-11-01,4 wk ahead cum death,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.990,2217
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM05,Hesse State,observed,NA,26
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM05,Hesse State,observed,NA,26
 2021-11-01,0 wk ahead inc death,2021-10-30,GM05,Hesse State,observed,NA,35
 2021-11-01,1 wk ahead inc death,2021-11-06,GM05,Hesse State,point,NA,56
 2021-11-01,1 wk ahead inc death,2021-11-06,GM05,Hesse State,quantile,0.010,50
@@ -1077,7 +1077,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM05,Hesse State,quantile,0.950,395
 2021-11-01,4 wk ahead inc death,2021-11-27,GM05,Hesse State,quantile,0.975,444
 2021-11-01,4 wk ahead inc death,2021-11-27,GM05,Hesse State,quantile,0.990,535
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM05,Hesse State,observed,NA,7820
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM05,Hesse State,observed,NA,7820
 2021-11-01,0 wk ahead cum death,2021-10-30,GM05,Hesse State,observed,NA,7855
 2021-11-01,1 wk ahead cum death,2021-11-06,GM05,Hesse State,point,NA,7914
 2021-11-01,1 wk ahead cum death,2021-11-06,GM05,Hesse State,quantile,0.010,7907
@@ -1175,7 +1175,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM05,Hesse State,quantile,0.950,8645
 2021-11-01,4 wk ahead cum death,2021-11-27,GM05,Hesse State,quantile,0.975,8720
 2021-11-01,4 wk ahead cum death,2021-11-27,GM05,Hesse State,quantile,0.990,8858
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM06,Lower Saxony State,observed,NA,37
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM06,Lower Saxony State,observed,NA,37
 2021-11-01,0 wk ahead inc death,2021-10-30,GM06,Lower Saxony State,observed,NA,26
 2021-11-01,1 wk ahead inc death,2021-11-06,GM06,Lower Saxony State,point,NA,47
 2021-11-01,1 wk ahead inc death,2021-11-06,GM06,Lower Saxony State,quantile,0.010,42
@@ -1273,7 +1273,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM06,Lower Saxony State,quantile,0.950,210
 2021-11-01,4 wk ahead inc death,2021-11-27,GM06,Lower Saxony State,quantile,0.975,241
 2021-11-01,4 wk ahead inc death,2021-11-27,GM06,Lower Saxony State,quantile,0.990,284
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM06,Lower Saxony State,observed,NA,6056
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM06,Lower Saxony State,observed,NA,6056
 2021-11-01,0 wk ahead cum death,2021-10-30,GM06,Lower Saxony State,observed,NA,6082
 2021-11-01,1 wk ahead cum death,2021-11-06,GM06,Lower Saxony State,point,NA,6133
 2021-11-01,1 wk ahead cum death,2021-11-06,GM06,Lower Saxony State,quantile,0.010,6127
@@ -1371,7 +1371,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM06,Lower Saxony State,quantile,0.950,6561
 2021-11-01,4 wk ahead cum death,2021-11-27,GM06,Lower Saxony State,quantile,0.975,6613
 2021-11-01,4 wk ahead cum death,2021-11-27,GM06,Lower Saxony State,quantile,0.990,6685
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM07,North Rhine-Westphalia State,observed,NA,91
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM07,North Rhine-Westphalia State,observed,NA,91
 2021-11-01,0 wk ahead inc death,2021-10-30,GM07,North Rhine-Westphalia State,observed,NA,105
 2021-11-01,1 wk ahead inc death,2021-11-06,GM07,North Rhine-Westphalia State,point,NA,206
 2021-11-01,1 wk ahead inc death,2021-11-06,GM07,North Rhine-Westphalia State,quantile,0.010,183
@@ -1469,7 +1469,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.950,1674
 2021-11-01,4 wk ahead inc death,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.975,1903
 2021-11-01,4 wk ahead inc death,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.990,2245
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM07,North Rhine-Westphalia State,observed,NA,18097
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM07,North Rhine-Westphalia State,observed,NA,18097
 2021-11-01,0 wk ahead cum death,2021-10-30,GM07,North Rhine-Westphalia State,observed,NA,18202
 2021-11-01,1 wk ahead cum death,2021-11-06,GM07,North Rhine-Westphalia State,point,NA,18426
 2021-11-01,1 wk ahead cum death,2021-11-06,GM07,North Rhine-Westphalia State,quantile,0.010,18400
@@ -1567,7 +1567,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.950,21443
 2021-11-01,4 wk ahead cum death,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.975,21782
 2021-11-01,4 wk ahead cum death,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.990,22301
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM08,Rhineland-Palatinate State,observed,NA,20
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM08,Rhineland-Palatinate State,observed,NA,20
 2021-11-01,0 wk ahead inc death,2021-10-30,GM08,Rhineland-Palatinate State,observed,NA,35
 2021-11-01,1 wk ahead inc death,2021-11-06,GM08,Rhineland-Palatinate State,point,NA,43
 2021-11-01,1 wk ahead inc death,2021-11-06,GM08,Rhineland-Palatinate State,quantile,0.010,38
@@ -1665,7 +1665,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.950,256
 2021-11-01,4 wk ahead inc death,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.975,296
 2021-11-01,4 wk ahead inc death,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.990,357
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM08,Rhineland-Palatinate State,observed,NA,4056
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM08,Rhineland-Palatinate State,observed,NA,4056
 2021-11-01,0 wk ahead cum death,2021-10-30,GM08,Rhineland-Palatinate State,observed,NA,4091
 2021-11-01,1 wk ahead cum death,2021-11-06,GM08,Rhineland-Palatinate State,point,NA,4133
 2021-11-01,1 wk ahead cum death,2021-11-06,GM08,Rhineland-Palatinate State,quantile,0.010,4127
@@ -1763,7 +1763,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.950,4625
 2021-11-01,4 wk ahead cum death,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.975,4689
 2021-11-01,4 wk ahead cum death,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.990,4783
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM09,Saarland State,observed,NA,2
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM09,Saarland State,observed,NA,2
 2021-11-01,0 wk ahead inc death,2021-10-30,GM09,Saarland State,observed,NA,5
 2021-11-01,1 wk ahead inc death,2021-11-06,GM09,Saarland State,point,NA,4
 2021-11-01,1 wk ahead inc death,2021-11-06,GM09,Saarland State,quantile,0.010,3
@@ -1861,7 +1861,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM09,Saarland State,quantile,0.950,32
 2021-11-01,4 wk ahead inc death,2021-11-27,GM09,Saarland State,quantile,0.975,36
 2021-11-01,4 wk ahead inc death,2021-11-27,GM09,Saarland State,quantile,0.990,42
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM09,Saarland State,observed,NA,1061
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM09,Saarland State,observed,NA,1061
 2021-11-01,0 wk ahead cum death,2021-10-30,GM09,Saarland State,observed,NA,1066
 2021-11-01,1 wk ahead cum death,2021-11-06,GM09,Saarland State,point,NA,1069
 2021-11-01,1 wk ahead cum death,2021-11-06,GM09,Saarland State,quantile,0.010,1068
@@ -1959,7 +1959,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM09,Saarland State,quantile,0.950,1127
 2021-11-01,4 wk ahead cum death,2021-11-27,GM09,Saarland State,quantile,0.975,1133
 2021-11-01,4 wk ahead cum death,2021-11-27,GM09,Saarland State,quantile,0.990,1141
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM10,Schleswig-Holstein State,observed,NA,10
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM10,Schleswig-Holstein State,observed,NA,10
 2021-11-01,0 wk ahead inc death,2021-10-30,GM10,Schleswig-Holstein State,observed,NA,12
 2021-11-01,1 wk ahead inc death,2021-11-06,GM10,Schleswig-Holstein State,point,NA,31
 2021-11-01,1 wk ahead inc death,2021-11-06,GM10,Schleswig-Holstein State,quantile,0.010,25
@@ -2057,7 +2057,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.950,491
 2021-11-01,4 wk ahead inc death,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.975,597
 2021-11-01,4 wk ahead inc death,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.990,755
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM10,Schleswig-Holstein State,observed,NA,1711
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM10,Schleswig-Holstein State,observed,NA,1711
 2021-11-01,0 wk ahead cum death,2021-10-30,GM10,Schleswig-Holstein State,observed,NA,1723
 2021-11-01,1 wk ahead cum death,2021-11-06,GM10,Schleswig-Holstein State,point,NA,1756
 2021-11-01,1 wk ahead cum death,2021-11-06,GM10,Schleswig-Holstein State,quantile,0.010,1749
@@ -2155,7 +2155,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.950,2539
 2021-11-01,4 wk ahead cum death,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.975,2688
 2021-11-01,4 wk ahead cum death,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.990,2900
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM11,Brandenburg State,observed,NA,21
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM11,Brandenburg State,observed,NA,21
 2021-11-01,0 wk ahead inc death,2021-10-30,GM11,Brandenburg State,observed,NA,27
 2021-11-01,1 wk ahead inc death,2021-11-06,GM11,Brandenburg State,point,NA,49
 2021-11-01,1 wk ahead inc death,2021-11-06,GM11,Brandenburg State,quantile,0.010,40
@@ -2253,7 +2253,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM11,Brandenburg State,quantile,0.950,465
 2021-11-01,4 wk ahead inc death,2021-11-27,GM11,Brandenburg State,quantile,0.975,546
 2021-11-01,4 wk ahead inc death,2021-11-27,GM11,Brandenburg State,quantile,0.990,657
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM11,Brandenburg State,observed,NA,3891
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM11,Brandenburg State,observed,NA,3891
 2021-11-01,0 wk ahead cum death,2021-10-30,GM11,Brandenburg State,observed,NA,3918
 2021-11-01,1 wk ahead cum death,2021-11-06,GM11,Brandenburg State,point,NA,3970
 2021-11-01,1 wk ahead cum death,2021-11-06,GM11,Brandenburg State,quantile,0.010,3960
@@ -2351,7 +2351,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM11,Brandenburg State,quantile,0.950,4788
 2021-11-01,4 wk ahead cum death,2021-11-27,GM11,Brandenburg State,quantile,0.975,4905
 2021-11-01,4 wk ahead cum death,2021-11-27,GM11,Brandenburg State,quantile,0.990,5069
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM12,Mecklenburg-Western Pomerania State,observed,NA,12
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM12,Mecklenburg-Western Pomerania State,observed,NA,12
 2021-11-01,0 wk ahead inc death,2021-10-30,GM12,Mecklenburg-Western Pomerania State,observed,NA,18
 2021-11-01,1 wk ahead inc death,2021-11-06,GM12,Mecklenburg-Western Pomerania State,point,NA,28
 2021-11-01,1 wk ahead inc death,2021-11-06,GM12,Mecklenburg-Western Pomerania State,quantile,0.010,24
@@ -2449,7 +2449,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.950,198
 2021-11-01,4 wk ahead inc death,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,222
 2021-11-01,4 wk ahead inc death,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.990,261
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM12,Mecklenburg-Western Pomerania State,observed,NA,1223
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM12,Mecklenburg-Western Pomerania State,observed,NA,1223
 2021-11-01,0 wk ahead cum death,2021-10-30,GM12,Mecklenburg-Western Pomerania State,observed,NA,1241
 2021-11-01,1 wk ahead cum death,2021-11-06,GM12,Mecklenburg-Western Pomerania State,point,NA,1271
 2021-11-01,1 wk ahead cum death,2021-11-06,GM12,Mecklenburg-Western Pomerania State,quantile,0.010,1266
@@ -2547,7 +2547,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.950,1639
 2021-11-01,4 wk ahead cum death,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,1676
 2021-11-01,4 wk ahead cum death,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.990,1734
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM13,Free State of Saxony,observed,NA,30
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM13,Free State of Saxony,observed,NA,30
 2021-11-01,0 wk ahead inc death,2021-10-30,GM13,Free State of Saxony,observed,NA,48
 2021-11-01,1 wk ahead inc death,2021-11-06,GM13,Free State of Saxony,point,NA,88
 2021-11-01,1 wk ahead inc death,2021-11-06,GM13,Free State of Saxony,quantile,0.010,76
@@ -2645,7 +2645,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM13,Free State of Saxony,quantile,0.950,694
 2021-11-01,4 wk ahead inc death,2021-11-27,GM13,Free State of Saxony,quantile,0.975,785
 2021-11-01,4 wk ahead inc death,2021-11-27,GM13,Free State of Saxony,quantile,0.990,917
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM13,Free State of Saxony,observed,NA,10273
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM13,Free State of Saxony,observed,NA,10273
 2021-11-01,0 wk ahead cum death,2021-10-30,GM13,Free State of Saxony,observed,NA,10321
 2021-11-01,1 wk ahead cum death,2021-11-06,GM13,Free State of Saxony,point,NA,10413
 2021-11-01,1 wk ahead cum death,2021-11-06,GM13,Free State of Saxony,quantile,0.010,10401
@@ -2743,7 +2743,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM13,Free State of Saxony,quantile,0.950,11667
 2021-11-01,4 wk ahead cum death,2021-11-27,GM13,Free State of Saxony,quantile,0.975,11805
 2021-11-01,4 wk ahead cum death,2021-11-27,GM13,Free State of Saxony,quantile,0.990,12002
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM14,Sachsen-Anhalt State,observed,NA,9
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM14,Sachsen-Anhalt State,observed,NA,9
 2021-11-01,0 wk ahead inc death,2021-10-30,GM14,Sachsen-Anhalt State,observed,NA,14
 2021-11-01,1 wk ahead inc death,2021-11-06,GM14,Sachsen-Anhalt State,point,NA,20
 2021-11-01,1 wk ahead inc death,2021-11-06,GM14,Sachsen-Anhalt State,quantile,0.010,18
@@ -2841,7 +2841,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.950,85
 2021-11-01,4 wk ahead inc death,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.975,97
 2021-11-01,4 wk ahead inc death,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.990,113
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM14,Sachsen-Anhalt State,observed,NA,3566
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM14,Sachsen-Anhalt State,observed,NA,3566
 2021-11-01,0 wk ahead cum death,2021-10-30,GM14,Sachsen-Anhalt State,observed,NA,3580
 2021-11-01,1 wk ahead cum death,2021-11-06,GM14,Sachsen-Anhalt State,point,NA,3602
 2021-11-01,1 wk ahead cum death,2021-11-06,GM14,Sachsen-Anhalt State,quantile,0.010,3599
@@ -2939,7 +2939,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.950,3777
 2021-11-01,4 wk ahead cum death,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.975,3798
 2021-11-01,4 wk ahead cum death,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.990,3825
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM15,Free State of Thuringia,observed,NA,25
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM15,Free State of Thuringia,observed,NA,25
 2021-11-01,0 wk ahead inc death,2021-10-30,GM15,Free State of Thuringia,observed,NA,47
 2021-11-01,1 wk ahead inc death,2021-11-06,GM15,Free State of Thuringia,point,NA,75
 2021-11-01,1 wk ahead inc death,2021-11-06,GM15,Free State of Thuringia,quantile,0.010,68
@@ -3037,7 +3037,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM15,Free State of Thuringia,quantile,0.950,486
 2021-11-01,4 wk ahead inc death,2021-11-27,GM15,Free State of Thuringia,quantile,0.975,544
 2021-11-01,4 wk ahead inc death,2021-11-27,GM15,Free State of Thuringia,quantile,0.990,629
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM15,Free State of Thuringia,observed,NA,4460
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM15,Free State of Thuringia,observed,NA,4460
 2021-11-01,0 wk ahead cum death,2021-10-30,GM15,Free State of Thuringia,observed,NA,4507
 2021-11-01,1 wk ahead cum death,2021-11-06,GM15,Free State of Thuringia,point,NA,4582
 2021-11-01,1 wk ahead cum death,2021-11-06,GM15,Free State of Thuringia,quantile,0.010,4573
@@ -3135,7 +3135,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum death,2021-11-27,GM15,Free State of Thuringia,quantile,0.950,5491
 2021-11-01,4 wk ahead cum death,2021-11-27,GM15,Free State of Thuringia,quantile,0.975,5583
 2021-11-01,4 wk ahead cum death,2021-11-27,GM15,Free State of Thuringia,quantile,0.990,5717
-2021-11-01,-1 wk ahead inc death,2021-10-22,GM16,Berlin State,observed,NA,8
+2021-11-01,-1 wk ahead inc death,2021-10-23,GM16,Berlin State,observed,NA,8
 2021-11-01,0 wk ahead inc death,2021-10-30,GM16,Berlin State,observed,NA,33
 2021-11-01,1 wk ahead inc death,2021-11-06,GM16,Berlin State,point,NA,26
 2021-11-01,1 wk ahead inc death,2021-11-06,GM16,Berlin State,quantile,0.010,23
@@ -3233,7 +3233,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc death,2021-11-27,GM16,Berlin State,quantile,0.950,133
 2021-11-01,4 wk ahead inc death,2021-11-27,GM16,Berlin State,quantile,0.975,154
 2021-11-01,4 wk ahead inc death,2021-11-27,GM16,Berlin State,quantile,0.990,193
-2021-11-01,-1 wk ahead cum death,2021-10-22,GM16,Berlin State,observed,NA,3671
+2021-11-01,-1 wk ahead cum death,2021-10-23,GM16,Berlin State,observed,NA,3671
 2021-11-01,0 wk ahead cum death,2021-10-30,GM16,Berlin State,observed,NA,3704
 2021-11-01,1 wk ahead cum death,2021-11-06,GM16,Berlin State,point,NA,3726
 2021-11-01,1 wk ahead cum death,2021-11-06,GM16,Berlin State,quantile,0.010,3722

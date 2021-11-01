@@ -1,5 +1,5 @@
 forecast_date,target,target_end_date,location,location_name,type,quantile,value
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM,Germany,observed,NA,83122
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM,Germany,observed,NA,83122
 2021-11-01,0 wk ahead inc case,2021-10-30,GM,Germany,observed,NA,143383
 2021-11-01,1 wk ahead inc case,2021-11-06,GM,Germany,point,NA,225653
 2021-11-01,1 wk ahead inc case,2021-11-06,GM,Germany,quantile,0.010,197699
@@ -97,7 +97,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM,Germany,quantile,0.950,1156261
 2021-11-01,4 wk ahead inc case,2021-11-27,GM,Germany,quantile,0.975,1282830
 2021-11-01,4 wk ahead inc case,2021-11-27,GM,Germany,quantile,0.990,1509899
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM,Germany,observed,NA,4437280
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM,Germany,observed,NA,4437280
 2021-11-01,0 wk ahead cum case,2021-10-30,GM,Germany,observed,NA,4580663
 2021-11-01,1 wk ahead cum case,2021-11-06,GM,Germany,point,NA,4822079
 2021-11-01,1 wk ahead cum case,2021-11-06,GM,Germany,quantile,0.010,4785603
@@ -195,7 +195,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM,Germany,quantile,0.950,7175281
 2021-11-01,4 wk ahead cum case,2021-11-27,GM,Germany,quantile,0.975,7403760
 2021-11-01,4 wk ahead cum case,2021-11-27,GM,Germany,quantile,0.990,7806703
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM01,Baden-Württemberg State,observed,NA,14428
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM01,Baden-Württemberg State,observed,NA,14428
 2021-11-01,0 wk ahead inc case,2021-10-30,GM01,Baden-Württemberg State,observed,NA,23527
 2021-11-01,1 wk ahead inc case,2021-11-06,GM01,Baden-Württemberg State,point,NA,37341
 2021-11-01,1 wk ahead inc case,2021-11-06,GM01,Baden-Württemberg State,quantile,0.010,32031
@@ -293,7 +293,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM01,Baden-Württemberg State,quantile,0.950,219062
 2021-11-01,4 wk ahead inc case,2021-11-27,GM01,Baden-Württemberg State,quantile,0.975,247710
 2021-11-01,4 wk ahead inc case,2021-11-27,GM01,Baden-Württemberg State,quantile,0.990,302643
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM01,Baden-Württemberg State,observed,NA,607974
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM01,Baden-Württemberg State,observed,NA,607974
 2021-11-01,0 wk ahead cum case,2021-10-30,GM01,Baden-Württemberg State,observed,NA,631501
 2021-11-01,1 wk ahead cum case,2021-11-06,GM01,Baden-Württemberg State,point,NA,671706
 2021-11-01,1 wk ahead cum case,2021-11-06,GM01,Baden-Württemberg State,quantile,0.010,664623
@@ -391,7 +391,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM01,Baden-Württemberg State,quantile,0.950,1102191
 2021-11-01,4 wk ahead cum case,2021-11-27,GM01,Baden-Württemberg State,quantile,0.975,1151778
 2021-11-01,4 wk ahead cum case,2021-11-27,GM01,Baden-Württemberg State,quantile,0.990,1241416
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM02,Free State of Bavaria,observed,NA,21251
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM02,Free State of Bavaria,observed,NA,21251
 2021-11-01,0 wk ahead inc case,2021-10-30,GM02,Free State of Bavaria,observed,NA,36701
 2021-11-01,1 wk ahead inc case,2021-11-06,GM02,Free State of Bavaria,point,NA,54354
 2021-11-01,1 wk ahead inc case,2021-11-06,GM02,Free State of Bavaria,quantile,0.010,46179
@@ -489,7 +489,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM02,Free State of Bavaria,quantile,0.950,266137
 2021-11-01,4 wk ahead inc case,2021-11-27,GM02,Free State of Bavaria,quantile,0.975,301781
 2021-11-01,4 wk ahead inc case,2021-11-27,GM02,Free State of Bavaria,quantile,0.990,351114
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM02,Free State of Bavaria,observed,NA,778484
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM02,Free State of Bavaria,observed,NA,778484
 2021-11-01,0 wk ahead cum case,2021-10-30,GM02,Free State of Bavaria,observed,NA,815185
 2021-11-01,1 wk ahead cum case,2021-11-06,GM02,Free State of Bavaria,point,NA,873902
 2021-11-01,1 wk ahead cum case,2021-11-06,GM02,Free State of Bavaria,quantile,0.010,863741
@@ -587,7 +587,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM02,Free State of Bavaria,quantile,0.950,1416851
 2021-11-01,4 wk ahead cum case,2021-11-27,GM02,Free State of Bavaria,quantile,0.975,1478966
 2021-11-01,4 wk ahead cum case,2021-11-27,GM02,Free State of Bavaria,quantile,0.990,1565677
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM03,Free Hanseatic City of Bremen,observed,NA,501
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM03,Free Hanseatic City of Bremen,observed,NA,501
 2021-11-01,0 wk ahead inc case,2021-10-30,GM03,Free Hanseatic City of Bremen,observed,NA,606
 2021-11-01,1 wk ahead inc case,2021-11-06,GM03,Free Hanseatic City of Bremen,point,NA,783
 2021-11-01,1 wk ahead inc case,2021-11-06,GM03,Free Hanseatic City of Bremen,quantile,0.010,570
@@ -685,7 +685,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.950,2663
 2021-11-01,4 wk ahead inc case,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.975,3029
 2021-11-01,4 wk ahead inc case,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.990,3560
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM03,Free Hanseatic City of Bremen,observed,NA,34703
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM03,Free Hanseatic City of Bremen,observed,NA,34703
 2021-11-01,0 wk ahead cum case,2021-10-30,GM03,Free Hanseatic City of Bremen,observed,NA,35309
 2021-11-01,1 wk ahead cum case,2021-11-06,GM03,Free Hanseatic City of Bremen,point,NA,36167
 2021-11-01,1 wk ahead cum case,2021-11-06,GM03,Free Hanseatic City of Bremen,quantile,0.010,35916
@@ -783,7 +783,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.950,42232
 2021-11-01,4 wk ahead cum case,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.975,42961
 2021-11-01,4 wk ahead cum case,2021-11-27,GM03,Free Hanseatic City of Bremen,quantile,0.990,43934
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM04,Free Hanseatic City of Hamburg,observed,NA,1672
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM04,Free Hanseatic City of Hamburg,observed,NA,1672
 2021-11-01,0 wk ahead inc case,2021-10-30,GM04,Free Hanseatic City of Hamburg,observed,NA,2466
 2021-11-01,1 wk ahead inc case,2021-11-06,GM04,Free Hanseatic City of Hamburg,point,NA,2907
 2021-11-01,1 wk ahead inc case,2021-11-06,GM04,Free Hanseatic City of Hamburg,quantile,0.010,2484
@@ -881,7 +881,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.950,7243
 2021-11-01,4 wk ahead inc case,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.975,8072
 2021-11-01,4 wk ahead inc case,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.990,9006
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM04,Free Hanseatic City of Hamburg,observed,NA,95672
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM04,Free Hanseatic City of Hamburg,observed,NA,95672
 2021-11-01,0 wk ahead cum case,2021-10-30,GM04,Free Hanseatic City of Hamburg,observed,NA,98138
 2021-11-01,1 wk ahead cum case,2021-11-06,GM04,Free Hanseatic City of Hamburg,point,NA,101335
 2021-11-01,1 wk ahead cum case,2021-11-06,GM04,Free Hanseatic City of Hamburg,quantile,0.010,100857
@@ -979,7 +979,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.950,118790
 2021-11-01,4 wk ahead cum case,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.975,120478
 2021-11-01,4 wk ahead cum case,2021-11-27,GM04,Free Hanseatic City of Hamburg,quantile,0.990,122231
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM05,Hesse State,observed,NA,4567
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM05,Hesse State,observed,NA,4567
 2021-11-01,0 wk ahead inc case,2021-10-30,GM05,Hesse State,observed,NA,8361
 2021-11-01,1 wk ahead inc case,2021-11-06,GM05,Hesse State,point,NA,13671
 2021-11-01,1 wk ahead inc case,2021-11-06,GM05,Hesse State,quantile,0.010,11563
@@ -1077,7 +1077,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM05,Hesse State,quantile,0.950,106477
 2021-11-01,4 wk ahead inc case,2021-11-27,GM05,Hesse State,quantile,0.975,121697
 2021-11-01,4 wk ahead inc case,2021-11-27,GM05,Hesse State,quantile,0.990,150874
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM05,Hesse State,observed,NA,345805
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM05,Hesse State,observed,NA,345805
 2021-11-01,0 wk ahead cum case,2021-10-30,GM05,Hesse State,observed,NA,354166
 2021-11-01,1 wk ahead cum case,2021-11-06,GM05,Hesse State,point,NA,368793
 2021-11-01,1 wk ahead cum case,2021-11-06,GM05,Hesse State,quantile,0.010,366095
@@ -1175,7 +1175,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM05,Hesse State,quantile,0.950,566660
 2021-11-01,4 wk ahead cum case,2021-11-27,GM05,Hesse State,quantile,0.975,591964
 2021-11-01,4 wk ahead cum case,2021-11-27,GM05,Hesse State,quantile,0.990,637980
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM06,Lower Saxony State,observed,NA,4770
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM06,Lower Saxony State,observed,NA,4770
 2021-11-01,0 wk ahead inc case,2021-10-30,GM06,Lower Saxony State,observed,NA,7104
 2021-11-01,1 wk ahead inc case,2021-11-06,GM06,Lower Saxony State,point,NA,10040
 2021-11-01,1 wk ahead inc case,2021-11-06,GM06,Lower Saxony State,quantile,0.010,8326
@@ -1273,7 +1273,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM06,Lower Saxony State,quantile,0.950,49782
 2021-11-01,4 wk ahead inc case,2021-11-27,GM06,Lower Saxony State,quantile,0.975,58339
 2021-11-01,4 wk ahead inc case,2021-11-27,GM06,Lower Saxony State,quantile,0.990,70940
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM06,Lower Saxony State,observed,NA,312840
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM06,Lower Saxony State,observed,NA,312840
 2021-11-01,0 wk ahead cum case,2021-10-30,GM06,Lower Saxony State,observed,NA,319944
 2021-11-01,1 wk ahead cum case,2021-11-06,GM06,Lower Saxony State,point,NA,330702
 2021-11-01,1 wk ahead cum case,2021-11-06,GM06,Lower Saxony State,quantile,0.010,328461
@@ -1371,7 +1371,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM06,Lower Saxony State,quantile,0.950,433465
 2021-11-01,4 wk ahead cum case,2021-11-27,GM06,Lower Saxony State,quantile,0.975,448964
 2021-11-01,4 wk ahead cum case,2021-11-27,GM06,Lower Saxony State,quantile,0.990,470679
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM07,North Rhine-Westphalia State,observed,NA,11289
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM07,North Rhine-Westphalia State,observed,NA,11289
 2021-11-01,0 wk ahead inc case,2021-10-30,GM07,North Rhine-Westphalia State,observed,NA,21555
 2021-11-01,1 wk ahead inc case,2021-11-06,GM07,North Rhine-Westphalia State,point,NA,36542
 2021-11-01,1 wk ahead inc case,2021-11-06,GM07,North Rhine-Westphalia State,quantile,0.010,30282
@@ -1469,7 +1469,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.950,325935
 2021-11-01,4 wk ahead inc case,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.975,378786
 2021-11-01,4 wk ahead inc case,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.990,456805
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM07,North Rhine-Westphalia State,observed,NA,990051
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM07,North Rhine-Westphalia State,observed,NA,990051
 2021-11-01,0 wk ahead cum case,2021-10-30,GM07,North Rhine-Westphalia State,observed,NA,1011606
 2021-11-01,1 wk ahead cum case,2021-11-06,GM07,North Rhine-Westphalia State,point,NA,1050516
 2021-11-01,1 wk ahead cum case,2021-11-06,GM07,North Rhine-Westphalia State,quantile,0.010,1042822
@@ -1567,7 +1567,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.950,1643703
 2021-11-01,4 wk ahead cum case,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.975,1725265
 2021-11-01,4 wk ahead cum case,2021-11-27,GM07,North Rhine-Westphalia State,quantile,0.990,1847482
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM08,Rhineland-Palatinate State,observed,NA,2814
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM08,Rhineland-Palatinate State,observed,NA,2814
 2021-11-01,0 wk ahead inc case,2021-10-30,GM08,Rhineland-Palatinate State,observed,NA,4660
 2021-11-01,1 wk ahead inc case,2021-11-06,GM08,Rhineland-Palatinate State,point,NA,6745
 2021-11-01,1 wk ahead inc case,2021-11-06,GM08,Rhineland-Palatinate State,quantile,0.010,5466
@@ -1665,7 +1665,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.950,45159
 2021-11-01,4 wk ahead inc case,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.975,53705
 2021-11-01,4 wk ahead inc case,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.990,66406
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM08,Rhineland-Palatinate State,observed,NA,188335
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM08,Rhineland-Palatinate State,observed,NA,188335
 2021-11-01,0 wk ahead cum case,2021-10-30,GM08,Rhineland-Palatinate State,observed,NA,192995
 2021-11-01,1 wk ahead cum case,2021-11-06,GM08,Rhineland-Palatinate State,point,NA,200065
 2021-11-01,1 wk ahead cum case,2021-11-06,GM08,Rhineland-Palatinate State,quantile,0.010,198383
@@ -1763,7 +1763,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.950,287790
 2021-11-01,4 wk ahead cum case,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.975,301577
 2021-11-01,4 wk ahead cum case,2021-11-27,GM08,Rhineland-Palatinate State,quantile,0.990,322818
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM09,Saarland State,observed,NA,535
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM09,Saarland State,observed,NA,535
 2021-11-01,0 wk ahead inc case,2021-10-30,GM09,Saarland State,observed,NA,775
 2021-11-01,1 wk ahead inc case,2021-11-06,GM09,Saarland State,point,NA,1318
 2021-11-01,1 wk ahead inc case,2021-11-06,GM09,Saarland State,quantile,0.010,840
@@ -1861,7 +1861,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM09,Saarland State,quantile,0.950,13196
 2021-11-01,4 wk ahead inc case,2021-11-27,GM09,Saarland State,quantile,0.975,15019
 2021-11-01,4 wk ahead inc case,2021-11-27,GM09,Saarland State,quantile,0.990,17636
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM09,Saarland State,observed,NA,49026
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM09,Saarland State,observed,NA,49026
 2021-11-01,0 wk ahead cum case,2021-10-30,GM09,Saarland State,observed,NA,49801
 2021-11-01,1 wk ahead cum case,2021-11-06,GM09,Saarland State,point,NA,51195
 2021-11-01,1 wk ahead cum case,2021-11-06,GM09,Saarland State,quantile,0.010,50649
@@ -1959,7 +1959,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM09,Saarland State,quantile,0.950,74774
 2021-11-01,4 wk ahead cum case,2021-11-27,GM09,Saarland State,quantile,0.975,77659
 2021-11-01,4 wk ahead cum case,2021-11-27,GM09,Saarland State,quantile,0.990,81696
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM10,Schleswig-Holstein State,observed,NA,1414
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM10,Schleswig-Holstein State,observed,NA,1414
 2021-11-01,0 wk ahead inc case,2021-10-30,GM10,Schleswig-Holstein State,observed,NA,2343
 2021-11-01,1 wk ahead inc case,2021-11-06,GM10,Schleswig-Holstein State,point,NA,5855
 2021-11-01,1 wk ahead inc case,2021-11-06,GM10,Schleswig-Holstein State,quantile,0.010,4558
@@ -2057,7 +2057,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.950,102129
 2021-11-01,4 wk ahead inc case,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.975,127593
 2021-11-01,4 wk ahead inc case,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.990,166384
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM10,Schleswig-Holstein State,observed,NA,79374
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM10,Schleswig-Holstein State,observed,NA,79374
 2021-11-01,0 wk ahead cum case,2021-10-30,GM10,Schleswig-Holstein State,observed,NA,81717
 2021-11-01,1 wk ahead cum case,2021-11-06,GM10,Schleswig-Holstein State,point,NA,87918
 2021-11-01,1 wk ahead cum case,2021-11-06,GM10,Schleswig-Holstein State,quantile,0.010,86207
@@ -2155,7 +2155,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.950,251733
 2021-11-01,4 wk ahead cum case,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.975,287842
 2021-11-01,4 wk ahead cum case,2021-11-27,GM10,Schleswig-Holstein State,quantile,0.990,341542
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM11,Brandenburg State,observed,NA,2030
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM11,Brandenburg State,observed,NA,2030
 2021-11-01,0 wk ahead inc case,2021-10-30,GM11,Brandenburg State,observed,NA,3399
 2021-11-01,1 wk ahead inc case,2021-11-06,GM11,Brandenburg State,point,NA,5839
 2021-11-01,1 wk ahead inc case,2021-11-06,GM11,Brandenburg State,quantile,0.010,4115
@@ -2253,7 +2253,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM11,Brandenburg State,quantile,0.950,63165
 2021-11-01,4 wk ahead inc case,2021-11-27,GM11,Brandenburg State,quantile,0.975,75748
 2021-11-01,4 wk ahead inc case,2021-11-27,GM11,Brandenburg State,quantile,0.990,93903
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM11,Brandenburg State,observed,NA,121013
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM11,Brandenburg State,observed,NA,121013
 2021-11-01,0 wk ahead cum case,2021-10-30,GM11,Brandenburg State,observed,NA,124412
 2021-11-01,1 wk ahead cum case,2021-11-06,GM11,Brandenburg State,point,NA,130627
 2021-11-01,1 wk ahead cum case,2021-11-06,GM11,Brandenburg State,quantile,0.010,128617
@@ -2351,7 +2351,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM11,Brandenburg State,quantile,0.950,242490
 2021-11-01,4 wk ahead cum case,2021-11-27,GM11,Brandenburg State,quantile,0.975,261788
 2021-11-01,4 wk ahead cum case,2021-11-27,GM11,Brandenburg State,quantile,0.990,289144
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM12,Mecklenburg-Western Pomerania State,observed,NA,962
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM12,Mecklenburg-Western Pomerania State,observed,NA,962
 2021-11-01,0 wk ahead inc case,2021-10-30,GM12,Mecklenburg-Western Pomerania State,observed,NA,1527
 2021-11-01,1 wk ahead inc case,2021-11-06,GM12,Mecklenburg-Western Pomerania State,point,NA,2494
 2021-11-01,1 wk ahead inc case,2021-11-06,GM12,Mecklenburg-Western Pomerania State,quantile,0.010,1779
@@ -2449,7 +2449,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.950,19509
 2021-11-01,4 wk ahead inc case,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,22274
 2021-11-01,4 wk ahead inc case,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.990,26794
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM12,Mecklenburg-Western Pomerania State,observed,NA,51631
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM12,Mecklenburg-Western Pomerania State,observed,NA,51631
 2021-11-01,0 wk ahead cum case,2021-10-30,GM12,Mecklenburg-Western Pomerania State,observed,NA,53158
 2021-11-01,1 wk ahead cum case,2021-11-06,GM12,Mecklenburg-Western Pomerania State,point,NA,55831
 2021-11-01,1 wk ahead cum case,2021-11-06,GM12,Mecklenburg-Western Pomerania State,quantile,0.010,55023
@@ -2547,7 +2547,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.950,92294
 2021-11-01,4 wk ahead cum case,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.975,96653
 2021-11-01,4 wk ahead cum case,2021-11-27,GM12,Mecklenburg-Western Pomerania State,quantile,0.990,103950
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM13,Free State of Saxony,observed,NA,6508
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM13,Free State of Saxony,observed,NA,6508
 2021-11-01,0 wk ahead inc case,2021-10-30,GM13,Free State of Saxony,observed,NA,13724
 2021-11-01,1 wk ahead inc case,2021-11-06,GM13,Free State of Saxony,point,NA,22312
 2021-11-01,1 wk ahead inc case,2021-11-06,GM13,Free State of Saxony,quantile,0.010,17844
@@ -2645,7 +2645,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM13,Free State of Saxony,quantile,0.950,193258
 2021-11-01,4 wk ahead inc case,2021-11-27,GM13,Free State of Saxony,quantile,0.975,222790
 2021-11-01,4 wk ahead inc case,2021-11-27,GM13,Free State of Saxony,quantile,0.990,266513
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM13,Free State of Saxony,observed,NA,312212
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM13,Free State of Saxony,observed,NA,312212
 2021-11-01,0 wk ahead cum case,2021-10-30,GM13,Free State of Saxony,observed,NA,325936
 2021-11-01,1 wk ahead cum case,2021-11-06,GM13,Free State of Saxony,point,NA,349745
 2021-11-01,1 wk ahead cum case,2021-11-06,GM13,Free State of Saxony,quantile,0.010,344425
@@ -2743,7 +2743,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM13,Free State of Saxony,quantile,0.950,702001
 2021-11-01,4 wk ahead cum case,2021-11-27,GM13,Free State of Saxony,quantile,0.975,748187
 2021-11-01,4 wk ahead cum case,2021-11-27,GM13,Free State of Saxony,quantile,0.990,815916
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM14,Sachsen-Anhalt State,observed,NA,1913
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM14,Sachsen-Anhalt State,observed,NA,1913
 2021-11-01,0 wk ahead inc case,2021-10-30,GM14,Sachsen-Anhalt State,observed,NA,3225
 2021-11-01,1 wk ahead inc case,2021-11-06,GM14,Sachsen-Anhalt State,point,NA,4356
 2021-11-01,1 wk ahead inc case,2021-11-06,GM14,Sachsen-Anhalt State,quantile,0.010,3583
@@ -2841,7 +2841,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.950,20031
 2021-11-01,4 wk ahead inc case,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.975,23428
 2021-11-01,4 wk ahead inc case,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.990,28045
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM14,Sachsen-Anhalt State,observed,NA,108563
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM14,Sachsen-Anhalt State,observed,NA,108563
 2021-11-01,0 wk ahead cum case,2021-10-30,GM14,Sachsen-Anhalt State,observed,NA,111788
 2021-11-01,1 wk ahead cum case,2021-11-06,GM14,Sachsen-Anhalt State,point,NA,116433
 2021-11-01,1 wk ahead cum case,2021-11-06,GM14,Sachsen-Anhalt State,quantile,0.010,115445
@@ -2939,7 +2939,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.950,158377
 2021-11-01,4 wk ahead cum case,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.975,164664
 2021-11-01,4 wk ahead cum case,2021-11-27,GM14,Sachsen-Anhalt State,quantile,0.990,172682
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM15,Free State of Thuringia,observed,NA,4199
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM15,Free State of Thuringia,observed,NA,4199
 2021-11-01,0 wk ahead inc case,2021-10-30,GM15,Free State of Thuringia,observed,NA,7286
 2021-11-01,1 wk ahead inc case,2021-11-06,GM15,Free State of Thuringia,point,NA,12114
 2021-11-01,1 wk ahead inc case,2021-11-06,GM15,Free State of Thuringia,quantile,0.010,10550
@@ -3037,7 +3037,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM15,Free State of Thuringia,quantile,0.950,84113
 2021-11-01,4 wk ahead inc case,2021-11-27,GM15,Free State of Thuringia,quantile,0.975,95839
 2021-11-01,4 wk ahead inc case,2021-11-27,GM15,Free State of Thuringia,quantile,0.990,113754
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM15,Free State of Thuringia,observed,NA,144434
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM15,Free State of Thuringia,observed,NA,144434
 2021-11-01,0 wk ahead cum case,2021-10-30,GM15,Free State of Thuringia,observed,NA,151720
 2021-11-01,1 wk ahead cum case,2021-11-06,GM15,Free State of Thuringia,point,NA,164522
 2021-11-01,1 wk ahead cum case,2021-11-06,GM15,Free State of Thuringia,quantile,0.010,162352
@@ -3135,7 +3135,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead cum case,2021-11-27,GM15,Free State of Thuringia,quantile,0.950,323247
 2021-11-01,4 wk ahead cum case,2021-11-27,GM15,Free State of Thuringia,quantile,0.975,342191
 2021-11-01,4 wk ahead cum case,2021-11-27,GM15,Free State of Thuringia,quantile,0.990,371013
-2021-11-01,-1 wk ahead inc case,2021-10-22,GM16,Berlin State,observed,NA,4269
+2021-11-01,-1 wk ahead inc case,2021-10-23,GM16,Berlin State,observed,NA,4269
 2021-11-01,0 wk ahead inc case,2021-10-30,GM16,Berlin State,observed,NA,6124
 2021-11-01,1 wk ahead inc case,2021-11-06,GM16,Berlin State,point,NA,8937
 2021-11-01,1 wk ahead inc case,2021-11-06,GM16,Berlin State,quantile,0.010,7334
@@ -3233,7 +3233,7 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2021-11-01,4 wk ahead inc case,2021-11-27,GM16,Berlin State,quantile,0.950,50208
 2021-11-01,4 wk ahead inc case,2021-11-27,GM16,Berlin State,quantile,0.975,59292
 2021-11-01,4 wk ahead inc case,2021-11-27,GM16,Berlin State,quantile,0.990,77503
-2021-11-01,-1 wk ahead cum case,2021-10-22,GM16,Berlin State,observed,NA,217163
+2021-11-01,-1 wk ahead cum case,2021-10-23,GM16,Berlin State,observed,NA,217163
 2021-11-01,0 wk ahead cum case,2021-10-30,GM16,Berlin State,observed,NA,223287
 2021-11-01,1 wk ahead cum case,2021-11-06,GM16,Berlin State,point,NA,232602
 2021-11-01,1 wk ahead cum case,2021-11-06,GM16,Berlin State,quantile,0.010,230250
