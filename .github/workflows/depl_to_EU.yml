@@ -28,6 +28,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.GITHUBTOKEN}}
       with:
+        github_server: 'github.com'
         source_file: 'upload_eu/data-processed'
         destination_repo: 'KITmetricslab/covid19-forecast-hub-europe'
         destination_folder: ''
