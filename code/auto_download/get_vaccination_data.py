@@ -50,4 +50,8 @@ df.metric = df.metric.apply(translate_metric)
 # reorder columns
 df = df[['date', 'publication_date', 'location', 'location_name', 'metric', 'value']]
 
+# filter
+to_exclude = ['reason', 'biontech', 'moderna', 'astrazeneca', 'janssen']
+df = df[~df.metric.str.contains('|'.join(to_exclude))]
+
 df.to_csv('../../data-truth/RKI/vaccination/vaccination_Germany.csv', index=False)
