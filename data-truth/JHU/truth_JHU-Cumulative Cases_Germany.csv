@@ -590,7 +590,7 @@ date,location,location_name,value
 2021-09-01,GM,Germany,3979839
 2021-09-02,GM,Germany,3993789
 2021-09-03,GM,Germany,3996688
-2021-09-04,GM,Germany,4014858
+2021-09-04,GM,Germany,4005632
 2021-09-05,GM,Germany,4013808
 2021-09-06,GM,Germany,4020587
 2021-09-07,GM,Germany,4039667
@@ -639,7 +639,7 @@ date,location,location_name,value
 2021-10-20,GM,Germany,4429723
 2021-10-21,GM,Germany,4447231
 2021-10-22,GM,Germany,4462324
-2021-10-23,GM,Germany,4476187
+2021-10-23,GM,Germany,4466173
 2021-10-24,GM,Germany,4476078
 2021-10-25,GM,Germany,4485437
 2021-10-26,GM,Germany,4516839
@@ -655,3 +655,4 @@ date,location,location_name,value
 2021-11-05,GM,Germany,4755887
 2021-11-06,GM,Germany,4779675
 2021-11-07,GM,Germany,4792463
+2021-11-08,GM,Germany,4816177

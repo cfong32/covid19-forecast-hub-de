@@ -589,8 +589,8 @@ date,location,location_name,value
 2021-09-01,GM,Germany,14158
 2021-09-02,GM,Germany,13950
 2021-09-03,GM,Germany,2899
-2021-09-04,GM,Germany,18170
-2021-09-05,GM,Germany,-1050
+2021-09-04,GM,Germany,8944
+2021-09-05,GM,Germany,8176
 2021-09-06,GM,Germany,6779
 2021-09-07,GM,Germany,19080
 2021-09-08,GM,Germany,5110
@@ -638,8 +638,8 @@ date,location,location_name,value
 2021-10-20,GM,Germany,18802
 2021-10-21,GM,Germany,17508
 2021-10-22,GM,Germany,15093
-2021-10-23,GM,Germany,13863
-2021-10-24,GM,Germany,-109
+2021-10-23,GM,Germany,3849
+2021-10-24,GM,Germany,9905
 2021-10-25,GM,Germany,9359
 2021-10-26,GM,Germany,31402
 2021-10-27,GM,Germany,28826
@@ -654,3 +654,4 @@ date,location,location_name,value
 2021-11-05,GM,Germany,33785
 2021-11-06,GM,Germany,23788
 2021-11-07,GM,Germany,12788
+2021-11-08,GM,Germany,23714

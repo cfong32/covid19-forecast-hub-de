@@ -590,7 +590,7 @@ date,location,location_name,value
 2021-09-01,GM,Germany,92262
 2021-09-02,GM,Germany,92307
 2021-09-03,GM,Germany,92331
-2021-09-04,GM,Germany,92352
+2021-09-04,GM,Germany,92351
 2021-09-05,GM,Germany,92360
 2021-09-06,GM,Germany,92419
 2021-09-07,GM,Germany,92463
@@ -639,7 +639,7 @@ date,location,location_name,value
 2021-10-20,GM,Germany,94886
 2021-10-21,GM,Germany,94995
 2021-10-22,GM,Germany,95081
-2021-10-23,GM,Germany,95105
+2021-10-23,GM,Germany,95104
 2021-10-24,GM,Germany,95121
 2021-10-25,GM,Germany,95148
 2021-10-26,GM,Germany,95365
@@ -655,3 +655,4 @@ date,location,location_name,value
 2021-11-05,GM,Germany,96492
 2021-11-06,GM,Germany,96529
 2021-11-07,GM,Germany,96563
+2021-11-08,GM,Germany,96731
