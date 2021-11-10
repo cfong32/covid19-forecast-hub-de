@@ -42880,3 +42880,85 @@ date,location,location_name,age_group,value
 2021-11-09,GM16,Berlin State,A60-A79,1238
 2021-11-09,GM16,Berlin State,A80+,2326
 2021-11-09,GM16,Berlin State,unbekannt,1
+2021-11-10,GM,Germany,A00-A04,13
+2021-11-10,GM,Germany,A05-A14,11
+2021-11-10,GM,Germany,A15-A34,239
+2021-11-10,GM,Germany,A35-A59,4563
+2021-11-10,GM,Germany,A60-A79,29136
+2021-11-10,GM,Germany,A80+,62994
+2021-11-10,GM,Germany,unbekannt,7
+2021-11-10,GM01,Baden-Württemberg State,A00-A04,6
+2021-11-10,GM01,Baden-Württemberg State,A05-A14,1
+2021-11-10,GM01,Baden-Württemberg State,A15-A34,34
+2021-11-10,GM01,Baden-Württemberg State,A35-A59,559
+2021-11-10,GM01,Baden-Württemberg State,A60-A79,3216
+2021-11-10,GM01,Baden-Württemberg State,A80+,7347
+2021-11-10,GM02,Free State of Bavaria,A00-A04,2
+2021-11-10,GM02,Free State of Bavaria,A05-A14,3
+2021-11-10,GM02,Free State of Bavaria,A15-A34,31
+2021-11-10,GM02,Free State of Bavaria,A35-A59,704
+2021-11-10,GM02,Free State of Bavaria,A60-A79,4711
+2021-11-10,GM02,Free State of Bavaria,A80+,10912
+2021-11-10,GM03,Free Hanseatic City of Bremen,A05-A14,1
+2021-11-10,GM03,Free Hanseatic City of Bremen,A15-A34,1
+2021-11-10,GM03,Free Hanseatic City of Bremen,A35-A59,38
+2021-11-10,GM03,Free Hanseatic City of Bremen,A60-A79,197
+2021-11-10,GM03,Free Hanseatic City of Bremen,A80+,297
+2021-11-10,GM04,Free Hanseatic City of Hamburg,A15-A34,9
+2021-11-10,GM04,Free Hanseatic City of Hamburg,A35-A59,108
+2021-11-10,GM04,Free Hanseatic City of Hamburg,A60-A79,572
+2021-11-10,GM04,Free Hanseatic City of Hamburg,A80+,1150
+2021-11-10,GM05,Hesse State,A15-A34,34
+2021-11-10,GM05,Hesse State,A35-A59,361
+2021-11-10,GM05,Hesse State,A60-A79,2406
+2021-11-10,GM05,Hesse State,A80+,5125
+2021-11-10,GM06,Lower Saxony State,A15-A34,20
+2021-11-10,GM06,Lower Saxony State,A35-A59,328
+2021-11-10,GM06,Lower Saxony State,A60-A79,1836
+2021-11-10,GM06,Lower Saxony State,A80+,3957
+2021-11-10,GM07,North Rhine-Westphalia State,A00-A04,4
+2021-11-10,GM07,North Rhine-Westphalia State,A05-A14,5
+2021-11-10,GM07,North Rhine-Westphalia State,A15-A34,49
+2021-11-10,GM07,North Rhine-Westphalia State,A35-A59,1154
+2021-11-10,GM07,North Rhine-Westphalia State,A60-A79,5981
+2021-11-10,GM07,North Rhine-Westphalia State,A80+,11209
+2021-11-10,GM08,Rhineland-Palatinate State,A15-A34,15
+2021-11-10,GM08,Rhineland-Palatinate State,A35-A59,198
+2021-11-10,GM08,Rhineland-Palatinate State,A60-A79,1148
+2021-11-10,GM08,Rhineland-Palatinate State,A80+,2771
+2021-11-10,GM08,Rhineland-Palatinate State,unbekannt,6
+2021-11-10,GM09,Saarland State,A15-A34,5
+2021-11-10,GM09,Saarland State,A35-A59,54
+2021-11-10,GM09,Saarland State,A60-A79,306
+2021-11-10,GM09,Saarland State,A80+,712
+2021-11-10,GM10,Schleswig-Holstein State,A00-A04,1
+2021-11-10,GM10,Schleswig-Holstein State,A15-A34,3
+2021-11-10,GM10,Schleswig-Holstein State,A35-A59,89
+2021-11-10,GM10,Schleswig-Holstein State,A60-A79,485
+2021-11-10,GM10,Schleswig-Holstein State,A80+,1167
+2021-11-10,GM11,Brandenburg State,A15-A34,3
+2021-11-10,GM11,Brandenburg State,A35-A59,116
+2021-11-10,GM11,Brandenburg State,A60-A79,1109
+2021-11-10,GM11,Brandenburg State,A80+,2731
+2021-11-10,GM12,Mecklenburg-Western Pomerania State,A15-A34,2
+2021-11-10,GM12,Mecklenburg-Western Pomerania State,A35-A59,51
+2021-11-10,GM12,Mecklenburg-Western Pomerania State,A60-A79,407
+2021-11-10,GM12,Mecklenburg-Western Pomerania State,A80+,807
+2021-11-10,GM13,Free State of Saxony,A15-A34,11
+2021-11-10,GM13,Free State of Saxony,A35-A59,305
+2021-11-10,GM13,Free State of Saxony,A60-A79,2996
+2021-11-10,GM13,Free State of Saxony,A80+,7111
+2021-11-10,GM14,Sachsen-Anhalt State,A15-A34,5
+2021-11-10,GM14,Sachsen-Anhalt State,A35-A59,164
+2021-11-10,GM14,Sachsen-Anhalt State,A60-A79,1127
+2021-11-10,GM14,Sachsen-Anhalt State,A80+,2323
+2021-11-10,GM15,Free State of Thuringia,A15-A34,9
+2021-11-10,GM15,Free State of Thuringia,A35-A59,167
+2021-11-10,GM15,Free State of Thuringia,A60-A79,1398
+2021-11-10,GM15,Free State of Thuringia,A80+,3047
+2021-11-10,GM16,Berlin State,A05-A14,1
+2021-11-10,GM16,Berlin State,A15-A34,8
+2021-11-10,GM16,Berlin State,A35-A59,167
+2021-11-10,GM16,Berlin State,A60-A79,1241
+2021-11-10,GM16,Berlin State,A80+,2328
+2021-11-10,GM16,Berlin State,unbekannt,1
