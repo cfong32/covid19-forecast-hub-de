@@ -560,3 +560,6 @@ CovidMetrics-epiBATS,GM13,ECDC,2020-01-01
 CovidMetrics-epiBATS,GM14,ECDC,2020-01-01
 CovidMetrics-epiBATS,GM15,ECDC,2020-01-01
 CovidMetrics-epiBATS,GM16,ECDC,2020-01-01
+KITmetricslab-bivariate_branching,GM,JHU,2020-01-01
+DSMPG-bayes,GM,JHU,2020-01-01
+DSMPG-bayes,PL,JHU,2020-01-01

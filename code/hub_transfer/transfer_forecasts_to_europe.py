@@ -113,5 +113,7 @@ for team in models_de_pl:
                     
                     if not os.path.exists(Path(path_hub_eu+ "/data-processed/"+ team)):
                         os.makedirs(Path(path_hub_eu+ "/data-processed/"+ team))
-                        
+                    
+                    dat["value"] = dat["value"].round(0).astype(int)
+                    
                     dat.to_csv(Path(path_hub_eu + "/" + file_eu), index=False)

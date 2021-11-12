@@ -1,0 +1,37 @@
+name: depl_to_EU
+
+on: 
+ workflow_dispatch:
+ schedule:
+   - cron: "0 10 * * 2"
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - uses: actions/checkout@v2
+
+    - name: setup python
+      uses: actions/setup-python@v2
+      with: 
+        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+
+    - run: pip3 install -r ./github-actions/pr_requirements.txt
+    - run: |
+        cd ./code/hub_transfer
+        python transfer_forecasts_to_europe.py
+        cd ../../
+
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.GITHUBTOKEN}}
+      with:
+        github_server: 'github.com'
+        source_file: 'upload_eu/data-processed'
+        destination_repo: 'KITmetricslab/covid19-forecast-hub-europe'
+        destination_folder: ''
+        user_email: ${{ secrets.EMAIL}}
+        user_name: 'JannikBot'
+        commit_message: 'Add De/Pl forecasts'

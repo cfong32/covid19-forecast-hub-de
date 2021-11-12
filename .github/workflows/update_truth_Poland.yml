@@ -3,7 +3,7 @@ name: "MZ"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 12,22 * * *"
+    - cron: "30 9 * * *"
   
 
 jobs:
@@ -30,7 +30,7 @@ jobs:
         SHEETS_CREDS: ${{ secrets.SHEETS_CREDENTIALS }}
       run: |
         cd ./code/auto_download 
-        python3 ./truth_poland_p.py
+        python3 ./MZ_download.py
         cd ../../
    
     - name: Commit files
