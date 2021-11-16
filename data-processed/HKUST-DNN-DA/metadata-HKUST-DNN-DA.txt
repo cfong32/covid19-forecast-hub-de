@@ -1,0 +1,15 @@
+team_name: HKUST
+model_name: DNN-DA
+model_abbr: HKUST-DNN-DA
+model_contributors: Chung-Yan Fong <fcy@cse.ust.hk>, Dit-Yan Yeung <dyyeung@cse.ust.hk>
+website_url: https://cfong32.github.io/HKUST-DNN-DA/
+license: cc-by-4.0
+team_model_designation: primary
+
+model_targets: 1-4 wk ahead inc case
+target_loc: 16 german states
+data_inputs: RKI (deaths and cases)
+this_model_is_an_ensemble: true
+this_model_is_unconditional: true
+
+methods: Based on observations of deaths and cases since the outbreak, we have trained deep neural networks to forecast state-level weekly incident cases in Germany. Training processes are enhanced by specially designed data augmentation on the observed data.
