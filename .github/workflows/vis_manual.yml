@@ -1,6 +1,8 @@
 name: "Update Visualization"
 on:
   workflow_dispatch:
+  schedule:
+   - cron: "0 13 * * 2"
   
 
 jobs:
