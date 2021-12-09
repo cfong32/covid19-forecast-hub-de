@@ -3,7 +3,7 @@ name: "EU_to_depl"
 on:
   workflow_dispatch:
   schedule:
-   - cron: "0 8 * * 2"
+   - cron: "0 12 * * 2"
 
 jobs:
 
