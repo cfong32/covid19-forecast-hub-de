@@ -75649,3 +75649,122 @@ date,location,location_name,age_group,value
 2022-01-02,GM16,Berlin State,A60-A79,5
 2022-01-02,GM16,Berlin State,A80+,2
 2022-01-02,GM16,Berlin State,unbekannt,0
+2022-01-03,GM,Germany,A00-A04,577
+2022-01-03,GM,Germany,A05-A14,2230
+2022-01-03,GM,Germany,A15-A34,7178
+2022-01-03,GM,Germany,A35-A59,6388
+2022-01-03,GM,Germany,A60-A79,1688
+2022-01-03,GM,Germany,A80+,445
+2022-01-03,GM,Germany,unbekannt,12
+2022-01-03,GM01,Baden-Württemberg State,A00-A04,44
+2022-01-03,GM01,Baden-Württemberg State,A05-A14,162
+2022-01-03,GM01,Baden-Württemberg State,A15-A34,556
+2022-01-03,GM01,Baden-Württemberg State,A35-A59,478
+2022-01-03,GM01,Baden-Württemberg State,A60-A79,116
+2022-01-03,GM01,Baden-Württemberg State,A80+,25
+2022-01-03,GM01,Baden-Württemberg State,unbekannt,2
+2022-01-03,GM02,Free State of Bavaria,A00-A04,98
+2022-01-03,GM02,Free State of Bavaria,A05-A14,414
+2022-01-03,GM02,Free State of Bavaria,A15-A34,1064
+2022-01-03,GM02,Free State of Bavaria,A35-A59,1090
+2022-01-03,GM02,Free State of Bavaria,A60-A79,290
+2022-01-03,GM02,Free State of Bavaria,A80+,80
+2022-01-03,GM02,Free State of Bavaria,unbekannt,-1
+2022-01-03,GM03,Free Hanseatic City of Bremen,A00-A04,11
+2022-01-03,GM03,Free Hanseatic City of Bremen,A05-A14,49
+2022-01-03,GM03,Free Hanseatic City of Bremen,A15-A34,239
+2022-01-03,GM03,Free Hanseatic City of Bremen,A35-A59,168
+2022-01-03,GM03,Free Hanseatic City of Bremen,A60-A79,39
+2022-01-03,GM03,Free Hanseatic City of Bremen,A80+,7
+2022-01-03,GM03,Free Hanseatic City of Bremen,unbekannt,1
+2022-01-03,GM04,Free Hanseatic City of Hamburg,A00-A04,26
+2022-01-03,GM04,Free Hanseatic City of Hamburg,A05-A14,107
+2022-01-03,GM04,Free Hanseatic City of Hamburg,A15-A34,475
+2022-01-03,GM04,Free Hanseatic City of Hamburg,A35-A59,355
+2022-01-03,GM04,Free Hanseatic City of Hamburg,A60-A79,59
+2022-01-03,GM04,Free Hanseatic City of Hamburg,A80+,13
+2022-01-03,GM04,Free Hanseatic City of Hamburg,unbekannt,0
+2022-01-03,GM05,Hesse State,A00-A04,23
+2022-01-03,GM05,Hesse State,A05-A14,83
+2022-01-03,GM05,Hesse State,A15-A34,350
+2022-01-03,GM05,Hesse State,A35-A59,308
+2022-01-03,GM05,Hesse State,A60-A79,60
+2022-01-03,GM05,Hesse State,A80+,16
+2022-01-03,GM05,Hesse State,unbekannt,2
+2022-01-03,GM06,Lower Saxony State,A00-A04,132
+2022-01-03,GM06,Lower Saxony State,A05-A14,464
+2022-01-03,GM06,Lower Saxony State,A15-A34,1505
+2022-01-03,GM06,Lower Saxony State,A35-A59,1226
+2022-01-03,GM06,Lower Saxony State,A60-A79,381
+2022-01-03,GM06,Lower Saxony State,A80+,107
+2022-01-03,GM06,Lower Saxony State,unbekannt,3
+2022-01-03,GM07,North Rhine-Westphalia State,A00-A04,118
+2022-01-03,GM07,North Rhine-Westphalia State,A05-A14,460
+2022-01-03,GM07,North Rhine-Westphalia State,A15-A34,1456
+2022-01-03,GM07,North Rhine-Westphalia State,A35-A59,1235
+2022-01-03,GM07,North Rhine-Westphalia State,A60-A79,324
+2022-01-03,GM07,North Rhine-Westphalia State,A80+,96
+2022-01-03,GM07,North Rhine-Westphalia State,unbekannt,-1
+2022-01-03,GM08,Rhineland-Palatinate State,A00-A04,24
+2022-01-03,GM08,Rhineland-Palatinate State,A05-A14,66
+2022-01-03,GM08,Rhineland-Palatinate State,A15-A34,252
+2022-01-03,GM08,Rhineland-Palatinate State,A35-A59,200
+2022-01-03,GM08,Rhineland-Palatinate State,A60-A79,44
+2022-01-03,GM08,Rhineland-Palatinate State,A80+,7
+2022-01-03,GM08,Rhineland-Palatinate State,unbekannt,1
+2022-01-03,GM09,Saarland State,A00-A04,3
+2022-01-03,GM09,Saarland State,A05-A14,20
+2022-01-03,GM09,Saarland State,A15-A34,94
+2022-01-03,GM09,Saarland State,A35-A59,56
+2022-01-03,GM09,Saarland State,A60-A79,13
+2022-01-03,GM09,Saarland State,A80+,5
+2022-01-03,GM09,Saarland State,unbekannt,1
+2022-01-03,GM10,Schleswig-Holstein State,A00-A04,16
+2022-01-03,GM10,Schleswig-Holstein State,A05-A14,48
+2022-01-03,GM10,Schleswig-Holstein State,A15-A34,325
+2022-01-03,GM10,Schleswig-Holstein State,A35-A59,178
+2022-01-03,GM10,Schleswig-Holstein State,A60-A79,58
+2022-01-03,GM10,Schleswig-Holstein State,A80+,8
+2022-01-03,GM10,Schleswig-Holstein State,unbekannt,0
+2022-01-03,GM11,Brandenburg State,A00-A04,14
+2022-01-03,GM11,Brandenburg State,A05-A14,48
+2022-01-03,GM11,Brandenburg State,A15-A34,92
+2022-01-03,GM11,Brandenburg State,A35-A59,123
+2022-01-03,GM11,Brandenburg State,A60-A79,38
+2022-01-03,GM11,Brandenburg State,A80+,11
+2022-01-03,GM11,Brandenburg State,unbekannt,2
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,A00-A04,13
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,A05-A14,46
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,A15-A34,131
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,A35-A59,151
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,A60-A79,48
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,A80+,7
+2022-01-03,GM12,Mecklenburg-Western Pomerania State,unbekannt,1
+2022-01-03,GM13,Free State of Saxony,A00-A04,19
+2022-01-03,GM13,Free State of Saxony,A05-A14,111
+2022-01-03,GM13,Free State of Saxony,A15-A34,232
+2022-01-03,GM13,Free State of Saxony,A35-A59,328
+2022-01-03,GM13,Free State of Saxony,A60-A79,92
+2022-01-03,GM13,Free State of Saxony,A80+,24
+2022-01-03,GM13,Free State of Saxony,unbekannt,0
+2022-01-03,GM14,Sachsen-Anhalt State,A00-A04,14
+2022-01-03,GM14,Sachsen-Anhalt State,A05-A14,42
+2022-01-03,GM14,Sachsen-Anhalt State,A15-A34,127
+2022-01-03,GM14,Sachsen-Anhalt State,A35-A59,177
+2022-01-03,GM14,Sachsen-Anhalt State,A60-A79,52
+2022-01-03,GM14,Sachsen-Anhalt State,A80+,12
+2022-01-03,GM14,Sachsen-Anhalt State,unbekannt,0
+2022-01-03,GM15,Free State of Thuringia,A00-A04,8
+2022-01-03,GM15,Free State of Thuringia,A05-A14,49
+2022-01-03,GM15,Free State of Thuringia,A15-A34,102
+2022-01-03,GM15,Free State of Thuringia,A35-A59,125
+2022-01-03,GM15,Free State of Thuringia,A60-A79,50
+2022-01-03,GM15,Free State of Thuringia,A80+,15
+2022-01-03,GM15,Free State of Thuringia,unbekannt,1
+2022-01-03,GM16,Berlin State,A00-A04,14
+2022-01-03,GM16,Berlin State,A05-A14,61
+2022-01-03,GM16,Berlin State,A15-A34,178
+2022-01-03,GM16,Berlin State,A35-A59,190
+2022-01-03,GM16,Berlin State,A60-A79,24
+2022-01-03,GM16,Berlin State,A80+,12
+2022-01-03,GM16,Berlin State,unbekannt,0
