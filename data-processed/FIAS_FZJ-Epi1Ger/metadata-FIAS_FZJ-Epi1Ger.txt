@@ -2,7 +2,7 @@ team_name: Frankfurt Institute for Advanced Studies & Forschungszentrum Jülich
 model_name: Core Model, Germany
 model_abbr: FIAS_FZJ-Epi1Ger
 model_contributors: Maria V. Barbarossa <barbarossa@fias.uni-frankfurt.de>, Jan Fuhrmann
-<j.fuhrmann@fz-juelich.de>, Stefan Krieg <s.krieg@fz-juelich.de>, Jan H. Meinke
+<fuhrmann@math.uni-heidelberg.de>, Stefan Krieg <s.krieg@fz-juelich.de>, Jan H. Meinke
 <j.meinke@fz-juelich.de>
 website_url: 
 repo_url:
