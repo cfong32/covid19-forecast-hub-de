@@ -76482,3 +76482,122 @@ date,location,location_name,age_group,value
 2022-01-09,GM16,Berlin State,A60-A79,105
 2022-01-09,GM16,Berlin State,A80+,25
 2022-01-09,GM16,Berlin State,unbekannt,1
+2022-01-10,GM,Germany,A00-A04,710
+2022-01-10,GM,Germany,A05-A14,3216
+2022-01-10,GM,Germany,A15-A34,10674
+2022-01-10,GM,Germany,A35-A59,8499
+2022-01-10,GM,Germany,A60-A79,1761
+2022-01-10,GM,Germany,A80+,368
+2022-01-10,GM,Germany,unbekannt,27
+2022-01-10,GM01,Baden-Württemberg State,A00-A04,118
+2022-01-10,GM01,Baden-Württemberg State,A05-A14,509
+2022-01-10,GM01,Baden-Württemberg State,A15-A34,1595
+2022-01-10,GM01,Baden-Württemberg State,A35-A59,1317
+2022-01-10,GM01,Baden-Württemberg State,A60-A79,260
+2022-01-10,GM01,Baden-Württemberg State,A80+,74
+2022-01-10,GM01,Baden-Württemberg State,unbekannt,2
+2022-01-10,GM02,Free State of Bavaria,A00-A04,143
+2022-01-10,GM02,Free State of Bavaria,A05-A14,668
+2022-01-10,GM02,Free State of Bavaria,A15-A34,2633
+2022-01-10,GM02,Free State of Bavaria,A35-A59,2005
+2022-01-10,GM02,Free State of Bavaria,A60-A79,365
+2022-01-10,GM02,Free State of Bavaria,A80+,61
+2022-01-10,GM02,Free State of Bavaria,unbekannt,1
+2022-01-10,GM03,Free Hanseatic City of Bremen,A00-A04,8
+2022-01-10,GM03,Free Hanseatic City of Bremen,A05-A14,53
+2022-01-10,GM03,Free Hanseatic City of Bremen,A15-A34,214
+2022-01-10,GM03,Free Hanseatic City of Bremen,A35-A59,148
+2022-01-10,GM03,Free Hanseatic City of Bremen,A60-A79,34
+2022-01-10,GM03,Free Hanseatic City of Bremen,A80+,7
+2022-01-10,GM03,Free Hanseatic City of Bremen,unbekannt,1
+2022-01-10,GM04,Free Hanseatic City of Hamburg,A00-A04,9
+2022-01-10,GM04,Free Hanseatic City of Hamburg,A05-A14,106
+2022-01-10,GM04,Free Hanseatic City of Hamburg,A15-A34,319
+2022-01-10,GM04,Free Hanseatic City of Hamburg,A35-A59,214
+2022-01-10,GM04,Free Hanseatic City of Hamburg,A60-A79,46
+2022-01-10,GM04,Free Hanseatic City of Hamburg,A80+,9
+2022-01-10,GM04,Free Hanseatic City of Hamburg,unbekannt,0
+2022-01-10,GM05,Hesse State,A00-A04,29
+2022-01-10,GM05,Hesse State,A05-A14,214
+2022-01-10,GM05,Hesse State,A15-A34,939
+2022-01-10,GM05,Hesse State,A35-A59,623
+2022-01-10,GM05,Hesse State,A60-A79,98
+2022-01-10,GM05,Hesse State,A80+,17
+2022-01-10,GM05,Hesse State,unbekannt,4
+2022-01-10,GM06,Lower Saxony State,A00-A04,51
+2022-01-10,GM06,Lower Saxony State,A05-A14,202
+2022-01-10,GM06,Lower Saxony State,A15-A34,651
+2022-01-10,GM06,Lower Saxony State,A35-A59,515
+2022-01-10,GM06,Lower Saxony State,A60-A79,104
+2022-01-10,GM06,Lower Saxony State,A80+,27
+2022-01-10,GM06,Lower Saxony State,unbekannt,2
+2022-01-10,GM07,North Rhine-Westphalia State,A00-A04,173
+2022-01-10,GM07,North Rhine-Westphalia State,A05-A14,629
+2022-01-10,GM07,North Rhine-Westphalia State,A15-A34,2156
+2022-01-10,GM07,North Rhine-Westphalia State,A35-A59,1727
+2022-01-10,GM07,North Rhine-Westphalia State,A60-A79,369
+2022-01-10,GM07,North Rhine-Westphalia State,A80+,68
+2022-01-10,GM07,North Rhine-Westphalia State,unbekannt,5
+2022-01-10,GM08,Rhineland-Palatinate State,A00-A04,43
+2022-01-10,GM08,Rhineland-Palatinate State,A05-A14,157
+2022-01-10,GM08,Rhineland-Palatinate State,A15-A34,311
+2022-01-10,GM08,Rhineland-Palatinate State,A35-A59,280
+2022-01-10,GM08,Rhineland-Palatinate State,A60-A79,56
+2022-01-10,GM08,Rhineland-Palatinate State,A80+,11
+2022-01-10,GM08,Rhineland-Palatinate State,unbekannt,0
+2022-01-10,GM09,Saarland State,A00-A04,12
+2022-01-10,GM09,Saarland State,A05-A14,41
+2022-01-10,GM09,Saarland State,A15-A34,121
+2022-01-10,GM09,Saarland State,A35-A59,100
+2022-01-10,GM09,Saarland State,A60-A79,28
+2022-01-10,GM09,Saarland State,A80+,7
+2022-01-10,GM09,Saarland State,unbekannt,4
+2022-01-10,GM10,Schleswig-Holstein State,A00-A04,18
+2022-01-10,GM10,Schleswig-Holstein State,A05-A14,76
+2022-01-10,GM10,Schleswig-Holstein State,A15-A34,340
+2022-01-10,GM10,Schleswig-Holstein State,A35-A59,259
+2022-01-10,GM10,Schleswig-Holstein State,A60-A79,51
+2022-01-10,GM10,Schleswig-Holstein State,A80+,10
+2022-01-10,GM10,Schleswig-Holstein State,unbekannt,10
+2022-01-10,GM11,Brandenburg State,A00-A04,8
+2022-01-10,GM11,Brandenburg State,A05-A14,91
+2022-01-10,GM11,Brandenburg State,A15-A34,186
+2022-01-10,GM11,Brandenburg State,A35-A59,188
+2022-01-10,GM11,Brandenburg State,A60-A79,62
+2022-01-10,GM11,Brandenburg State,A80+,9
+2022-01-10,GM11,Brandenburg State,unbekannt,2
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,A00-A04,17
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,A05-A14,72
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,A15-A34,117
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,A35-A59,136
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,A60-A79,39
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,A80+,11
+2022-01-10,GM12,Mecklenburg-Western Pomerania State,unbekannt,0
+2022-01-10,GM13,Free State of Saxony,A00-A04,22
+2022-01-10,GM13,Free State of Saxony,A05-A14,109
+2022-01-10,GM13,Free State of Saxony,A15-A34,298
+2022-01-10,GM13,Free State of Saxony,A35-A59,264
+2022-01-10,GM13,Free State of Saxony,A60-A79,66
+2022-01-10,GM13,Free State of Saxony,A80+,27
+2022-01-10,GM13,Free State of Saxony,unbekannt,-3
+2022-01-10,GM14,Sachsen-Anhalt State,A00-A04,18
+2022-01-10,GM14,Sachsen-Anhalt State,A05-A14,76
+2022-01-10,GM14,Sachsen-Anhalt State,A15-A34,162
+2022-01-10,GM14,Sachsen-Anhalt State,A35-A59,215
+2022-01-10,GM14,Sachsen-Anhalt State,A60-A79,62
+2022-01-10,GM14,Sachsen-Anhalt State,A80+,9
+2022-01-10,GM14,Sachsen-Anhalt State,unbekannt,-1
+2022-01-10,GM15,Free State of Thuringia,A00-A04,14
+2022-01-10,GM15,Free State of Thuringia,A05-A14,42
+2022-01-10,GM15,Free State of Thuringia,A15-A34,130
+2022-01-10,GM15,Free State of Thuringia,A35-A59,210
+2022-01-10,GM15,Free State of Thuringia,A60-A79,68
+2022-01-10,GM15,Free State of Thuringia,A80+,15
+2022-01-10,GM15,Free State of Thuringia,unbekannt,0
+2022-01-10,GM16,Berlin State,A00-A04,27
+2022-01-10,GM16,Berlin State,A05-A14,171
+2022-01-10,GM16,Berlin State,A15-A34,502
+2022-01-10,GM16,Berlin State,A35-A59,298
+2022-01-10,GM16,Berlin State,A60-A79,53
+2022-01-10,GM16,Berlin State,A80+,6
+2022-01-10,GM16,Berlin State,unbekannt,0
