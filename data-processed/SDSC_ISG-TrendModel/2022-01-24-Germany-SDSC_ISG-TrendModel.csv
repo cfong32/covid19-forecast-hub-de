@@ -1,0 +1,2 @@
+"location","target","type","quantile","forecast_date","target_end_date","value"
+"GM","1 wk ahead inc death","point",NA,"2022-01-24","2022-01-29",741
