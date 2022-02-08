@@ -12052,23 +12052,40 @@ date,location,location_name,value
 2022-02-01,GM14,Sachsen-Anhalt State,2232
 2022-02-01,GM15,Free State of Thuringia,1051
 2022-02-01,GM16,Berlin State,12216
-2022-02-03,GM,Germany,444618
-2022-02-03,GM01,Baden-Württemberg State,58365
-2022-02-03,GM02,Free State of Bavaria,81096
-2022-02-03,GM03,Free Hanseatic City of Bremen,2911
-2022-02-03,GM04,Free Hanseatic City of Hamburg,12675
-2022-02-03,GM05,Hesse State,38656
-2022-02-03,GM06,Lower Saxony State,32952
-2022-02-03,GM07,North Rhine-Westphalia State,95202
-2022-02-03,GM08,Rhineland-Palatinate State,17629
-2022-02-03,GM09,Saarland State,5435
-2022-02-03,GM10,Schleswig-Holstein State,10295
-2022-02-03,GM11,Brandenburg State,18585
-2022-02-03,GM12,Mecklenburg-Western Pomerania State,8042
-2022-02-03,GM13,Free State of Saxony,16591
-2022-02-03,GM14,Sachsen-Anhalt State,9607
-2022-02-03,GM15,Free State of Thuringia,6329
-2022-02-03,GM16,Berlin State,30248
+2022-02-02,GM,Germany,222309
+2022-02-02,GM01,Baden-Württemberg State,29182
+2022-02-02,GM02,Free State of Bavaria,40548
+2022-02-02,GM03,Free Hanseatic City of Bremen,1455
+2022-02-02,GM04,Free Hanseatic City of Hamburg,6337
+2022-02-02,GM05,Hesse State,19328
+2022-02-02,GM06,Lower Saxony State,16476
+2022-02-02,GM07,North Rhine-Westphalia State,47601
+2022-02-02,GM08,Rhineland-Palatinate State,8815
+2022-02-02,GM09,Saarland State,2717
+2022-02-02,GM10,Schleswig-Holstein State,5147
+2022-02-02,GM11,Brandenburg State,9293
+2022-02-02,GM12,Mecklenburg-Western Pomerania State,4021
+2022-02-02,GM13,Free State of Saxony,8296
+2022-02-02,GM14,Sachsen-Anhalt State,4803
+2022-02-02,GM15,Free State of Thuringia,3165
+2022-02-02,GM16,Berlin State,15124
+2022-02-03,GM,Germany,222309
+2022-02-03,GM01,Baden-Württemberg State,29183
+2022-02-03,GM02,Free State of Bavaria,40548
+2022-02-03,GM03,Free Hanseatic City of Bremen,1456
+2022-02-03,GM04,Free Hanseatic City of Hamburg,6338
+2022-02-03,GM05,Hesse State,19328
+2022-02-03,GM06,Lower Saxony State,16476
+2022-02-03,GM07,North Rhine-Westphalia State,47601
+2022-02-03,GM08,Rhineland-Palatinate State,8814
+2022-02-03,GM09,Saarland State,2718
+2022-02-03,GM10,Schleswig-Holstein State,5148
+2022-02-03,GM11,Brandenburg State,9292
+2022-02-03,GM12,Mecklenburg-Western Pomerania State,4021
+2022-02-03,GM13,Free State of Saxony,8295
+2022-02-03,GM14,Sachsen-Anhalt State,4804
+2022-02-03,GM15,Free State of Thuringia,3164
+2022-02-03,GM16,Berlin State,15124
 2022-02-04,GM,Germany,248838
 2022-02-04,GM01,Baden-Württemberg State,34413
 2022-02-04,GM02,Free State of Bavaria,53117
