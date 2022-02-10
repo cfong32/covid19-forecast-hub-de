@@ -73,7 +73,7 @@ for file in os.listdir("./poland_unzip"):
             #shift to ecdc
             df["date"] = df["date"].apply(lambda x: x + datetime.timedelta(days=1))
             
-            inc_case_df = df[["date", "location_name", "location", "liczba_przypadkow"]].rename(columns={"liczba_przypadkow": "value"})
+            inc_case_df = df[["date", "location_name", "location", "liczba_nowych_zakazen"]].rename(columns={"liczba_nowych_zakazen": "value"})
             inc_case_dfs.append(inc_case_df)
             
             inc_death_df = df[["date", "location_name", "location", "zgony"]].rename(columns={"zgony": "value"})
