@@ -1543,4 +1543,3 @@ forecast_date,target,target_end_date,location,location_name,type,quantile,value
 2022-02-14,4 wk ahead cum death,2022-03-12,PL,Poland,quantile,0.95,114184
 2022-02-14,4 wk ahead cum death,2022-03-12,PL,Poland,quantile,0.975,114538
 2022-02-14,4 wk ahead cum death,2022-03-12,PL,Poland,quantile,0.99,114910
-                                                             
