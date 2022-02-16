@@ -81004,3 +81004,122 @@ date,location,location_name,age_group,value
 2022-02-15,GM16,Berlin State,A60-A79,52437
 2022-02-15,GM16,Berlin State,A80+,20198
 2022-02-15,GM16,Berlin State,unbekannt,1033
+2022-02-16,GM,Germany,A00-A04,445772
+2022-02-16,GM,Germany,A05-A14,2084597
+2022-02-16,GM,Germany,A15-A34,3870786
+2022-02-16,GM,Germany,A35-A59,4595066
+2022-02-16,GM,Germany,A60-A79,1289160
+2022-02-16,GM,Germany,A80+,503753
+2022-02-16,GM,Germany,unbekannt,11181
+2022-02-16,GM01,Baden-Württemberg State,A00-A04,61911
+2022-02-16,GM01,Baden-Württemberg State,A05-A14,290865
+2022-02-16,GM01,Baden-Württemberg State,A15-A34,551747
+2022-02-16,GM01,Baden-Württemberg State,A35-A59,645050
+2022-02-16,GM01,Baden-Württemberg State,A60-A79,173759
+2022-02-16,GM01,Baden-Württemberg State,A80+,60078
+2022-02-16,GM01,Baden-Württemberg State,unbekannt,755
+2022-02-16,GM02,Free State of Bavaria,A00-A04,83681
+2022-02-16,GM02,Free State of Bavaria,A05-A14,360290
+2022-02-16,GM02,Free State of Bavaria,A15-A34,731107
+2022-02-16,GM02,Free State of Bavaria,A35-A59,850226
+2022-02-16,GM02,Free State of Bavaria,A60-A79,234974
+2022-02-16,GM02,Free State of Bavaria,A80+,86885
+2022-02-16,GM02,Free State of Bavaria,unbekannt,1101
+2022-02-16,GM03,Free Hanseatic City of Bremen,A00-A04,3463
+2022-02-16,GM03,Free Hanseatic City of Bremen,A05-A14,16438
+2022-02-16,GM03,Free Hanseatic City of Bremen,A15-A34,37579
+2022-02-16,GM03,Free Hanseatic City of Bremen,A35-A59,35916
+2022-02-16,GM03,Free Hanseatic City of Bremen,A60-A79,8911
+2022-02-16,GM03,Free Hanseatic City of Bremen,A80+,3334
+2022-02-16,GM03,Free Hanseatic City of Bremen,unbekannt,180
+2022-02-16,GM04,Free Hanseatic City of Hamburg,A00-A04,13090
+2022-02-16,GM04,Free Hanseatic City of Hamburg,A05-A14,55259
+2022-02-16,GM04,Free Hanseatic City of Hamburg,A15-A34,109004
+2022-02-16,GM04,Free Hanseatic City of Hamburg,A35-A59,109697
+2022-02-16,GM04,Free Hanseatic City of Hamburg,A60-A79,23718
+2022-02-16,GM04,Free Hanseatic City of Hamburg,A80+,9415
+2022-02-16,GM04,Free Hanseatic City of Hamburg,unbekannt,146
+2022-02-16,GM05,Hesse State,A00-A04,29035
+2022-02-16,GM05,Hesse State,A05-A14,158173
+2022-02-16,GM05,Hesse State,A15-A34,298066
+2022-02-16,GM05,Hesse State,A35-A59,337950
+2022-02-16,GM05,Hesse State,A60-A79,88117
+2022-02-16,GM05,Hesse State,A80+,34308
+2022-02-16,GM05,Hesse State,unbekannt,1188
+2022-02-16,GM06,Lower Saxony State,A00-A04,34986
+2022-02-16,GM06,Lower Saxony State,A05-A14,146834
+2022-02-16,GM06,Lower Saxony State,A15-A34,276910
+2022-02-16,GM06,Lower Saxony State,A35-A59,305258
+2022-02-16,GM06,Lower Saxony State,A60-A79,80075
+2022-02-16,GM06,Lower Saxony State,A80+,31656
+2022-02-16,GM06,Lower Saxony State,unbekannt,400
+2022-02-16,GM07,North Rhine-Westphalia State,A00-A04,97253
+2022-02-16,GM07,North Rhine-Westphalia State,A05-A14,446242
+2022-02-16,GM07,North Rhine-Westphalia State,A15-A34,842991
+2022-02-16,GM07,North Rhine-Westphalia State,A35-A59,924482
+2022-02-16,GM07,North Rhine-Westphalia State,A60-A79,248267
+2022-02-16,GM07,North Rhine-Westphalia State,A80+,94504
+2022-02-16,GM07,North Rhine-Westphalia State,unbekannt,3541
+2022-02-16,GM08,Rhineland-Palatinate State,A00-A04,20405
+2022-02-16,GM08,Rhineland-Palatinate State,A05-A14,79431
+2022-02-16,GM08,Rhineland-Palatinate State,A15-A34,153369
+2022-02-16,GM08,Rhineland-Palatinate State,A35-A59,172775
+2022-02-16,GM08,Rhineland-Palatinate State,A60-A79,50445
+2022-02-16,GM08,Rhineland-Palatinate State,A80+,20491
+2022-02-16,GM08,Rhineland-Palatinate State,unbekannt,1054
+2022-02-16,GM09,Saarland State,A00-A04,5256
+2022-02-16,GM09,Saarland State,A05-A14,21960
+2022-02-16,GM09,Saarland State,A15-A34,40790
+2022-02-16,GM09,Saarland State,A35-A59,46023
+2022-02-16,GM09,Saarland State,A60-A79,15827
+2022-02-16,GM09,Saarland State,A80+,6435
+2022-02-16,GM09,Saarland State,unbekannt,138
+2022-02-16,GM10,Schleswig-Holstein State,A00-A04,10751
+2022-02-16,GM10,Schleswig-Holstein State,A05-A14,46076
+2022-02-16,GM10,Schleswig-Holstein State,A15-A34,89053
+2022-02-16,GM10,Schleswig-Holstein State,A35-A59,96073
+2022-02-16,GM10,Schleswig-Holstein State,A60-A79,24309
+2022-02-16,GM10,Schleswig-Holstein State,A80+,10636
+2022-02-16,GM10,Schleswig-Holstein State,unbekannt,360
+2022-02-16,GM11,Brandenburg State,A00-A04,14490
+2022-02-16,GM11,Brandenburg State,A05-A14,82463
+2022-02-16,GM11,Brandenburg State,A15-A34,103335
+2022-02-16,GM11,Brandenburg State,A35-A59,173834
+2022-02-16,GM11,Brandenburg State,A60-A79,50999
+2022-02-16,GM11,Brandenburg State,A80+,21212
+2022-02-16,GM11,Brandenburg State,unbekannt,273
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,A00-A04,8062
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,A05-A14,38273
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,A15-A34,47994
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,A35-A59,71898
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,A60-A79,22429
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,A80+,8862
+2022-02-16,GM12,Mecklenburg-Western Pomerania State,unbekannt,222
+2022-02-16,GM13,Free State of Saxony,A00-A04,17588
+2022-02-16,GM13,Free State of Saxony,A05-A14,127586
+2022-02-16,GM13,Free State of Saxony,A15-A34,196071
+2022-02-16,GM13,Free State of Saxony,A35-A59,325335
+2022-02-16,GM13,Free State of Saxony,A60-A79,117072
+2022-02-16,GM13,Free State of Saxony,A80+,53594
+2022-02-16,GM13,Free State of Saxony,unbekannt,8
+2022-02-16,GM14,Sachsen-Anhalt State,A00-A04,11734
+2022-02-16,GM14,Sachsen-Anhalt State,A05-A14,60364
+2022-02-16,GM14,Sachsen-Anhalt State,A15-A34,80805
+2022-02-16,GM14,Sachsen-Anhalt State,A35-A59,125451
+2022-02-16,GM14,Sachsen-Anhalt State,A60-A79,42715
+2022-02-16,GM14,Sachsen-Anhalt State,A80+,19063
+2022-02-16,GM14,Sachsen-Anhalt State,unbekannt,559
+2022-02-16,GM15,Free State of Thuringia,A00-A04,10472
+2022-02-16,GM15,Free State of Thuringia,A05-A14,48297
+2022-02-16,GM15,Free State of Thuringia,A15-A34,85437
+2022-02-16,GM15,Free State of Thuringia,A35-A59,142738
+2022-02-16,GM15,Free State of Thuringia,A60-A79,54260
+2022-02-16,GM15,Free State of Thuringia,A80+,22722
+2022-02-16,GM15,Free State of Thuringia,unbekannt,201
+2022-02-16,GM16,Berlin State,A00-A04,23595
+2022-02-16,GM16,Berlin State,A05-A14,106046
+2022-02-16,GM16,Berlin State,A15-A34,226528
+2022-02-16,GM16,Berlin State,A35-A59,232360
+2022-02-16,GM16,Berlin State,A60-A79,53283
+2022-02-16,GM16,Berlin State,A80+,20558
+2022-02-16,GM16,Berlin State,unbekannt,1055
