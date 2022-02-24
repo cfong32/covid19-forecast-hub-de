@@ -73,8 +73,8 @@ for file in os.listdir("./poland_unzip"):
             #shift to ecdc
             df["date"] = df["date"].apply(lambda x: x + datetime.timedelta(days=1))
             
-            if "liczba_nowych_zakazen" in df.columns:
-                inc_case_df = df[["date", "location_name", "location", "liczba_nowych_zakazen"]].rename(columns={"liczba_nowych_zakazen": "value"})
+            if "liczba_wszystkich_zakazen" in df.columns:
+                inc_case_df = df[["date", "location_name", "location", "liczba_wszystkich_zakazen"]].rename(columns={"liczba_wszystkich_zakazen": "value"})
             
             if "liczba_przypadkow" in df.columns:
                 inc_case_df = df[["date", "location_name", "location", "liczba_przypadkow"]].rename(columns={"liczba_przypadkow": "value"})    
