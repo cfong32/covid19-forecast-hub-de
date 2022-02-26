@@ -130,10 +130,10 @@ final_cum_death = pd.concat([curr_cum_deaths, cum_death_df])
 final_cum_death = final_cum_death.set_index("date")
 
 # write to file
-final_inc_case.to_csv("../../data-truth/MZ/truth_MZ-Incident Cases_Poland.csv")
-final_cum_case.to_csv("../../data-truth/MZ/truth_MZ-Cumulative Cases_Poland.csv")
-final_inc_deaths.to_csv("../../data-truth/MZ/truth_MZ-Incident Deaths_Poland.csv")
-final_cum_death.to_csv("../../data-truth/MZ/truth_MZ-Cumulative Deaths_Poland.csv")
+final_inc_case.sort_values(['date', 'location']).to_csv("../../data-truth/MZ/truth_MZ-Incident Cases_Poland.csv")
+final_cum_case.sort_values(['date', 'location']).to_csv("../../data-truth/MZ/truth_MZ-Cumulative Cases_Poland.csv")
+final_inc_deaths.sort_values(['date', 'location']).to_csv("../../data-truth/MZ/truth_MZ-Incident Deaths_Poland.csv")
+final_cum_death.sort_values(['date', 'location']).to_csv("../../data-truth/MZ/truth_MZ-Cumulative Deaths_Poland.csv")
 
 # clean up
 shutil.rmtree("./poland_unzip")
