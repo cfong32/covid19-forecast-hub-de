@@ -554,10 +554,10 @@ epiforecasts-EpiNow2_secondary,PL13,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,PL14,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,PL15,ECDC,2020-01-01
 epiforecasts-EpiNow2_secondary,PL16,ECDC,2020-01-01
-BIOCOMSC-Gompertz,DE,JHU,2020-01-01
+BIOCOMSC-Gompertz,GM,JHU,2020-01-01
 BIOCOMSC-Gompertz,PL,JHU,2020-01-01
 PL_GRedlarski-DistrictsSum,PL,JHU,2020-01-01
-epiforecasts-EpiExpert_direct,DE,JHU,2020-01-01
+epiforecasts-EpiExpert_direct,GM,JHU,2020-01-01
 epiforecasts-EpiExpert_direct,PL,JHU,2020-01-01
 CovidMetrics-epiBATS,GM,ECDC,2020-01-01
 CovidMetrics-epiBATS,GM01,ECDC,2020-01-01
@@ -597,3 +597,11 @@ HKUST-DNN_DA,GM14,ECDC,2020-01-01
 HKUST-DNN_DA,GM15,ECDC,2020-01-01
 HKUST-DNN_DA,GM16,ECDC,2020-01-01
 DirkBeckmann-Gompertz,GM,ECDC,2020-01-01
+EuroCOVIDhub-baseline,GM,JHU,2020-01-01
+EuroCOVIDhub-baseline,PL,JHU,2020-01-01
+MUNI-ARIMA,GM,JHU,2020-01-01
+MUNI-ARIMA,PL,JHU,2020-01-01
+JBUD-HMXK,GM,JHU,2020-01-01
+JBUD-HMXK,PL,JHU,2020-01-01
+prolix-euclidean,GM,JHU,2020-01-01
+prolix-euclidean,PL,JHU,2020-01-01
