@@ -1,0 +1,256 @@
+forecast_date,target,target_end_date,location,location_name,type,quantile,value
+2021-01-18,1 wk ahead inc death,2021-01-23,GM,Germany,point,NA,5440.8325254262745
+2021-01-18,10 wk ahead inc death,2021-03-27,GM,Germany,point,NA,2224.886817350273
+2021-01-18,11 wk ahead inc death,2021-04-03,GM,Germany,point,NA,1802.033984078974
+2021-01-18,12 wk ahead inc death,2021-04-10,GM,Germany,point,NA,1419.504312681096
+2021-01-18,13 wk ahead inc death,2021-04-17,GM,Germany,point,NA,1079.9242487927381
+2021-01-18,14 wk ahead inc death,2021-04-24,GM,Germany,point,NA,790.533032788668
+2021-01-18,15 wk ahead inc death,2021-05-01,GM,Germany,point,NA,566.4030656896679
+2021-01-18,2 wk ahead inc death,2021-01-30,GM,Germany,point,NA,5725.527482531379
+2021-01-18,3 wk ahead inc death,2021-02-06,GM,Germany,point,NA,5797.827506831862
+2021-01-18,4 wk ahead inc death,2021-02-13,GM,Germany,point,NA,5335.434857648161
+2021-01-18,5 wk ahead inc death,2021-02-20,GM,Germany,point,NA,4838.261460467177
+2021-01-18,6 wk ahead inc death,2021-02-27,GM,Germany,point,NA,4265.879638056261
+2021-01-18,7 wk ahead inc death,2021-03-06,GM,Germany,point,NA,3708.292809890041
+2021-01-18,8 wk ahead inc death,2021-03-13,GM,Germany,point,NA,3183.369886033671
+2021-01-18,9 wk ahead inc death,2021-03-20,GM,Germany,point,NA,2684.966097020469
+2021-01-18,1 wk ahead inc death,2021-01-23,GM01,Baden-Wurttemberg,point,NA,432.585844114266
+2021-01-18,10 wk ahead inc death,2021-03-27,GM01,Baden-Wurttemberg,point,NA,206.6736122775904
+2021-01-18,11 wk ahead inc death,2021-04-03,GM01,Baden-Wurttemberg,point,NA,173.264847389424
+2021-01-18,12 wk ahead inc death,2021-04-10,GM01,Baden-Wurttemberg,point,NA,140.9955025510057
+2021-01-18,13 wk ahead inc death,2021-04-17,GM01,Baden-Wurttemberg,point,NA,110.6018976869491
+2021-01-18,14 wk ahead inc death,2021-04-24,GM01,Baden-Wurttemberg,point,NA,83.3292979685845
+2021-01-18,15 wk ahead inc death,2021-05-01,GM01,Baden-Wurttemberg,point,NA,61.34210648064758
+2021-01-18,2 wk ahead inc death,2021-01-30,GM01,Baden-Wurttemberg,point,NA,427.664500215913
+2021-01-18,3 wk ahead inc death,2021-02-06,GM01,Baden-Wurttemberg,point,NA,419.5552344385997
+2021-01-18,4 wk ahead inc death,2021-02-13,GM01,Baden-Wurttemberg,point,NA,398.8272067182139
+2021-01-18,5 wk ahead inc death,2021-02-20,GM01,Baden-Wurttemberg,point,NA,371.9888085907125
+2021-01-18,6 wk ahead inc death,2021-02-27,GM01,Baden-Wurttemberg,point,NA,340.547452772473
+2021-01-18,7 wk ahead inc death,2021-03-06,GM01,Baden-Wurttemberg,point,NA,308.1879496534544
+2021-01-18,8 wk ahead inc death,2021-03-13,GM01,Baden-Wurttemberg,point,NA,274.9307695800489
+2021-01-18,9 wk ahead inc death,2021-03-20,GM01,Baden-Wurttemberg,point,NA,240.7041087719715
+2021-01-18,1 wk ahead inc death,2021-01-23,GM02,Bavaria,point,NA,870.592770747044
+2021-01-18,10 wk ahead inc death,2021-03-27,GM02,Bavaria,point,NA,278.80894883567987
+2021-01-18,11 wk ahead inc death,2021-04-03,GM02,Bavaria,point,NA,221.2308870576496
+2021-01-18,12 wk ahead inc death,2021-04-10,GM02,Bavaria,point,NA,171.1594046414717
+2021-01-18,13 wk ahead inc death,2021-04-17,GM02,Bavaria,point,NA,128.2238952933841
+2021-01-18,14 wk ahead inc death,2021-04-24,GM02,Bavaria,point,NA,92.6597438455147
+2021-01-18,15 wk ahead inc death,2021-05-01,GM02,Bavaria,point,NA,65.68893927087062
+2021-01-18,2 wk ahead inc death,2021-01-30,GM02,Bavaria,point,NA,915.832970698181
+2021-01-18,3 wk ahead inc death,2021-02-06,GM02,Bavaria,point,NA,916.53896717149
+2021-01-18,4 wk ahead inc death,2021-02-13,GM02,Bavaria,point,NA,807.463340491975
+2021-01-18,5 wk ahead inc death,2021-02-20,GM02,Bavaria,point,NA,706.5988587210038
+2021-01-18,6 wk ahead inc death,2021-02-27,GM02,Bavaria,point,NA,600.6801670879922
+2021-01-18,7 wk ahead inc death,2021-03-06,GM02,Bavaria,point,NA,504.5776406116944
+2021-01-18,8 wk ahead inc death,2021-03-13,GM02,Bavaria,point,NA,419.88980830923026
+2021-01-18,9 wk ahead inc death,2021-03-20,GM02,Bavaria,point,NA,344.3666534464212
+2021-01-18,1 wk ahead inc death,2021-01-23,GM03,Bremen,point,NA,20.63871961855738
+2021-01-18,10 wk ahead inc death,2021-03-27,GM03,Bremen,point,NA,11.43755631456003
+2021-01-18,11 wk ahead inc death,2021-04-03,GM03,Bremen,point,NA,9.6362017809606
+2021-01-18,12 wk ahead inc death,2021-04-10,GM03,Bremen,point,NA,7.86944771537289
+2021-01-18,13 wk ahead inc death,2021-04-17,GM03,Bremen,point,NA,6.186529164757545
+2021-01-18,14 wk ahead inc death,2021-04-24,GM03,Bremen,point,NA,4.664350914502665
+2021-01-18,15 wk ahead inc death,2021-05-01,GM03,Bremen,point,NA,3.430523510414278
+2021-01-18,2 wk ahead inc death,2021-01-30,GM03,Bremen,point,NA,20.96018229263084
+2021-01-18,3 wk ahead inc death,2021-02-06,GM03,Bremen,point,NA,20.97419182926332
+2021-01-18,4 wk ahead inc death,2021-02-13,GM03,Bremen,point,NA,20.53864931808791
+2021-01-18,5 wk ahead inc death,2021-02-20,GM03,Bremen,point,NA,19.5849690068182
+2021-01-18,6 wk ahead inc death,2021-02-27,GM03,Bremen,point,NA,18.19157983355018
+2021-01-18,7 wk ahead inc death,2021-03-06,GM03,Bremen,point,NA,16.6379787021129
+2021-01-18,8 wk ahead inc death,2021-03-13,GM03,Bremen,point,NA,14.989929424629949
+2021-01-18,9 wk ahead inc death,2021-03-20,GM03,Bremen,point,NA,13.23523998730054
+2021-01-18,1 wk ahead inc death,2021-01-23,GM04,Hamburg,point,NA,143.0102260451454
+2021-01-18,10 wk ahead inc death,2021-03-27,GM04,Hamburg,point,NA,56.23945011690164
+2021-01-18,11 wk ahead inc death,2021-04-03,GM04,Hamburg,point,NA,43.8177870610623
+2021-01-18,12 wk ahead inc death,2021-04-10,GM04,Hamburg,point,NA,33.287216405946914
+2021-01-18,13 wk ahead inc death,2021-04-17,GM04,Hamburg,point,NA,24.48956090568724
+2021-01-18,14 wk ahead inc death,2021-04-24,GM04,Hamburg,point,NA,17.383201727546812
+2021-01-18,15 wk ahead inc death,2021-05-01,GM04,Hamburg,point,NA,12.1097686484226
+2021-01-18,2 wk ahead inc death,2021-01-30,GM04,Hamburg,point,NA,168.2976496721622
+2021-01-18,3 wk ahead inc death,2021-02-06,GM04,Hamburg,point,NA,182.904313641096
+2021-01-18,4 wk ahead inc death,2021-02-13,GM04,Hamburg,point,NA,169.8228136380911
+2021-01-18,5 wk ahead inc death,2021-02-20,GM04,Hamburg,point,NA,151.5701867526412
+2021-01-18,6 wk ahead inc death,2021-02-27,GM04,Hamburg,point,NA,128.2963583710732
+2021-01-18,7 wk ahead inc death,2021-03-06,GM04,Hamburg,point,NA,106.47335061850521
+2021-01-18,8 wk ahead inc death,2021-03-13,GM04,Hamburg,point,NA,87.5083493203085
+2021-01-18,9 wk ahead inc death,2021-03-20,GM04,Hamburg,point,NA,70.7420486419462
+2021-01-18,1 wk ahead inc death,2021-01-23,GM05,Hesse,point,NA,483.0763974549009
+2021-01-18,10 wk ahead inc death,2021-03-27,GM05,Hesse,point,NA,137.4600464367524
+2021-01-18,11 wk ahead inc death,2021-04-03,GM05,Hesse,point,NA,108.8109262077039
+2021-01-18,12 wk ahead inc death,2021-04-10,GM05,Hesse,point,NA,84.1017323255051
+2021-01-18,13 wk ahead inc death,2021-04-17,GM05,Hesse,point,NA,63.05806465799359
+2021-01-18,14 wk ahead inc death,2021-04-24,GM05,Hesse,point,NA,45.71300826688582
+2021-01-18,15 wk ahead inc death,2021-05-01,GM05,Hesse,point,NA,32.60780261483636
+2021-01-18,2 wk ahead inc death,2021-01-30,GM05,Hesse,point,NA,489.88541391155
+2021-01-18,3 wk ahead inc death,2021-02-06,GM05,Hesse,point,NA,477.5917527272665
+2021-01-18,4 wk ahead inc death,2021-02-13,GM05,Hesse,point,NA,405.53471972472687
+2021-01-18,5 wk ahead inc death,2021-02-20,GM05,Hesse,point,NA,350.074858842575
+2021-01-18,6 wk ahead inc death,2021-02-27,GM05,Hesse,point,NA,297.4008371362062
+2021-01-18,7 wk ahead inc death,2021-03-06,GM05,Hesse,point,NA,250.2238925063159
+2021-01-18,8 wk ahead inc death,2021-03-13,GM05,Hesse,point,NA,208.0954030242792
+2021-01-18,9 wk ahead inc death,2021-03-20,GM05,Hesse,point,NA,170.4580054047338
+2021-01-18,1 wk ahead inc death,2021-01-23,GM06,Lower Saxony,point,NA,289.5494280026365
+2021-01-18,10 wk ahead inc death,2021-03-27,GM06,Lower Saxony,point,NA,192.9434085027661
+2021-01-18,11 wk ahead inc death,2021-04-03,GM06,Lower Saxony,point,NA,162.6304784033956
+2021-01-18,12 wk ahead inc death,2021-04-10,GM06,Lower Saxony,point,NA,132.7886545292611
+2021-01-18,13 wk ahead inc death,2021-04-17,GM06,Lower Saxony,point,NA,104.31164937677251
+2021-01-18,14 wk ahead inc death,2021-04-24,GM06,Lower Saxony,point,NA,78.54288057202147
+2021-01-18,15 wk ahead inc death,2021-05-01,GM06,Lower Saxony,point,NA,57.660521557282706
+2021-01-18,2 wk ahead inc death,2021-01-30,GM06,Lower Saxony,point,NA,313.9850561472424
+2021-01-18,3 wk ahead inc death,2021-02-06,GM06,Lower Saxony,point,NA,333.6461169965284
+2021-01-18,4 wk ahead inc death,2021-02-13,GM06,Lower Saxony,point,NA,337.1014211489387
+2021-01-18,5 wk ahead inc death,2021-02-20,GM06,Lower Saxony,point,NA,325.8607312351039
+2021-01-18,6 wk ahead inc death,2021-02-27,GM06,Lower Saxony,point,NA,304.3020777253757
+2021-01-18,7 wk ahead inc death,2021-03-06,GM06,Lower Saxony,point,NA,279.006638966306
+2021-01-18,8 wk ahead inc death,2021-03-13,GM06,Lower Saxony,point,NA,251.9916412962354
+2021-01-18,9 wk ahead inc death,2021-03-20,GM06,Lower Saxony,point,NA,222.9802187325726
+2021-01-18,1 wk ahead inc death,2021-01-23,GM07,North Rhine-Westphalia,point,NA,1107.670723469353
+2021-01-18,10 wk ahead inc death,2021-03-27,GM07,North Rhine-Westphalia,point,NA,529.1111340927054
+2021-01-18,11 wk ahead inc death,2021-04-03,GM07,North Rhine-Westphalia,point,NA,429.994036920227
+2021-01-18,12 wk ahead inc death,2021-04-10,GM07,North Rhine-Westphalia,point,NA,339.1540022000104
+2021-01-18,13 wk ahead inc death,2021-04-17,GM07,North Rhine-Westphalia,point,NA,257.9707854361896
+2021-01-18,14 wk ahead inc death,2021-04-24,GM07,North Rhine-Westphalia,point,NA,188.6084407013561
+2021-01-18,15 wk ahead inc death,2021-05-01,GM07,North Rhine-Westphalia,point,NA,134.8680739355678
+2021-01-18,2 wk ahead inc death,2021-01-30,GM07,North Rhine-Westphalia,point,NA,1184.18256812499
+2021-01-18,3 wk ahead inc death,2021-02-06,GM07,North Rhine-Westphalia,point,NA,1221.307367903094
+2021-01-18,4 wk ahead inc death,2021-02-13,GM07,North Rhine-Westphalia,point,NA,1155.388009666168
+2021-01-18,5 wk ahead inc death,2021-02-20,GM07,North Rhine-Westphalia,point,NA,1074.328792845355
+2021-01-18,6 wk ahead inc death,2021-02-27,GM07,North Rhine-Westphalia,point,NA,968.820411008159
+2021-01-18,7 wk ahead inc death,2021-03-06,GM07,North Rhine-Westphalia,point,NA,857.483057490591
+2021-01-18,8 wk ahead inc death,2021-03-13,GM07,North Rhine-Westphalia,point,NA,745.9267994928957
+2021-01-18,9 wk ahead inc death,2021-03-20,GM07,North Rhine-Westphalia,point,NA,635.0929028992664
+2021-01-18,1 wk ahead inc death,2021-01-23,GM08,Rhineland-Palatinate,point,NA,252.1907714736838
+2021-01-18,10 wk ahead inc death,2021-03-27,GM08,Rhineland-Palatinate,point,NA,92.4409234043844
+2021-01-18,11 wk ahead inc death,2021-04-03,GM08,Rhineland-Palatinate,point,NA,74.49973265717306
+2021-01-18,12 wk ahead inc death,2021-04-10,GM08,Rhineland-Palatinate,point,NA,58.456700055770895
+2021-01-18,13 wk ahead inc death,2021-04-17,GM08,Rhineland-Palatinate,point,NA,44.34924515465392
+2021-01-18,14 wk ahead inc death,2021-04-24,GM08,Rhineland-Palatinate,point,NA,32.41171880743962
+2021-01-18,15 wk ahead inc death,2021-05-01,GM08,Rhineland-Palatinate,point,NA,23.2112992280137
+2021-01-18,2 wk ahead inc death,2021-01-30,GM08,Rhineland-Palatinate,point,NA,259.4136510118184
+2021-01-18,3 wk ahead inc death,2021-02-06,GM08,Rhineland-Palatinate,point,NA,257.6525708206277
+2021-01-18,4 wk ahead inc death,2021-02-13,GM08,Rhineland-Palatinate,point,NA,233.263346920845
+2021-01-18,5 wk ahead inc death,2021-02-20,GM08,Rhineland-Palatinate,point,NA,209.1265573462521
+2021-01-18,6 wk ahead inc death,2021-02-27,GM08,Rhineland-Palatinate,point,NA,182.712101284076
+2021-01-18,7 wk ahead inc death,2021-03-06,GM08,Rhineland-Palatinate,point,NA,157.4439319508919
+2021-01-18,8 wk ahead inc death,2021-03-13,GM08,Rhineland-Palatinate,point,NA,134.1090217407805
+2021-01-18,9 wk ahead inc death,2021-03-20,GM08,Rhineland-Palatinate,point,NA,112.32409720795211
+2021-01-18,1 wk ahead inc death,2021-01-23,GM09,Saarland,point,NA,47.83512305973977
+2021-01-18,10 wk ahead inc death,2021-03-27,GM09,Saarland,point,NA,15.50242016646567
+2021-01-18,11 wk ahead inc death,2021-04-03,GM09,Saarland,point,NA,12.51607167112815
+2021-01-18,12 wk ahead inc death,2021-04-10,GM09,Saarland,point,NA,9.8812619871388
+2021-01-18,13 wk ahead inc death,2021-04-17,GM09,Saarland,point,NA,7.575382854980061
+2021-01-18,14 wk ahead inc death,2021-04-24,GM09,Saarland,point,NA,5.613929423657914
+2021-01-18,15 wk ahead inc death,2021-05-01,GM09,Saarland,point,NA,4.087386673996017
+2021-01-18,2 wk ahead inc death,2021-01-30,GM09,Saarland,point,NA,50.70046263766466
+2021-01-18,3 wk ahead inc death,2021-02-06,GM09,Saarland,point,NA,51.25007408434641
+2021-01-18,4 wk ahead inc death,2021-02-13,GM09,Saarland,point,NA,44.62534490008347
+2021-01-18,5 wk ahead inc death,2021-02-20,GM09,Saarland,point,NA,38.635952637986364
+2021-01-18,6 wk ahead inc death,2021-02-27,GM09,Saarland,point,NA,32.5729821621478
+2021-01-18,7 wk ahead inc death,2021-03-06,GM09,Saarland,point,NA,27.29621659768398
+2021-01-18,8 wk ahead inc death,2021-03-13,GM09,Saarland,point,NA,22.82253366118584
+2021-01-18,9 wk ahead inc death,2021-03-20,GM09,Saarland,point,NA,18.90854761992397
+2021-01-18,1 wk ahead inc death,2021-01-23,GM10,Schleswig-Holstein,point,NA,119.4201212434189
+2021-01-18,10 wk ahead inc death,2021-03-27,GM10,Schleswig-Holstein,point,NA,166.5988202091936
+2021-01-18,11 wk ahead inc death,2021-04-03,GM10,Schleswig-Holstein,point,NA,144.6754842429199
+2021-01-18,12 wk ahead inc death,2021-04-10,GM10,Schleswig-Holstein,point,NA,120.6804967555012
+2021-01-18,13 wk ahead inc death,2021-04-17,GM10,Schleswig-Holstein,point,NA,96.1560628203131
+2021-01-18,14 wk ahead inc death,2021-04-24,GM10,Schleswig-Holstein,point,NA,73.00035766814129
+2021-01-18,15 wk ahead inc death,2021-05-01,GM10,Schleswig-Holstein,point,NA,53.77032648569467
+2021-01-18,2 wk ahead inc death,2021-01-30,GM10,Schleswig-Holstein,point,NA,140.5849528638424
+2021-01-18,3 wk ahead inc death,2021-02-06,GM10,Schleswig-Holstein,point,NA,163.8656122030228
+2021-01-18,4 wk ahead inc death,2021-02-13,GM10,Schleswig-Holstein,point,NA,182.3803698580556
+2021-01-18,5 wk ahead inc death,2021-02-20,GM10,Schleswig-Holstein,point,NA,195.818529956265
+2021-01-18,6 wk ahead inc death,2021-02-27,GM10,Schleswig-Holstein,point,NA,203.3888328068007
+2021-01-18,7 wk ahead inc death,2021-03-06,GM10,Schleswig-Holstein,point,NA,204.411995778759
+2021-01-18,8 wk ahead inc death,2021-03-13,GM10,Schleswig-Holstein,point,NA,198.134548930391
+2021-01-18,9 wk ahead inc death,2021-03-20,GM10,Schleswig-Holstein,point,NA,184.8687200981522
+2021-01-18,1 wk ahead inc death,2021-01-23,GM11,Brandenburg,point,NA,285.1704057584123
+2021-01-18,10 wk ahead inc death,2021-03-27,GM11,Brandenburg,point,NA,104.1328652575216
+2021-01-18,11 wk ahead inc death,2021-04-03,GM11,Brandenburg,point,NA,81.3749386843607
+2021-01-18,12 wk ahead inc death,2021-04-10,GM11,Brandenburg,point,NA,61.90019936754865
+2021-01-18,13 wk ahead inc death,2021-04-17,GM11,Brandenburg,point,NA,45.498792879082806
+2021-01-18,14 wk ahead inc death,2021-04-24,GM11,Brandenburg,point,NA,32.20696722251338
+2021-01-18,15 wk ahead inc death,2021-05-01,GM11,Brandenburg,point,NA,22.33974205988425
+2021-01-18,2 wk ahead inc death,2021-01-30,GM11,Brandenburg,point,NA,311.4705545602674
+2021-01-18,3 wk ahead inc death,2021-02-06,GM11,Brandenburg,point,NA,321.9646831346581
+2021-01-18,4 wk ahead inc death,2021-02-13,GM11,Brandenburg,point,NA,294.4370104072961
+2021-01-18,5 wk ahead inc death,2021-02-20,GM11,Brandenburg,point,NA,263.0594967770018
+2021-01-18,6 wk ahead inc death,2021-02-27,GM11,Brandenburg,point,NA,226.4576402272755
+2021-01-18,7 wk ahead inc death,2021-03-06,GM11,Brandenburg,point,NA,191.2799957188852
+2021-01-18,8 wk ahead inc death,2021-03-13,GM11,Brandenburg,point,NA,159.0685543964905
+2021-01-18,9 wk ahead inc death,2021-03-20,GM11,Brandenburg,point,NA,129.7749615935557
+2021-01-18,1 wk ahead inc death,2021-01-23,GM12,Mecklenburg-Vorpommern,point,NA,72.5976019110976
+2021-01-18,10 wk ahead inc death,2021-03-27,GM12,Mecklenburg-Vorpommern,point,NA,38.30187585414181
+2021-01-18,11 wk ahead inc death,2021-04-03,GM12,Mecklenburg-Vorpommern,point,NA,30.77900936352366
+2021-01-18,12 wk ahead inc death,2021-04-10,GM12,Mecklenburg-Vorpommern,point,NA,24.01377293161344
+2021-01-18,13 wk ahead inc death,2021-04-17,GM12,Mecklenburg-Vorpommern,point,NA,18.06367164651487
+2021-01-18,14 wk ahead inc death,2021-04-24,GM12,Mecklenburg-Vorpommern,point,NA,13.04945416382457
+2021-01-18,15 wk ahead inc death,2021-05-01,GM12,Mecklenburg-Vorpommern,point,NA,9.21129666028382
+2021-01-18,2 wk ahead inc death,2021-01-30,GM12,Mecklenburg-Vorpommern,point,NA,82.4219901605435
+2021-01-18,3 wk ahead inc death,2021-02-06,GM12,Mecklenburg-Vorpommern,point,NA,88.7965528883202
+2021-01-18,4 wk ahead inc death,2021-02-13,GM12,Mecklenburg-Vorpommern,point,NA,89.7684298436435
+2021-01-18,5 wk ahead inc death,2021-02-20,GM12,Mecklenburg-Vorpommern,point,NA,84.7679562668674
+2021-01-18,6 wk ahead inc death,2021-02-27,GM12,Mecklenburg-Vorpommern,point,NA,75.0478594825339
+2021-01-18,7 wk ahead inc death,2021-03-06,GM12,Mecklenburg-Vorpommern,point,NA,64.8083685744809
+2021-01-18,8 wk ahead inc death,2021-03-13,GM12,Mecklenburg-Vorpommern,point,NA,55.44028947962224
+2021-01-18,9 wk ahead inc death,2021-03-20,GM12,Mecklenburg-Vorpommern,point,NA,46.541072944360536
+2021-01-18,1 wk ahead inc death,2021-01-23,GM13,Saxony,point,NA,610.3158017167993
+2021-01-18,10 wk ahead inc death,2021-03-27,GM13,Saxony,point,NA,112.7555803206387
+2021-01-18,11 wk ahead inc death,2021-04-03,GM13,Saxony,point,NA,84.0434042600495
+2021-01-18,12 wk ahead inc death,2021-04-10,GM13,Saxony,point,NA,61.26944760509396
+2021-01-18,13 wk ahead inc death,2021-04-17,GM13,Saxony,point,NA,43.37983215583311
+2021-01-18,14 wk ahead inc death,2021-04-24,GM13,Saxony,point,NA,29.72844680680929
+2021-01-18,15 wk ahead inc death,2021-05-01,GM13,Saxony,point,NA,20.06244184928211
+2021-01-18,2 wk ahead inc death,2021-01-30,GM13,Saxony,point,NA,598.6914135832438
+2021-01-18,3 wk ahead inc death,2021-02-06,GM13,Saxony,point,NA,558.4408689427977
+2021-01-18,4 wk ahead inc death,2021-02-13,GM13,Saxony,point,NA,470.8905574406385
+2021-01-18,5 wk ahead inc death,2021-02-20,GM13,Saxony,point,NA,389.8047933186713
+2021-01-18,6 wk ahead inc death,2021-02-27,GM13,Saxony,point,NA,312.5925119662577
+2021-01-18,7 wk ahead inc death,2021-03-06,GM13,Saxony,point,NA,246.7205499117953
+2021-01-18,8 wk ahead inc death,2021-03-13,GM13,Saxony,point,NA,192.62445196304822
+2021-01-18,9 wk ahead inc death,2021-03-20,GM13,Saxony,point,NA,148.213824303649
+2021-01-18,1 wk ahead inc death,2021-01-23,GM14,Saxony-Anhalt,point,NA,179.6030823573906
+2021-01-18,10 wk ahead inc death,2021-03-27,GM14,Saxony-Anhalt,point,NA,95.3772091416977
+2021-01-18,11 wk ahead inc death,2021-04-03,GM14,Saxony-Anhalt,point,NA,78.7622483133285
+2021-01-18,12 wk ahead inc death,2021-04-10,GM14,Saxony-Anhalt,point,NA,63.02850355372339
+2021-01-18,13 wk ahead inc death,2021-04-17,GM14,Saxony-Anhalt,point,NA,48.567815026420945
+2021-01-18,14 wk ahead inc death,2021-04-24,GM14,Saxony-Anhalt,point,NA,35.91821795574275
+2021-01-18,15 wk ahead inc death,2021-05-01,GM14,Saxony-Anhalt,point,NA,25.943135332337718
+2021-01-18,2 wk ahead inc death,2021-01-30,GM14,Saxony-Anhalt,point,NA,190.5946869730725
+2021-01-18,3 wk ahead inc death,2021-02-06,GM14,Saxony-Anhalt,point,NA,197.12631255691
+2021-01-18,4 wk ahead inc death,2021-02-13,GM14,Saxony-Anhalt,point,NA,184.1110041407594
+2021-01-18,5 wk ahead inc death,2021-02-20,GM14,Saxony-Anhalt,point,NA,173.0400429680265
+2021-01-18,6 wk ahead inc death,2021-02-27,GM14,Saxony-Anhalt,point,NA,160.0955335065641
+2021-01-18,7 wk ahead inc death,2021-03-06,GM14,Saxony-Anhalt,point,NA,145.5382048701577
+2021-01-18,8 wk ahead inc death,2021-03-13,GM14,Saxony-Anhalt,point,NA,129.5190193118329
+2021-01-18,9 wk ahead inc death,2021-03-20,GM14,Saxony-Anhalt,point,NA,112.4480611328901
+2021-01-18,1 wk ahead inc death,2021-01-23,GM15,Thuringia,point,NA,291.1149993982724
+2021-01-18,10 wk ahead inc death,2021-03-27,GM15,Thuringia,point,NA,92.9175852684836
+2021-01-18,11 wk ahead inc death,2021-04-03,GM15,Thuringia,point,NA,71.84047120655086
+2021-01-18,12 wk ahead inc death,2021-04-10,GM15,Thuringia,point,NA,54.06100129687124
+2021-01-18,13 wk ahead inc death,2021-04-17,GM15,Thuringia,point,NA,39.341879294758414
+2021-01-18,14 wk ahead inc death,2021-04-24,GM15,Thuringia,point,NA,27.59801348950284
+2021-01-18,15 wk ahead inc death,2021-05-01,GM15,Thuringia,point,NA,18.9905786531216
+2021-01-18,2 wk ahead inc death,2021-01-30,GM15,Thuringia,point,NA,311.1006627853803
+2021-01-18,3 wk ahead inc death,2021-02-06,GM15,Thuringia,point,NA,315.0013189331762
+2021-01-18,4 wk ahead inc death,2021-02-13,GM15,Thuringia,point,NA,282.6029797406699
+2021-01-18,5 wk ahead inc death,2021-02-20,GM15,Thuringia,point,NA,248.9601868346507
+2021-01-18,6 wk ahead inc death,2021-02-27,GM15,Thuringia,point,NA,212.1445182183699
+2021-01-18,7 wk ahead inc death,2021-03-06,GM15,Thuringia,point,NA,177.2957046509887
+2021-01-18,8 wk ahead inc death,2021-03-13,GM15,Thuringia,point,NA,145.7541580166474
+2021-01-18,9 wk ahead inc death,2021-03-20,GM15,Thuringia,point,NA,117.4952686374199
+2021-01-18,1 wk ahead inc death,2021-01-23,GM16,Berlin,point,NA,235.46050905555438
+2021-01-18,10 wk ahead inc death,2021-03-27,GM16,Berlin,point,NA,94.1853811507897
+2021-01-18,11 wk ahead inc death,2021-04-03,GM16,Berlin,point,NA,74.15745885951772
+2021-01-18,12 wk ahead inc death,2021-04-10,GM16,Berlin,point,NA,56.856968759260056
+2021-01-18,13 wk ahead inc death,2021-04-17,GM16,Berlin,point,NA,42.14918443844837
+2021-01-18,14 wk ahead inc death,2021-04-24,GM16,Berlin,point,NA,30.10500325462445
+2021-01-18,15 wk ahead inc death,2021-05-01,GM16,Berlin,point,NA,21.07912272901196
+2021-01-18,2 wk ahead inc death,2021-01-30,GM16,Berlin,point,NA,259.740766892877
+2021-01-18,3 wk ahead inc death,2021-02-06,GM16,Berlin,point,NA,271.21156856066443
+2021-01-18,4 wk ahead inc death,2021-02-13,GM16,Berlin,point,NA,258.6796536899681
+2021-01-18,5 wk ahead inc death,2021-02-20,GM16,Berlin,point,NA,235.0407383672431
+2021-01-18,6 wk ahead inc death,2021-02-27,GM16,Berlin,point,NA,202.6287744674068
+2021-01-18,7 wk ahead inc death,2021-03-06,GM16,Berlin,point,NA,170.9073332874189
+2021-01-18,8 wk ahead inc death,2021-03-13,GM16,Berlin,point,NA,142.5646080860445
+2021-01-18,9 wk ahead inc death,2021-03-20,GM16,Berlin,point,NA,116.81236559835301

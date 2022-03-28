@@ -1,0 +1,25 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.01,239
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.1,263
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.15,269
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.025,246
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.2,274
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.25,278
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.3,282
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.35,285
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.4,289
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.45,292
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.05,254
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.5,295
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.55,298
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.6,302
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.65,306
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.7,309
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.75,313
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.8,318
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.85,323
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.9,330
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.95,340
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.975,348
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","quantile",0.99,360
+"2021-06-28","1 wk ahead inc death","2021-07-03","GM","point",0.5,295

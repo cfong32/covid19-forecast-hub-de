@@ -49,7 +49,12 @@ timezeros <- sort(unique(dat_evaluation$ECDC$timezero), decreasing = TRUE)
 models <- sort(unique(dat_evaluation$ECDC$model))
 to_exclude <- c("JGU_UHH-SMM", "IHME-CurveFit", "Imperial-ensemble1", "Imperial-ensemble2", "YYG-ParamSearch")
 models <- models[!models %in% to_exclude]
-locations <- c("GM", "PL")
+
+state_codes_gm <- read.csv("https://raw.githubusercontent.com/KITmetricslab/covid19-forecast-hub-de/master/template/state_codes_germany.csv")
+state_codes_pl <- read.csv("https://raw.githubusercontent.com/KITmetricslab/covid19-forecast-hub-de/master/template/state_codes_poland.csv")
+
+locations <- c("GM", "PL", head(state_codes_gm$state_code, 16), head(state_codes_pl$state_code, 16))
+names(locations) <- c("Germany", "Poland", head(state_codes_gm$state_name, 16), head(state_codes_pl$state_name, 16))
 
 # function for time series plot based on evaluation data:
 plot_from_eval <- function(dat_eval, model, location,

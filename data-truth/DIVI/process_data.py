@@ -73,8 +73,9 @@ for col in outputs:
     df_agg = pd.DataFrame()
 
     for idx, file in enumerate(files):
-
+        
         df = pd.read_csv(file)
+        df.rename(columns={'faelle_covid_aktuell_invasiv_beatmet':'faelle_covid_aktuell_beatmet'}, inplace=True)
         correct_idx = all(elem in list(df) for elem in cols)
 
         # filter out dfs with wrong format

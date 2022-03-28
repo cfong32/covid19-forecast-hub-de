@@ -1,0 +1,20 @@
+"location","forecast_date","target_end_date","target","type","quantile","value"
+"PL","2022-02-20","2022-02-26","1 wk ahead inc case","point",NA,113199
+"PL","2022-02-20","2022-03-05","2 wk ahead inc case","point",NA,91006
+"PL","2022-02-20","2022-03-12","3 wk ahead inc case","point",NA,79111
+"PL","2022-02-20","2022-03-19","4 wk ahead inc case","point",NA,73748
+"PL","2022-02-20","2022-03-26","5 wk ahead inc case","point",NA,73766
+"PL","2022-02-20","2022-04-02","6 wk ahead inc case","point",NA,78763
+"PL","2022-02-20","2022-04-09","7 wk ahead inc case","point",NA,89325
+"PL","2022-02-20","2022-04-16","8 wk ahead inc case","point",NA,107043
+"PL","2022-02-20","2022-04-23","9 wk ahead inc case","point",NA,134389
+"PL","2022-02-20","2022-04-30","10 wk ahead inc case","point",NA,175055
+"PL","2022-02-20","2022-05-07","11 wk ahead inc case","point",NA,230381
+"PL","2022-02-20","2022-05-14","12 wk ahead inc case","point",NA,295214
+"PL","2022-02-20","2022-05-21","13 wk ahead inc case","point",NA,372970
+"PL","2022-02-20","2022-05-28","14 wk ahead inc case","point",NA,469851
+"PL","2022-02-20","2022-06-04","15 wk ahead inc case","point",NA,594737
+"PL","2022-02-20","2022-06-11","16 wk ahead inc case","point",NA,747587
+"PL","2022-02-20","2022-06-18","17 wk ahead inc case","point",NA,913966
+"PL","2022-02-20","2022-06-25","18 wk ahead inc case","point",NA,1068792
+"PL","2022-02-20","2022-07-02","19 wk ahead inc case","point",NA,1178736

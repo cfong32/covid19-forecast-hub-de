@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 
@@ -60,11 +61,57 @@ df = df[['forecast_date', 'target', 'target_end_date', 'location', 'type',
        'quantile', 'value', 'timezero', 'model', 'truth_data_source',
        'shift_ECDC', 'shift_JHU', 'first_commit_date']]
 
-# export csv
-df.to_csv('../data/forecasts_to_plot_archive.csv', index=False)
-
-# light version to load faster
-df = df[(df.timezero.isin(pd.Series(df.timezero.unique()).nlargest(8)) & df.location.isin(['GM', 'PL'])) | 
+# export csv - light version to load faster
+df_light = df[(df.timezero.isin(pd.Series(df.timezero.unique()).nlargest(8)) & df.location.isin(['GM', 'PL'])) | 
         (df.timezero.isin(pd.Series(df.timezero.unique()).nlargest(2)) & (~df.location.isin(['GM', 'PL'])))]
 
-df.to_csv('../data/forecasts_to_plot.csv', index=False)
+df_light.to_csv('../data/forecasts_to_plot.csv', index=False)
+
+# export csv for archive - limited to 100 MB
+def export_limited_csv(df, path = '../data/forecasts_to_plot_archive.csv', 
+                     remove_models = ['KIT-extrapolation_baseline', 'KIT-time_series_baseline'], 
+                     max_size = 100):
+    df.to_csv(path, index=False)
+    file_size = os.path.getsize(path)/(1024*1024)
+    print('Current file size: ', file_size)
+    
+    # remove selected models
+    if file_size > max_size:
+        if len(remove_models) != 0:        
+            df = df[~df.model.isin(remove_models)]
+            df.to_csv(path, index=False)
+            file_size = os.path.getsize(path)/(1024*1024)
+            print('The following models have been removed: ', remove_models)
+            print('New file size: ', file_size)
+    
+    # first step: remove rows from beginning to reduce file to approx. 100 MB with rough guess
+    if file_size > max_size:
+        dates = df.timezero.sort_values().unique()
+        nrows_to_cut = (1 - max_size/file_size)*len(df) # estimated number of rows to cut
+        old_rows = 0
+        for d in dates: # we remove dates from the beginning until we exceed nrows_to_cut
+            if old_rows < nrows_to_cut:
+                old_rows += len(df[df.timezero == d])
+                if old_rows >= nrows_to_cut:
+                    cut_date = d
+                    break
+        df = df[(df.timezero > cut_date) | df.location.isin(['GM', 'PL'])]
+        df.to_csv(path, index=False)
+        file_size = os.path.getsize(path)/(1024*1024)
+        print('Excluded subnational forecasts up to: ', cut_date)
+        print('New file size: ', file_size)
+    
+    # second step: remove one date after the other (subnational only) to reduce below 100 MB
+    while file_size > max_size:
+        min_date = df[~df.location.isin(['GM', 'PL'])].timezero.unique().min()
+        df = df[(df.timezero != min_date) | df.location.isin(['GM', 'PL'])]
+        df.to_csv(path, index=False)
+        file_size = os.path.getsize(path)/(1024*1024)
+        print('Subnational forecast removed for: ', min_date)
+        print('New file size: ', file_size)
+    
+    print('Done. Current file size ({} MB) is below limit.'.format(file_size))
+
+export_limited_csv(df, path = '../data/forecasts_to_plot_archive.csv', 
+                 remove_models = ['KIT-extrapolation_baseline', 'KIT-time_series_baseline'], 
+                 max_size = 100)

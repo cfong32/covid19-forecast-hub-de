@@ -45,3 +45,6 @@ Imperial-DeCa,JHU
 epiforecasts-EpiNow2_secondary,JHU
 UVA-Ensemble,JHU
 epiforecasts-EpiExpert_Rt,JHU
+CovidMetrics-epiBATS,ECDC
+HKUST-DNN_DA,ECDC
+DirkBeckmann-Gompertz, ECDC

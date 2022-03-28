@@ -103,6 +103,8 @@ compute_ensemble <- function(forecast_date,
     }
   
   members <- models_to_include$model[models_to_include[, colname_models_to_include]]
+  forecasts <- NULL
+  members_to_remove <- NULL # store names of models which can't be included here
   
   # read in forecast data:
   for(i in 1:length(members)){
@@ -120,34 +122,48 @@ compute_ensemble <- function(forecast_date,
     to_add <- to_add[to_add$target %in% paste(1:4, "wk ahead", inc_or_cum, target_type) &
                        to_add$location %in% location &
                        to_add$type == "quantile", ]
-    # add model name:
-    to_add$model <- members[i]
     
-    # shift according to truth data source for national level forecasts:
-    if(nchar(location) == 2){
-      all_shifts <- get_shift(model = members[i],
-                              dat_truth = dat_truth,
-                              truth_data_use = truth_data_use,
-                              date = get_last_saturday(forecast_date))
-      shift <- all_shifts[all_shifts$location == location &
-                            all_shifts$target == paste(inc_or_cum, target_type), "shift_ECDC"]
+    if(nrow(to_add) > 0){
+      # check all quantiles are there:
+      if(nrow(to_add) != 4*23) stop("There seem to be missing horizons for ", members[i], ", ", location, ", ", target_type)
+      
+      # add model name:
+      to_add$model <- members[i]
+      
+      # shift according to truth data source for national level forecasts:
+      if(nchar(location) == 2){
+        all_shifts <- get_shift(model = members[i],
+                                dat_truth = dat_truth,
+                                truth_data_use = truth_data_use,
+                                date = get_last_saturday(forecast_date))
+        shift <- all_shifts[all_shifts$location == location &
+                              all_shifts$target == paste(inc_or_cum, target_type), "shift_ECDC"]
+      }else{
+        shift <- 0
+      }
+      
+      if(length(shift) != 1 |
+         (inc_or_cum == "inc" & shift > 0)){
+        stop("Something seems to go wrong when shifting forecasts to ECDC data.")
+      }
+      to_add$value <- to_add$value + shift
+      
+      # add to forecasts data.frame:
+      if(is.null(forecasts)){
+        forecasts <- to_add
+      }else{
+        forecasts <- rbind(forecasts, to_add)
+      }
     }else{
-      shift <- 0
-    }
-    
-    if(length(shift) != 1 |
-       (inc_or_cum == "inc" & shift > 0)){
-      stop("Something seems to go wrong when shifting forecasts to ECDC data.")
-    }
-    to_add$value <- to_add$value + shift
-    
-    # add to forecasts data.frame:
-    if(i == 1){
-      forecasts <- to_add
-    }else{
-      forecasts <- rbind(forecasts, to_add)
+      # remove from members if not actually present:
+      cat("Removing", members[i], "for", location, inc_or_cum, 
+          target_type, "as no forecasts found.\n")
+      members_to_remove <- c(members_to_remove, members[i])
     }
   }
+  
+  # remove models for which no forecasts were available
+  members <- members[!members %in% members_to_remove]
   
   # aggregate:
   
@@ -170,7 +186,10 @@ compute_ensemble <- function(forecast_date,
     inverse_wis_weights <- get_inverse_wis_weights(forecast_date = forecast_date,
                                                    members = members, location = location, eval = eval,
                                                    target_type = target_type, inc_or_cum = inc_or_cum)
-    if(nrow(inverse_wis_weights) != length(members)) stop("Weights could not be computed for all member models.")
+    # note: not all elements of "members" may actually be represented in forecasts$model, therefore use unique(forecasts$model) here
+    if(nrow(inverse_wis_weights) != length(members) | any(!members %in% inverse_wis_weights$model)){
+      stop("Weights could not be computed for all member models.")
+    }
     forecasts <- merge(forecasts, inverse_wis_weights, by = "model", all.x = TRUE)
     # apply weighting:
     forecasts$value <- forecasts$value * forecasts$inverse_wis_weight

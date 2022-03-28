@@ -18,12 +18,12 @@ def wide_to_long(df):
 
     Parameters
     ----------
-    df : TYPE
+    df : 
         dataframe in wide format
 
     Returns
     -------
-    df : TYPE
+    df : 
         dataframe in long format
 
     """
@@ -49,11 +49,12 @@ def wide_to_long(df):
     
     return df
 
-
+# load in worksheets from https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/edit#gid=1841152698
 gc = pygsheets.authorize(service_account_env_var ='SHEETS_CREDS')
 #gc = pygsheets.authorize(service_file='creds.json')
 a = gc.open_by_key('1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E')
 
+# change to voivodeships data
 worksheet = a.worksheet('title','Wzrost w województwach')
 
 abbr_vois = {"Śląskie": "PL83", "Mazowieckie": "PL78", "Małopolskie": "PL77", 
@@ -64,11 +65,11 @@ abbr_vois = {"Śląskie": "PL83", "Mazowieckie": "PL78", "Małopolskie": "PL77",
              "Zachodniopomorskie": "PL87", "Warmińsko-Mazurskie": "PL85", 
              "Lubuskie": "PL76", "Poland": "PL"}
 
-inc_case_rows = range(8, 25)
-cum_case_rows = range(31, 48)
-inc_death_rows = range(51, 68)
-cum_death_rows = range(71, 88)
-
+# Relevent rows in the worksheet
+inc_case_rows = range(11, 28)
+cum_case_rows = range(34, 51)
+inc_death_rows = range(54, 71)
+cum_death_rows = range(74, 91)
 
 result = []
 
@@ -77,11 +78,14 @@ for idx, relevant_rows in enumerate([inc_case_rows, cum_case_rows, inc_death_row
     
     rows = []
     
+    # crawl all rows in relevant rows
     for row in relevant_rows:
         rows.append(worksheet.get_row(row))
         time.sleep(1)
         #print("debug")
-        
+    
+    # the crawled data does not contain information about the year
+    # handle turn of the year manually 
     eoy = rows[0].index("31.12")
     first_year = rows[0][:eoy + 1]
     second_year = rows[0][eoy + 1:]
@@ -89,7 +93,6 @@ for idx, relevant_rows in enumerate([inc_case_rows, cum_case_rows, inc_death_row
     first_year_compl = [x + ".2020" for x in first_year]
     sec_year_compl = [x + ".2021" for x in second_year]
     first_year_compl[0] = first_year_compl[0][:-5]
-    
     
     rows[0] = first_year_compl + sec_year_compl
     
@@ -105,13 +108,14 @@ for idx, relevant_rows in enumerate([inc_case_rows, cum_case_rows, inc_death_row
         
     if "Dane" in list(df)[-1]:
         df = df.drop(df.columns[-1],axis=1)
-        
+    
+    # adapt to hub format
     df = df.rename(columns={"Województwo": "location_name"})
     df = df.set_index("location_name")
     df = df.replace(r'^\s*$', np.nan, regex=True)
     df = df.astype(float)
     
-    # for cum cases, the sum has to be extracted from different worksheet because of bulk reporting
+    # for cum cases, the sum has to be extracted from a different worksheet because of bulk reporting
     if idx == 1:
         
         worksheet_cases = a.worksheet('title','Wzrost')
@@ -120,7 +124,7 @@ for idx, relevant_rows in enumerate([inc_case_rows, cum_case_rows, inc_death_row
         cum_cases_pol = [float(x) for x in cum_cases_pol if not x.strip()==""]
         df.loc["Poland"] = cum_cases_pol
     
-    # for cum deaths, the sum has to be extracted from different worksheet because of bulk reporting
+    # for cum deaths, the sum has to be extracted from a different worksheet because of bulk reporting
     elif idx == 3:
         
         worksheet_cases = a.worksheet('title','Wzrost')
@@ -142,7 +146,7 @@ df_inc_cases = wide[0]
 df_inc_cases.loc["Poland"] = inc_cases.tolist()
 wide[0] = df_inc_cases
 
-# calculate ncn deaths for poland
+# calculate inc deaths for poland
 cum_deaths = wide[3].loc["Poland"].values.tolist()
 inc_deaths = np.asarray(cum_deaths) - np.asarray([0] + cum_deaths[:-1])
  

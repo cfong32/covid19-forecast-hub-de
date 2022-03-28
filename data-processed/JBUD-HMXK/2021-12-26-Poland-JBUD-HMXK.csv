@@ -1,0 +1,20 @@
+"location","forecast_date","target_end_date","target","type","quantile","value"
+"PL","2021-12-26","2022-01-01","1 wk ahead inc death","point",NA,845
+"PL","2021-12-26","2022-01-08","2 wk ahead inc death","point",NA,661
+"PL","2021-12-26","2022-01-15","3 wk ahead inc death","point",NA,471
+"PL","2021-12-26","2022-01-22","4 wk ahead inc death","point",NA,333
+"PL","2021-12-26","2022-01-29","5 wk ahead inc death","point",NA,265
+"PL","2021-12-26","2022-02-05","6 wk ahead inc death","point",NA,265
+"PL","2021-12-26","2022-02-12","7 wk ahead inc death","point",NA,307
+"PL","2021-12-26","2022-02-19","8 wk ahead inc death","point",NA,364
+"PL","2021-12-26","2022-02-26","9 wk ahead inc death","point",NA,432
+"PL","2021-12-26","2022-03-05","10 wk ahead inc death","point",NA,513
+"PL","2021-12-26","2022-03-12","11 wk ahead inc death","point",NA,608
+"PL","2021-12-26","2022-03-19","12 wk ahead inc death","point",NA,721
+"PL","2021-12-26","2022-03-26","13 wk ahead inc death","point",NA,849
+"PL","2021-12-26","2022-04-02","14 wk ahead inc death","point",NA,941
+"PL","2021-12-26","2022-04-09","15 wk ahead inc death","point",NA,920
+"PL","2021-12-26","2022-04-16","16 wk ahead inc death","point",NA,780
+"PL","2021-12-26","2022-04-23","17 wk ahead inc death","point",NA,585
+"PL","2021-12-26","2022-04-30","18 wk ahead inc death","point",NA,410
+"PL","2021-12-26","2022-05-07","19 wk ahead inc death","point",NA,298

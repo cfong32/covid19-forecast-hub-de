@@ -3,7 +3,7 @@ name: "MZ"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 12,22 * * *"
+    - cron: "30 9 * * *"
   
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@master
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+        fetch-depth: 2 # otherwise, you will failed to push refs to dest repo
 
     - name: Setup Python
       uses: actions/setup-python@v2
@@ -30,7 +30,7 @@ jobs:
         SHEETS_CREDS: ${{ secrets.SHEETS_CREDENTIALS }}
       run: |
         cd ./code/auto_download 
-        python3 ./truth_poland_p.py
+        python3 ./MZ_download.py
         cd ../../
    
     - name: Commit files
