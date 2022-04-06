@@ -87,6 +87,12 @@ matched_source = df_temp.dropna().groupby(id_cols).apply(
 
 matched_source['quantile'].replace({'point': None}, inplace=True)
 
+print(df.dtypes)
+print(matched_source.dtypes)
+
+print(df.isnull().sum())
+print(matched_source.isnull().sum())
+
 df = df.merge(matched_source, how='left', left_on=id_cols, right_on=id_cols)
 
 df['saturday0'] = df.timezero - pd.to_timedelta('2 days')
