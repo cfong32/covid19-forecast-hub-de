@@ -87,6 +87,8 @@ matched_source = df_temp.dropna().groupby(id_cols).apply(
 
 matched_source['quantile'].replace({'point': None}, inplace=True)
 
+matched_source['quantile'] = matched_source['quantile'].astype('float64')
+
 print(df.dtypes)
 print(matched_source.dtypes)
 
