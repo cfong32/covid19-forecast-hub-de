@@ -112,6 +112,14 @@ def export_limited_csv(df, path = '../data/forecasts_to_plot_archive.csv',
     
     print('Done. Current file size ({} MB) is below limit.'.format(file_size))
 
+# only keep cumulative forecasts from first evaluation period
+df = df[~ (df.target.str.contains('cum') & 
+           ((pd.to_datetime(df.target_end_date) > '2020-12-19') | (pd.to_datetime(df.target_end_date) < '2020-10-12')))]
+
+# only keep additional baselines for first evaluation period
+df = df[~ (df.model.isin(['KIT-extrapolation_baseline', 'KIT-time_series_baseline']) & 
+           ((pd.to_datetime(df.target_end_date) > '2020-12-19') | (pd.to_datetime(df.target_end_date) < '2020-10-12')))]
+
 export_limited_csv(df, path = '../data/forecasts_to_plot_archive.csv', 
-                 remove_models = ['KIT-extrapolation_baseline', 'KIT-time_series_baseline'], 
+                 remove_models = [], 
                  max_size = 100)
