@@ -1,4 +1,4 @@
-forecast_date,target,target_end_date,location,type,quantile,
+forecast_date,target,target_end_date,location,type,quantile,value
 2022-05-30,1 wk ahead cum death,2022-06-04,PL,point,NA,116365
 2022-05-30,1 wk ahead cum death,2022-06-04,PL,quantile,0.01,116351
 2022-05-30,1 wk ahead cum death,2022-06-04,PL,quantile,0.025,116351
