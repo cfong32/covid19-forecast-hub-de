@@ -1,0 +1,25 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.01,0
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.025,0
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.05,0
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.1,72969
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.15,106676
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.2,176541
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.25,183931
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.3,188084
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.35,205194
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.4,208375
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.45,213551
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.5,226069
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.55,237698
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.6,243877
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.65,256790
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.7,277586
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.75,302186
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.8,320209
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.85,392593
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.9,449680
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.95,560793
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.975,679136
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","quantile",0.99,831261
+"2022-06-05","1 wk ahead inc case","2022-06-11","GM","point",NA,226069
