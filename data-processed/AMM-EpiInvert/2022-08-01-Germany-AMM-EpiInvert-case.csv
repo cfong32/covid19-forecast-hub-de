@@ -1,0 +1,5 @@
+"forecast_date","target","target_end_date","location","type","quantile","value"
+"2022-08-01","1 wk ahead inc case","2022-08-06","GM","point",NA,466825
+"2022-08-01","2 wk ahead inc case","2022-08-13","GM","point",NA,452570
+"2022-08-01","3 wk ahead inc case","2022-08-20","GM","point",NA,500312
+"2022-08-01","4 wk ahead inc case","2022-08-27","GM","point",NA,620820
